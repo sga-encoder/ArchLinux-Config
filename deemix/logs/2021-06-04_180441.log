@@ -1,0 +1,2132 @@
+2021-06-04 18:04:41,816 - [INFO] Linux-5.12.6-arch1-1-x86_64-with-glibc2.7 - Python 3.8.7, deemix 2.0.16
+2021-06-04 18:49:46,422 - [INFO] Generating queue item for: https://www.deezer.com/album/215657792
+2021-06-04 18:49:47,584 - [INFO] [album_215657792_3] Added to queue.
+2021-06-04 18:49:47,585 - [INFO] [album_215657792_3] Started downloading.
+2021-06-04 18:49:47,586 - [INFO] [Sech - Pata' Abajo] Getting the tags
+2021-06-04 18:49:47,592 - [INFO] [Sech - Mi Ex] Getting the tags
+2021-06-04 18:49:47,600 - [INFO] [Sech - ¿Qué Somos?] Getting the tags
+2021-06-04 18:49:49,584 - [INFO] [Sech - Pata' Abajo] Getting the album cover
+2021-06-04 18:49:49,769 - [INFO] [Sech - Pata' Abajo] Downloading the track
+2021-06-04 18:49:50,022 - [INFO] [Sech - Pata' Abajo] downloading 9818905 bytes
+2021-06-04 18:49:54,884 - [INFO] [Sech - Pata' Abajo] Applying tags to the track
+2021-06-04 18:49:54,902 - [INFO] [Sech - Pata' Abajo] Track download completed
+/home/sga/Music/deemix Music/Sech - 42/01 - Pata' Abajo.mp3
+2021-06-04 18:49:54,903 - [INFO] [Sech - Te Acuerdas] Getting the tags
+2021-06-04 18:49:58,368 - [INFO] [Sech - Mi Ex] Getting the album cover
+2021-06-04 18:49:58,368 - [INFO] [Sech - Mi Ex] Downloading the track
+2021-06-04 18:49:58,583 - [INFO] Generating queue item for: https://www.deezer.com/album/145225722
+2021-06-04 18:49:58,633 - [INFO] [Sech - Mi Ex] downloading 7344586 bytes
+2021-06-04 18:50:00,210 - [INFO] [Sech - ¿Qué Somos?] Getting the album cover
+2021-06-04 18:50:00,211 - [INFO] [Sech - ¿Qué Somos?] Downloading the track
+2021-06-04 18:50:00,221 - [INFO] [album_145225722_3] Added to queue.
+2021-06-04 18:50:00,994 - [INFO] [Sech - ¿Qué Somos?] downloading 6894235 bytes
+2021-06-04 18:50:03,167 - [INFO] [Sech - Mi Ex] Applying tags to the track
+2021-06-04 18:50:03,181 - [INFO] [Sech - Mi Ex] Track download completed
+/home/sga/Music/deemix Music/Sech - 42/02 - Mi Ex.mp3
+2021-06-04 18:50:03,185 - [INFO] [Sech - Feliz de Mentira] Getting the tags
+2021-06-04 18:50:05,756 - [INFO] [Sech - ¿Qué Somos?] Applying tags to the track
+2021-06-04 18:50:05,764 - [INFO] [Sech - ¿Qué Somos?] Track download completed
+/home/sga/Music/deemix Music/Sech - 42/03 - ¿Qué Somos_.mp3
+2021-06-04 18:50:05,765 - [INFO] [Sech - PSL] Getting the tags
+2021-06-04 18:50:05,774 - [INFO] [Sech - Te Acuerdas] Getting the album cover
+2021-06-04 18:50:05,775 - [INFO] [Sech - Te Acuerdas] Downloading the track
+2021-06-04 18:50:06,030 - [INFO] [Sech - Te Acuerdas] downloading 9110464 bytes
+2021-06-04 18:50:07,712 - [INFO] [Sech - Feliz de Mentira] Getting the album cover
+2021-06-04 18:50:07,712 - [INFO] [Sech - Feliz de Mentira] Downloading the track
+2021-06-04 18:50:08,106 - [INFO] [Sech - Feliz de Mentira] downloading 7651786 bytes
+2021-06-04 18:50:08,516 - [INFO] [Sech - PSL] Getting the album cover
+2021-06-04 18:50:08,517 - [INFO] [Sech - PSL] Downloading the track
+2021-06-04 18:50:08,734 - [INFO] [Sech - PSL] downloading 7038431 bytes
+2021-06-04 18:50:16,164 - [INFO] [Sech - Te Acuerdas] Applying tags to the track
+2021-06-04 18:50:16,175 - [INFO] [Sech - Te Acuerdas] Track download completed
+/home/sga/Music/deemix Music/Sech - 42/04 - Te Acuerdas.mp3
+2021-06-04 18:50:16,179 - [INFO] [Sech - Playa] Getting the tags
+2021-06-04 18:50:17,855 - [INFO] [Sech - PSL] Applying tags to the track
+2021-06-04 18:50:17,865 - [INFO] [Sech - PSL] Track download completed
+/home/sga/Music/deemix Music/Sech - 42/06 - PSL.mp3
+2021-06-04 18:50:17,869 - [INFO] [Sech - Duvibes] Getting the tags
+2021-06-04 18:50:18,182 - [INFO] [Sech - Feliz de Mentira] Applying tags to the track
+2021-06-04 18:50:18,192 - [INFO] [Sech - Feliz de Mentira] Track download completed
+/home/sga/Music/deemix Music/Sech - 42/05 - Feliz de Mentira.mp3
+2021-06-04 18:50:18,193 - [INFO] [Sech - 911] Getting the tags
+2021-06-04 18:50:18,399 - [INFO] [Sech - Playa] Getting the album cover
+2021-06-04 18:50:18,400 - [INFO] [Sech - Playa] Downloading the track
+2021-06-04 18:50:18,672 - [INFO] [Sech - Playa] downloading 7690448 bytes
+2021-06-04 18:50:20,665 - [INFO] [Sech - 911] Getting the album cover
+2021-06-04 18:50:20,666 - [INFO] [Sech - 911] Downloading the track
+2021-06-04 18:50:20,682 - [INFO] [Sech - Duvibes] Getting the album cover
+2021-06-04 18:50:20,682 - [INFO] [Sech - Duvibes] Downloading the track
+2021-06-04 18:50:20,885 - [INFO] [Sech - 911] downloading 8638170 bytes
+2021-06-04 18:50:21,090 - [INFO] [Sech - Duvibes] downloading 7235917 bytes
+2021-06-04 18:50:25,192 - [INFO] [Sech - Playa] Applying tags to the track
+2021-06-04 18:50:25,200 - [INFO] [Sech - Playa] Track download completed
+/home/sga/Music/deemix Music/Sech - 42/07 - Playa.mp3
+2021-06-04 18:50:25,203 - [INFO] [Sech - Sal y Perrea] Getting the tags
+2021-06-04 18:50:29,532 - [INFO] [Sech - Duvibes] Applying tags to the track
+2021-06-04 18:50:29,541 - [INFO] [Sech - Duvibes] Track download completed
+/home/sga/Music/deemix Music/Sech - 42/08 - Duvibes.mp3
+2021-06-04 18:50:29,545 - [INFO] [Sech - Wao] Getting the tags
+2021-06-04 18:50:30,408 - [INFO] [Sech - 911] Applying tags to the track
+2021-06-04 18:50:30,419 - [INFO] [Sech - 911] Track download completed
+/home/sga/Music/deemix Music/Sech - 42/09 - 911.mp3
+2021-06-04 18:50:33,553 - [INFO] [Sech - Wao] Getting the album cover
+2021-06-04 18:50:33,554 - [INFO] [Sech - Wao] Downloading the track
+2021-06-04 18:50:33,818 - [INFO] [Sech - Wao] downloading 7133517 bytes
+2021-06-04 18:50:34,573 - [INFO] [Sech - Sal y Perrea] Getting the album cover
+2021-06-04 18:50:34,573 - [INFO] [Sech - Sal y Perrea] Downloading the track
+2021-06-04 18:50:34,793 - [INFO] [Sech - Sal y Perrea] downloading 8663248 bytes
+2021-06-04 18:50:40,432 - [INFO] [Sech - Wao] Applying tags to the track
+2021-06-04 18:50:40,444 - [INFO] [Sech - Wao] Track download completed
+/home/sga/Music/deemix Music/Sech - 42/11 - Wao.mp3
+2021-06-04 18:50:41,767 - [INFO] [Sech - Sal y Perrea] Applying tags to the track
+2021-06-04 18:50:41,775 - [INFO] [Sech - Sal y Perrea] Track download completed
+/home/sga/Music/deemix Music/Sech - 42/10 - Sal y Perrea.mp3
+2021-06-04 18:50:41,912 - [INFO] [album_215657792_3] Finished downloading.
+2021-06-04 18:50:41,912 - [INFO] [album_145225722_3] Started downloading.
+2021-06-04 18:50:41,913 - [INFO] [Sech - Me Olvidé] Getting the tags
+2021-06-04 18:50:41,917 - [INFO] [Sech - Casino] Getting the tags
+2021-06-04 18:50:41,924 - [INFO] [Sech - Bentley] Getting the tags
+2021-06-04 18:50:46,503 - [INFO] [Sech - Bentley] Getting the album cover
+2021-06-04 18:50:46,575 - [INFO] [Sech - Casino] Getting the album cover
+2021-06-04 18:50:46,812 - [INFO] [Sech - Casino] Downloading the track
+2021-06-04 18:50:46,867 - [INFO] [Sech - Bentley] Downloading the track
+2021-06-04 18:50:47,127 - [INFO] [Sech - Bentley] downloading 7529533 bytes
+2021-06-04 18:50:47,165 - [INFO] [Sech - Casino] downloading 7245321 bytes
+2021-06-04 18:50:47,923 - [INFO] [Sech - Me Olvidé] Getting the album cover
+2021-06-04 18:50:47,923 - [INFO] [Sech - Me Olvidé] Downloading the track
+2021-06-04 18:50:48,307 - [INFO] [Sech - Me Olvidé] downloading 6299688 bytes
+2021-06-04 18:50:56,351 - [INFO] [Sech - Me Olvidé] Applying tags to the track
+2021-06-04 18:50:56,364 - [INFO] [Sech - Me Olvidé] Track download completed
+/home/sga/Music/deemix Music/Sech - 1 of 1/01 - Me Olvidé.mp3
+2021-06-04 18:50:56,368 - [INFO] [Sech - Oficial] Getting the tags
+2021-06-04 18:50:58,597 - [INFO] [album_145225722_3] Finished downloading.
+2021-06-04 18:55:06,799 - [INFO] Generating queue item for: https://www.deezer.com/album/80829842
+2021-06-04 18:55:07,966 - [INFO] [album_80829842_3] Added to queue.
+2021-06-04 18:55:07,966 - [INFO] [album_80829842_3] Started downloading.
+2021-06-04 18:55:07,967 - [INFO] [Sech - Cumpleaños] Getting the tags
+2021-06-04 18:55:07,976 - [INFO] [Sech - Me Gustaría] Getting the tags
+2021-06-04 18:55:07,983 - [INFO] [Sech - Pa’ Que Sude] Getting the tags
+2021-06-04 18:55:10,332 - [INFO] [Sech - Me Gustaría] Getting the album cover
+2021-06-04 18:55:10,568 - [INFO] [Sech - Me Gustaría] Downloading the track
+2021-06-04 18:55:10,646 - [INFO] [Sech - Cumpleaños] Getting the album cover
+2021-06-04 18:55:10,646 - [INFO] [Sech - Cumpleaños] Downloading the track
+2021-06-04 18:55:10,767 - [INFO] [Sech - Pa’ Que Sude] Getting the album cover
+2021-06-04 18:55:10,768 - [INFO] [Sech - Pa’ Que Sude] Downloading the track
+2021-06-04 18:55:10,880 - [INFO] [Sech - Me Gustaría] downloading 8790725 bytes
+2021-06-04 18:55:10,932 - [INFO] [Sech - Cumpleaños] downloading 7922415 bytes
+2021-06-04 18:55:11,154 - [INFO] [Sech - Pa’ Que Sude] downloading 6242219 bytes
+2021-06-04 18:55:19,757 - [INFO] [Sech - Pa’ Que Sude] Applying tags to the track
+2021-06-04 18:55:19,769 - [INFO] [Sech - Pa’ Que Sude] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - The Sensation/03 - Pa’ Que Sude.mp3
+2021-06-04 18:55:19,773 - [INFO] [Sech - Te Busco] Getting the tags
+2021-06-04 18:55:22,680 - [INFO] [Sech - Te Busco] Getting the album cover
+2021-06-04 18:55:22,681 - [INFO] [Sech - Te Busco] Downloading the track
+2021-06-04 18:55:22,864 - [INFO] [Sech - Cumpleaños] Applying tags to the track
+2021-06-04 18:55:22,879 - [INFO] [Sech - Cumpleaños] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - The Sensation/01 - Cumpleaños.mp3
+2021-06-04 18:55:22,884 - [INFO] [Sech - La Vida] Getting the tags
+2021-06-04 18:55:23,049 - [INFO] [Sech - Me Gustaría] Applying tags to the track
+2021-06-04 18:55:23,065 - [INFO] [Sech - Me Gustaría] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - The Sensation/02 - Me Gustaría.mp3
+2021-06-04 18:55:23,067 - [INFO] [Sech - La Mesera] Getting the tags
+2021-06-04 18:55:23,154 - [INFO] [Sech - Te Busco] downloading 6356113 bytes
+2021-06-04 18:55:25,058 - [INFO] [Sech - La Vida] Getting the album cover
+2021-06-04 18:55:25,059 - [INFO] [Sech - La Vida] Downloading the track
+2021-06-04 18:55:25,299 - [INFO] [Sech - La Vida] downloading 8821027 bytes
+2021-06-04 18:55:25,552 - [INFO] [Sech - La Mesera] Getting the album cover
+2021-06-04 18:55:25,553 - [INFO] [Sech - La Mesera] Downloading the track
+2021-06-04 18:55:25,969 - [INFO] [Sech - La Mesera] downloading 7775084 bytes
+2021-06-04 18:55:29,986 - [INFO] [Sech - Te Busco] Applying tags to the track
+2021-06-04 18:55:30,000 - [INFO] [Sech - Te Busco] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - The Sensation/04 - Te Busco.mp3
+2021-06-04 18:55:30,003 - [INFO] [Sech - Ojalá] Getting the tags
+2021-06-04 18:55:32,307 - [INFO] [Sech - Ojalá] Getting the album cover
+2021-06-04 18:55:32,307 - [INFO] [Sech - Ojalá] Downloading the track
+2021-06-04 18:55:33,081 - [INFO] [Sech - Ojalá] downloading 8631901 bytes
+2021-06-04 18:55:34,446 - [INFO] Generating queue item for: https://www.deezer.com/album/215657792
+2021-06-04 18:55:35,685 - [INFO] [album_215657792_3] Added to queue.
+2021-06-04 18:55:38,113 - [INFO] [Sech - La Vida] Applying tags to the track
+2021-06-04 18:55:38,122 - [INFO] [Sech - La Vida] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - The Sensation/05 - La Vida.mp3
+2021-06-04 18:55:38,126 - [INFO] [Sech - Qué Más Pues] Getting the tags
+2021-06-04 18:55:38,704 - [INFO] [Sech - La Mesera] Applying tags to the track
+2021-06-04 18:55:38,713 - [INFO] [Sech - La Mesera] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - The Sensation/06 - La Mesera.mp3
+2021-06-04 18:55:40,255 - [INFO] [Sech - Qué Más Pues] Getting the album cover
+2021-06-04 18:55:40,256 - [INFO] [Sech - Qué Más Pues] Downloading the track
+2021-06-04 18:55:40,647 - [INFO] [Sech - Qué Más Pues] downloading 8149158 bytes
+2021-06-04 18:55:42,243 - [INFO] [Sech - Ojalá] Applying tags to the track
+2021-06-04 18:55:42,252 - [INFO] [Sech - Ojalá] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - The Sensation/07 - Ojalá.mp3
+2021-06-04 18:55:45,730 - [INFO] [Sech - Qué Más Pues] Applying tags to the track
+2021-06-04 18:55:45,743 - [INFO] [Sech - Qué Más Pues] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - The Sensation/08 - Qué Más Pues.mp3
+2021-06-04 18:55:46,005 - [INFO] [album_80829842_3] Finished downloading.
+2021-06-04 18:55:46,005 - [INFO] [album_215657792_3] Started downloading.
+2021-06-04 18:55:46,006 - [INFO] [Sech - Pata' Abajo] Getting the tags
+2021-06-04 18:55:46,011 - [INFO] [Sech - Mi Ex] Getting the tags
+2021-06-04 18:55:46,017 - [INFO] [Sech - ¿Qué Somos?] Getting the tags
+2021-06-04 18:55:47,786 - [INFO] [Sech - Pata' Abajo] Getting the album cover
+2021-06-04 18:55:47,787 - [INFO] [Sech - Pata' Abajo] Downloading the track
+2021-06-04 18:55:48,058 - [INFO] [Sech - Pata' Abajo] downloading 9818905 bytes
+2021-06-04 18:55:48,113 - [INFO] [Sech - ¿Qué Somos?] Getting the album cover
+2021-06-04 18:55:48,114 - [INFO] [Sech - ¿Qué Somos?] Downloading the track
+2021-06-04 18:55:48,317 - [INFO] [Sech - ¿Qué Somos?] downloading 6894235 bytes
+2021-06-04 18:55:55,222 - [INFO] [Sech - ¿Qué Somos?] Applying tags to the track
+2021-06-04 18:55:55,235 - [INFO] [Sech - ¿Qué Somos?] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 42/03 - ¿Qué Somos_.mp3
+2021-06-04 18:55:55,242 - [INFO] [Sech - Te Acuerdas] Getting the tags
+2021-06-04 18:55:57,033 - [INFO] [Sech - Pata' Abajo] Applying tags to the track
+2021-06-04 18:55:57,046 - [INFO] [Sech - Pata' Abajo] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 42/01 - Pata' Abajo.mp3
+2021-06-04 18:55:57,048 - [INFO] [Sech - Feliz de Mentira] Getting the tags
+2021-06-04 18:55:57,251 - [INFO] [Sech - Te Acuerdas] Getting the album cover
+2021-06-04 18:55:57,252 - [INFO] [Sech - Te Acuerdas] Downloading the track
+2021-06-04 18:55:57,509 - [INFO] [Sech - Te Acuerdas] downloading 9110464 bytes
+2021-06-04 18:55:59,730 - [INFO] [Sech - Feliz de Mentira] Getting the album cover
+2021-06-04 18:55:59,731 - [INFO] [Sech - Feliz de Mentira] Downloading the track
+2021-06-04 18:56:00,076 - [INFO] [Sech - Feliz de Mentira] downloading 7651786 bytes
+2021-06-04 18:56:01,687 - [INFO] Generating queue item for: https://www.deezer.com/album/215657792
+2021-06-04 18:56:03,014 - [WARNING] [album_215657792_3] Already in queue, will not be added again.
+2021-06-04 18:56:05,611 - [INFO] [Sech - Te Acuerdas] Applying tags to the track
+2021-06-04 18:56:05,621 - [INFO] [Sech - Te Acuerdas] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 42/04 - Te Acuerdas.mp3
+2021-06-04 18:56:05,623 - [INFO] [Sech - PSL] Getting the tags
+2021-06-04 18:56:06,247 - [INFO] [Sech - Feliz de Mentira] Applying tags to the track
+2021-06-04 18:56:06,256 - [INFO] [Sech - Feliz de Mentira] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 42/05 - Feliz de Mentira.mp3
+2021-06-04 18:56:06,256 - [INFO] [Sech - Playa] Getting the tags
+2021-06-04 18:56:07,995 - [INFO] [Sech - PSL] Getting the album cover
+2021-06-04 18:56:07,996 - [INFO] [Sech - PSL] Downloading the track
+2021-06-04 18:56:08,174 - [INFO] [Sech - PSL] downloading 7038431 bytes
+2021-06-04 18:56:08,504 - [INFO] [Sech - Playa] Getting the album cover
+2021-06-04 18:56:08,504 - [INFO] [Sech - Playa] Downloading the track
+2021-06-04 18:56:08,706 - [INFO] [Sech - Playa] downloading 7690448 bytes
+2021-06-04 18:56:10,374 - [INFO] Generating queue item for: https://www.deezer.com/album/145225722
+2021-06-04 18:56:12,074 - [INFO] [album_145225722_3] Added to queue.
+2021-06-04 18:56:15,385 - [INFO] [Sech - PSL] Applying tags to the track
+2021-06-04 18:56:15,396 - [INFO] [Sech - PSL] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 42/06 - PSL.mp3
+2021-06-04 18:56:15,401 - [INFO] [Sech - Duvibes] Getting the tags
+2021-06-04 18:56:16,405 - [INFO] [Sech - Playa] Applying tags to the track
+2021-06-04 18:56:16,412 - [INFO] [Sech - Playa] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 42/07 - Playa.mp3
+2021-06-04 18:56:16,413 - [INFO] [Sech - 911] Getting the tags
+2021-06-04 18:56:17,325 - [INFO] [Sech - Duvibes] Getting the album cover
+2021-06-04 18:56:17,326 - [INFO] [Sech - Duvibes] Downloading the track
+2021-06-04 18:56:17,589 - [INFO] [Sech - Duvibes] downloading 7235917 bytes
+2021-06-04 18:56:20,656 - [INFO] [Sech - Mi Ex] Getting the album cover
+2021-06-04 18:56:20,656 - [INFO] [Sech - Mi Ex] Downloading the track
+2021-06-04 18:56:21,028 - [INFO] [Sech - Mi Ex] downloading 7344586 bytes
+2021-06-04 18:56:21,785 - [INFO] [Sech - Duvibes] Applying tags to the track
+2021-06-04 18:56:21,795 - [INFO] [Sech - Duvibes] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 42/08 - Duvibes.mp3
+2021-06-04 18:56:21,798 - [INFO] [Sech - Sal y Perrea] Getting the tags
+2021-06-04 18:56:23,750 - [INFO] [Sech - Sal y Perrea] Getting the album cover
+2021-06-04 18:56:23,751 - [INFO] [Sech - Sal y Perrea] Downloading the track
+2021-06-04 18:56:23,949 - [INFO] [Sech - Sal y Perrea] downloading 8663248 bytes
+2021-06-04 18:56:26,326 - [INFO] [Sech - 911] Getting the album cover
+2021-06-04 18:56:26,327 - [INFO] [Sech - 911] Downloading the track
+2021-06-04 18:56:26,536 - [INFO] [Sech - 911] downloading 8638170 bytes
+2021-06-04 18:56:28,043 - [INFO] [Sech - Mi Ex] Applying tags to the track
+2021-06-04 18:56:28,052 - [INFO] [Sech - Mi Ex] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 42/02 - Mi Ex.mp3
+2021-06-04 18:56:28,054 - [INFO] [Sech - Wao] Getting the tags
+2021-06-04 18:56:30,482 - [INFO] [Sech - Wao] Getting the album cover
+2021-06-04 18:56:30,483 - [INFO] [Sech - Wao] Downloading the track
+2021-06-04 18:56:31,910 - [INFO] [Sech - Wao] downloading 7133517 bytes
+2021-06-04 18:56:34,919 - [INFO] [Sech - Sal y Perrea] Applying tags to the track
+2021-06-04 18:56:34,935 - [INFO] [Sech - Sal y Perrea] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 42/10 - Sal y Perrea.mp3
+2021-06-04 18:56:36,465 - [INFO] [Sech - 911] Applying tags to the track
+2021-06-04 18:56:36,477 - [INFO] [Sech - 911] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 42/09 - 911.mp3
+2021-06-04 18:56:38,976 - [INFO] [Sech - Wao] Applying tags to the track
+2021-06-04 18:56:38,985 - [INFO] [Sech - Wao] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 42/11 - Wao.mp3
+2021-06-04 18:56:39,123 - [INFO] [album_215657792_3] Finished downloading.
+2021-06-04 18:56:39,124 - [INFO] [album_145225722_3] Started downloading.
+2021-06-04 18:56:39,125 - [INFO] [Sech - Me Olvidé] Getting the tags
+2021-06-04 18:56:39,130 - [INFO] [Sech - Casino] Getting the tags
+2021-06-04 18:56:39,134 - [INFO] [Sech - Bentley] Getting the tags
+2021-06-04 18:56:40,951 - [INFO] [Sech - Bentley] Getting the album cover
+2021-06-04 18:56:40,952 - [INFO] [Sech - Bentley] Downloading the track
+2021-06-04 18:56:41,150 - [INFO] [Sech - Bentley] downloading 7529533 bytes
+2021-06-04 18:56:41,310 - [INFO] [Sech - Me Olvidé] Getting the album cover
+2021-06-04 18:56:41,311 - [INFO] [Sech - Me Olvidé] Downloading the track
+2021-06-04 18:56:42,406 - [INFO] [Sech - Me Olvidé] downloading 6299688 bytes
+2021-06-04 18:56:46,919 - [INFO] [Sech - Bentley] Applying tags to the track
+2021-06-04 18:56:46,930 - [INFO] [Sech - Bentley] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/03 - Bentley.mp3
+2021-06-04 18:56:46,933 - [INFO] [Sech - Oficial] Getting the tags
+2021-06-04 18:56:48,458 - [INFO] [Sech - Me Olvidé] Applying tags to the track
+2021-06-04 18:56:48,466 - [INFO] [Sech - Me Olvidé] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/01 - Me Olvidé.mp3
+2021-06-04 18:56:48,467 - [INFO] [Sech - Portarse Mal] Getting the tags
+2021-06-04 18:56:48,757 - [INFO] [Sech - Casino] Getting the album cover
+2021-06-04 18:56:48,757 - [INFO] [Sech - Casino] Downloading the track
+2021-06-04 18:56:49,125 - [INFO] [Sech - Casino] downloading 7245321 bytes
+2021-06-04 18:56:49,179 - [INFO] [Sech - Oficial] Getting the album cover
+2021-06-04 18:56:49,180 - [INFO] [Sech - Oficial] Downloading the track
+2021-06-04 18:56:49,534 - [INFO] [Sech - Oficial] downloading 7893158 bytes
+2021-06-04 18:56:50,896 - [INFO] [Sech - Portarse Mal] Getting the album cover
+2021-06-04 18:56:50,897 - [INFO] [Sech - Portarse Mal] Downloading the track
+2021-06-04 18:56:52,355 - [INFO] [Sech - Portarse Mal] downloading 7465795 bytes
+2021-06-04 18:56:58,932 - [INFO] [Sech - Casino] Applying tags to the track
+2021-06-04 18:56:58,947 - [INFO] [Sech - Casino] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/02 - Casino.mp3
+2021-06-04 18:56:58,952 - [INFO] [Sech - Fe] Getting the tags
+2021-06-04 18:57:01,683 - [INFO] [Sech - Portarse Mal] Applying tags to the track
+2021-06-04 18:57:01,693 - [INFO] [Sech - Portarse Mal] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/05 - Portarse Mal.mp3
+2021-06-04 18:57:01,695 - [INFO] [Sech - Oficial] Applying tags to the track
+2021-06-04 18:57:01,706 - [INFO] [Sech - Oficial] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/04 - Oficial.mp3
+2021-06-04 18:57:01,708 - [INFO] [Sech - Confía] Getting the tags
+2021-06-04 18:57:01,712 - [INFO] [Sech - En Lo Oscuro] Getting the tags
+2021-06-04 18:57:03,919 - [INFO] [Sech - Confía] Getting the album cover
+2021-06-04 18:57:03,920 - [INFO] [Sech - Confía] Downloading the track
+2021-06-04 18:57:04,229 - [INFO] [Sech - Confía] downloading 8094823 bytes
+2021-06-04 18:57:06,519 - [INFO] [Sech - En Lo Oscuro] Getting the album cover
+2021-06-04 18:57:06,520 - [INFO] [Sech - En Lo Oscuro] Downloading the track
+2021-06-04 18:57:06,896 - [INFO] [Sech - En Lo Oscuro] downloading 5664391 bytes
+2021-06-04 18:57:09,058 - [INFO] [Sech - Fe] Getting the album cover
+2021-06-04 18:57:09,058 - [INFO] [Sech - Fe] Downloading the track
+2021-06-04 18:57:09,851 - [INFO] [Sech - Fe] downloading 6919313 bytes
+2021-06-04 18:57:10,056 - [INFO] [Sech - Confía] Applying tags to the track
+2021-06-04 18:57:10,071 - [INFO] [Sech - Confía] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/07 - Confía.mp3
+2021-06-04 18:57:10,080 - [INFO] [Sech - Relación] Getting the tags
+2021-06-04 18:57:13,013 - [INFO] [Sech - En Lo Oscuro] Applying tags to the track
+2021-06-04 18:57:13,023 - [INFO] [Sech - En Lo Oscuro] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/08 - En Lo Oscuro.mp3
+2021-06-04 18:57:13,024 - [INFO] [Sech - Dale] Getting the tags
+2021-06-04 18:57:13,944 - [INFO] [Sech - Relación] Getting the album cover
+2021-06-04 18:57:13,945 - [INFO] [Sech - Relación] Downloading the track
+2021-06-04 18:57:14,160 - [INFO] [Sech - Relación] downloading 7372799 bytes
+2021-06-04 18:57:16,100 - [INFO] [Sech - Dale] Getting the album cover
+2021-06-04 18:57:16,101 - [INFO] [Sech - Dale] Downloading the track
+2021-06-04 18:57:16,440 - [INFO] [Sech - Fe] Applying tags to the track
+2021-06-04 18:57:16,447 - [INFO] [Sech - Fe] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/06 - Fe.mp3
+2021-06-04 18:57:16,449 - [INFO] [Sech - Trofeo] Getting the tags
+2021-06-04 18:57:16,697 - [INFO] [Sech - Dale] downloading 6507623 bytes
+2021-06-04 18:57:21,575 - [INFO] [Sech - Relación] Applying tags to the track
+2021-06-04 18:57:21,588 - [INFO] [Sech - Relación] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/09 - Relación.mp3
+2021-06-04 18:57:21,592 - [INFO] [Sech - Se Va Viral] Getting the tags
+2021-06-04 18:57:22,931 - [INFO] [Sech - Dale] Applying tags to the track
+2021-06-04 18:57:22,939 - [INFO] [Sech - Dale] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/10 - Dale.mp3
+2021-06-04 18:57:22,940 - [INFO] [Sech - Tu y Yo] Getting the tags
+2021-06-04 18:57:24,177 - [INFO] [Sech - Se Va Viral] Getting the album cover
+2021-06-04 18:57:24,178 - [INFO] [Sech - Se Va Viral] Downloading the track
+2021-06-04 18:57:25,662 - [INFO] [Sech - Tu y Yo] Getting the album cover
+2021-06-04 18:57:25,663 - [INFO] [Sech - Tu y Yo] Downloading the track
+2021-06-04 18:57:25,862 - [INFO] [Sech - Tu y Yo] downloading 9066578 bytes
+2021-06-04 18:57:29,699 - [INFO] [Sech - Se Va Viral] downloading 5972635 bytes
+2021-06-04 18:57:31,762 - [INFO] [Sech - Tu y Yo] Applying tags to the track
+2021-06-04 18:57:31,773 - [INFO] [Sech - Tu y Yo] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/13 - Tu y Yo.mp3
+2021-06-04 18:57:31,776 - [INFO] [Sech - Goteras] Getting the tags
+2021-06-04 18:57:34,034 - [INFO] [Sech - Se Va Viral] Applying tags to the track
+2021-06-04 18:57:34,046 - [INFO] [Sech - Se Va Viral] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/12 - Se Va Viral.mp3
+2021-06-04 18:57:34,047 - [INFO] [Sech - Uni] Getting the tags
+2021-06-04 18:57:35,974 - [INFO] [Sech - Uni] Getting the album cover
+2021-06-04 18:57:35,974 - [INFO] [Sech - Uni] Downloading the track
+2021-06-04 18:57:36,182 - [INFO] [Sech - Uni] downloading 5975770 bytes
+2021-06-04 18:57:39,336 - [INFO] [Sech - Uni] Applying tags to the track
+2021-06-04 18:57:39,346 - [INFO] [Sech - Uni] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/15 - Uni.mp3
+2021-06-04 18:57:39,347 - [INFO] [Sech - Fabuloso] Getting the tags
+2021-06-04 18:57:41,453 - [INFO] [Sech - Goteras] Getting the album cover
+2021-06-04 18:57:41,454 - [INFO] [Sech - Goteras] Downloading the track
+2021-06-04 18:57:42,297 - [INFO] [Sech - Goteras] downloading 6882742 bytes
+2021-06-04 18:57:46,287 - [INFO] [Sech - Goteras] Applying tags to the track
+2021-06-04 18:57:46,300 - [INFO] [Sech - Goteras] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/14 - Goteras.mp3
+2021-06-04 18:57:46,301 - [INFO] [Sech - Arriba] Getting the tags
+2021-06-04 18:57:48,633 - [INFO] [Sech - Fabuloso] Getting the album cover
+2021-06-04 18:57:48,634 - [INFO] [Sech - Fabuloso] Downloading the track
+2021-06-04 18:57:48,749 - [INFO] [Sech - Arriba] Getting the album cover
+2021-06-04 18:57:48,750 - [INFO] [Sech - Arriba] Downloading the track
+2021-06-04 18:57:49,048 - [INFO] [Sech - Fabuloso] downloading 8022725 bytes
+2021-06-04 18:57:49,213 - [INFO] [Sech - Arriba] downloading 7606856 bytes
+2021-06-04 18:57:51,582 - [INFO] [Sech - Trofeo] Getting the album cover
+2021-06-04 18:57:51,582 - [INFO] [Sech - Trofeo] Downloading the track
+2021-06-04 18:57:52,061 - [INFO] [Sech - Trofeo] downloading 8273501 bytes
+2021-06-04 18:57:59,079 - [INFO] [Sech - Fabuloso] Applying tags to the track
+2021-06-04 18:57:59,093 - [INFO] [Sech - Fabuloso] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/16 - Fabuloso.mp3
+2021-06-04 18:57:59,099 - [INFO] [Sech - Panama City] Getting the tags
+2021-06-04 18:58:00,744 - [INFO] [Sech - Arriba] Applying tags to the track
+2021-06-04 18:58:00,751 - [INFO] [Sech - Arriba] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/17 - Arriba.mp3
+2021-06-04 18:58:00,754 - [INFO] [Sech - Dios Te Guarde] Getting the tags
+2021-06-04 18:58:01,565 - [INFO] [Sech - Panama City] Getting the album cover
+2021-06-04 18:58:01,565 - [INFO] [Sech - Panama City] Downloading the track
+2021-06-04 18:58:01,781 - [INFO] [Sech - Trofeo] Applying tags to the track
+2021-06-04 18:58:01,795 - [INFO] [Sech - Trofeo] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/11 - Trofeo.mp3
+2021-06-04 18:58:01,796 - [INFO] [Sech - Siempre] Getting the tags
+2021-06-04 18:58:01,966 - [INFO] [Sech - Panama City] downloading 6644505 bytes
+2021-06-04 18:58:04,355 - [INFO] [Sech - Siempre] Getting the album cover
+2021-06-04 18:58:04,356 - [INFO] [Sech - Siempre] Downloading the track
+2021-06-04 18:58:04,635 - [INFO] [Sech - Siempre] downloading 7566105 bytes
+2021-06-04 18:58:05,859 - [INFO] [Sech - Panama City] Applying tags to the track
+2021-06-04 18:58:05,866 - [INFO] [Sech - Panama City] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/18 - Panama City.mp3
+2021-06-04 18:58:05,869 - [INFO] [Sech - Si Te Vas] Getting the tags
+2021-06-04 18:58:08,845 - [INFO] [Sech - Si Te Vas] Getting the album cover
+2021-06-04 18:58:08,846 - [INFO] [Sech - Si Te Vas] Downloading the track
+2021-06-04 18:58:09,061 - [INFO] [Sech - Si Te Vas] downloading 8199313 bytes
+2021-06-04 18:58:10,314 - [INFO] [Sech - Siempre] Applying tags to the track
+2021-06-04 18:58:10,329 - [INFO] [Sech - Siempre] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/20 - Siempre.mp3
+2021-06-04 18:58:14,155 - [INFO] [Sech - Si Te Vas] Applying tags to the track
+2021-06-04 18:58:14,170 - [INFO] [Sech - Si Te Vas] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/21 - Si Te Vas.mp3
+2021-06-04 18:58:18,812 - [INFO] [Sech - Dios Te Guarde] Getting the album cover
+2021-06-04 18:58:18,813 - [INFO] [Sech - Dios Te Guarde] Downloading the track
+2021-06-04 18:58:19,095 - [INFO] [Sech - Dios Te Guarde] downloading 6556733 bytes
+2021-06-04 18:58:22,806 - [INFO] [Sech - Dios Te Guarde] Applying tags to the track
+2021-06-04 18:58:22,817 - [INFO] [Sech - Dios Te Guarde] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 of 1/19 - Dios Te Guarde.mp3
+2021-06-04 18:58:23,066 - [INFO] [album_145225722_3] Finished downloading.
+2021-06-04 19:00:28,905 - [INFO] Generating queue item for: https://deezer.com/album/62074042
+2021-06-04 19:00:30,391 - [INFO] Generating queue item for: https://deezer.com/album/62073692
+2021-06-04 19:00:30,645 - [INFO] [track_490768522_3] Added to queue.
+2021-06-04 19:00:30,645 - [INFO] [track_490768522_3] Started downloading.
+2021-06-04 19:00:30,645 - [INFO] [Sech - La Otra] Getting the tags
+2021-06-04 19:00:33,173 - [INFO] [Sech - La Otra] Getting the album cover
+2021-06-04 19:00:33,420 - [INFO] [Sech - La Otra] Downloading the track
+2021-06-04 19:00:33,839 - [INFO] [Sech - La Otra] downloading 8252603 bytes
+2021-06-04 19:00:35,657 - [INFO] [track_490767512_3] Added to queue.
+2021-06-04 19:00:38,148 - [INFO] [Sech - La Otra] Applying tags to the track
+2021-06-04 19:00:38,160 - [INFO] [Sech - La Otra] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - La Otra/01 - La Otra.mp3
+2021-06-04 19:00:38,424 - [INFO] [track_490768522_3] Finished downloading.
+2021-06-04 19:00:38,424 - [INFO] [track_490767512_3] Started downloading.
+2021-06-04 19:00:38,424 - [INFO] [Sech - Toco Mentir] Getting the tags
+2021-06-04 19:00:40,765 - [INFO] [Sech - Toco Mentir] Getting the album cover
+2021-06-04 19:00:40,898 - [INFO] [Sech - Toco Mentir] Downloading the track
+2021-06-04 19:00:41,163 - [INFO] [Sech - Toco Mentir] downloading 8677876 bytes
+2021-06-04 19:00:45,887 - [INFO] [Sech - Toco Mentir] Applying tags to the track
+2021-06-04 19:00:45,897 - [INFO] [Sech - Toco Mentir] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - Toco Mentir/01 - Toco Mentir.mp3
+2021-06-04 19:00:46,025 - [INFO] [track_490767512_3] Finished downloading.
+2021-06-04 19:00:55,053 - [INFO] Generating queue item for: https://www.deezer.com/album/180812642
+2021-06-04 19:00:57,176 - [INFO] [track_1115269562_3] Added to queue.
+2021-06-04 19:00:57,177 - [INFO] [track_1115269562_3] Started downloading.
+2021-06-04 19:00:57,178 - [INFO] [Farruko - La Tóxica (feat. Jay Wheeler & Tempo)] Getting the tags
+2021-06-04 19:00:59,039 - [INFO] [Farruko - La Tóxica (feat. Jay Wheeler & Tempo) (Remix)] Getting the album cover
+2021-06-04 19:00:59,225 - [INFO] [Farruko - La Tóxica (feat. Jay Wheeler & Tempo) (Remix)] Downloading the track
+2021-06-04 19:00:59,494 - [INFO] [Farruko - La Tóxica (feat. Jay Wheeler & Tempo) (Remix)] downloading 11771819 bytes
+2021-06-04 19:01:05,300 - [INFO] [Farruko - La Tóxica (feat. Jay Wheeler & Tempo) (Remix)] Applying tags to the track
+2021-06-04 19:01:05,316 - [INFO] [Farruko - La Tóxica (feat. Jay Wheeler & Tempo) (Remix)] Track download completed
+/home/sga/Music/deemix Music/Farruko/Farruko - La Tóxica (feat. Jay Wheeler & Tempo) (Remix)/01 - La Tóxica (feat. Jay Wheeler & Tempo) (Remix).mp3
+2021-06-04 19:01:05,615 - [INFO] [track_1115269562_3] Finished downloading.
+2021-06-04 19:01:11,126 - [INFO] Generating queue item for: https://www.deezer.com/album/93384392
+2021-06-04 19:01:12,506 - [INFO] [album_93384392_3] Added to queue.
+2021-06-04 19:01:12,507 - [INFO] [album_93384392_3] Started downloading.
+2021-06-04 19:01:12,509 - [INFO] [Sech - Soñando Despierto] Getting the tags
+2021-06-04 19:01:12,515 - [INFO] [Sech - Falsas Promesas] Getting the tags
+2021-06-04 19:01:12,521 - [INFO] [Sech - Otro Trago] Getting the tags
+2021-06-04 19:01:14,254 - [INFO] Generating queue item for: https://www.deezer.com/album/93445412
+2021-06-04 19:01:14,739 - [INFO] [Sech - Falsas Promesas] Getting the album cover
+2021-06-04 19:01:14,899 - [INFO] [Sech - Falsas Promesas] Downloading the track
+2021-06-04 19:01:15,209 - [INFO] [Sech - Falsas Promesas] downloading 8267231 bytes
+2021-06-04 19:01:15,524 - [INFO] [Sech - Otro Trago] Getting the album cover
+2021-06-04 19:01:15,524 - [INFO] [Sech - Otro Trago] Downloading the track
+2021-06-04 19:01:15,561 - [INFO] [track_664432122_3] Added to queue.
+2021-06-04 19:01:15,868 - [INFO] [Sech - Soñando Despierto] Getting the album cover
+2021-06-04 19:01:15,868 - [INFO] [Sech - Soñando Despierto] Downloading the track
+2021-06-04 19:01:16,030 - [INFO] [Sech - Otro Trago] downloading 9040456 bytes
+2021-06-04 19:01:16,357 - [INFO] [Sech - Soñando Despierto] downloading 5405256 bytes
+2021-06-04 19:01:23,902 - [INFO] Generating queue item for: https://www.deezer.com/album/62072872
+2021-06-04 19:01:24,080 - [INFO] [Sech - Falsas Promesas] Applying tags to the track
+2021-06-04 19:01:24,096 - [INFO] [Sech - Falsas Promesas] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - Sueños/02 - Falsas Promesas.mp3
+2021-06-04 19:01:24,108 - [INFO] [Sech - La Niña] Getting the tags
+2021-06-04 19:01:24,379 - [INFO] [Sech - Soñando Despierto] Applying tags to the track
+2021-06-04 19:01:24,389 - [INFO] [Sech - Soñando Despierto] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - Sueños/01 - Soñando Despierto.mp3
+2021-06-04 19:01:24,394 - [INFO] [Sech - Tiene Novio] Getting the tags
+2021-06-04 19:01:25,177 - [INFO] [track_490763642_3] Added to queue.
+2021-06-04 19:01:26,566 - [INFO] [Sech - Otro Trago] Applying tags to the track
+2021-06-04 19:01:26,581 - [INFO] [Sech - Otro Trago] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - Sueños/03 - Otro Trago.mp3
+2021-06-04 19:01:26,582 - [INFO] [Sech - X Ti] Getting the tags
+2021-06-04 19:01:27,139 - [INFO] [Sech - Tiene Novio] Getting the album cover
+2021-06-04 19:01:27,139 - [INFO] [Sech - Tiene Novio] Downloading the track
+2021-06-04 19:01:27,151 - [INFO] [Sech - La Niña] Getting the album cover
+2021-06-04 19:01:27,151 - [INFO] [Sech - La Niña] Downloading the track
+2021-06-04 19:01:27,374 - [INFO] Generating queue item for: https://www.deezer.com/album/62068962
+2021-06-04 19:01:27,409 - [INFO] [Sech - Tiene Novio] downloading 8840880 bytes
+2021-06-04 19:01:27,480 - [INFO] [Sech - La Niña] downloading 6530611 bytes
+2021-06-04 19:01:28,770 - [INFO] [track_490745922_3] Added to queue.
+2021-06-04 19:01:28,980 - [INFO] [Sech - X Ti] Getting the album cover
+2021-06-04 19:01:28,981 - [INFO] [Sech - X Ti] Downloading the track
+2021-06-04 19:01:29,441 - [INFO] [Sech - X Ti] downloading 6962154 bytes
+2021-06-04 19:01:35,137 - [INFO] [Sech - La Niña] Applying tags to the track
+2021-06-04 19:01:35,146 - [INFO] [Sech - La Niña] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - Sueños/04 - La Niña.mp3
+2021-06-04 19:01:35,148 - [INFO] [Sech - Solita] Getting the tags
+2021-06-04 19:01:37,803 - [INFO] [Sech - X Ti] Applying tags to the track
+2021-06-04 19:01:37,813 - [INFO] [Sech - X Ti] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - Sueños/06 - X Ti.mp3
+2021-06-04 19:01:37,816 - [INFO] [Sech - Boomerang] Getting the tags
+2021-06-04 19:01:38,126 - [INFO] [Sech - Solita] Getting the album cover
+2021-06-04 19:01:38,127 - [INFO] [Sech - Solita] Downloading the track
+2021-06-04 19:01:38,536 - [INFO] [Sech - Solita] downloading 8783411 bytes
+2021-06-04 19:01:38,573 - [INFO] [Sech - Tiene Novio] Applying tags to the track
+2021-06-04 19:01:38,584 - [INFO] [Sech - Tiene Novio] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - Sueños/05 - Tiene Novio.mp3
+2021-06-04 19:01:38,587 - [INFO] [Sech - Que Mas Pues] Getting the tags
+2021-06-04 19:01:42,042 - [INFO] [Sech - Que Mas Pues (Remix)] Getting the album cover
+2021-06-04 19:01:42,043 - [INFO] [Sech - Que Mas Pues (Remix)] Downloading the track
+2021-06-04 19:01:42,534 - [INFO] [Sech - Que Mas Pues (Remix)] downloading 12240978 bytes
+2021-06-04 19:01:42,810 - [INFO] [Sech - Boomerang] Getting the album cover
+2021-06-04 19:01:42,811 - [INFO] [Sech - Boomerang] Downloading the track
+2021-06-04 19:01:43,028 - [INFO] [Sech - Boomerang] downloading 8138709 bytes
+2021-06-04 19:01:43,700 - [INFO] [Sech - Solita] Applying tags to the track
+2021-06-04 19:01:43,714 - [INFO] [Sech - Solita] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - Sueños/07 - Solita.mp3
+2021-06-04 19:01:43,719 - [INFO] [Sech - La Discusión] Getting the tags
+2021-06-04 19:01:46,250 - [INFO] [Sech - La Discusión] Getting the album cover
+2021-06-04 19:01:46,251 - [INFO] [Sech - La Discusión] Downloading the track
+2021-06-04 19:01:46,695 - [INFO] [Sech - La Discusión] downloading 7416684 bytes
+2021-06-04 19:01:51,977 - [INFO] [Sech - Boomerang] Applying tags to the track
+2021-06-04 19:01:51,987 - [INFO] [Sech - Boomerang] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - Sueños/08 - Boomerang.mp3
+2021-06-04 19:01:51,989 - [INFO] [Sech - Miss Lonely] Getting the tags
+2021-06-04 19:01:56,187 - [INFO] [Sech - La Discusión] Applying tags to the track
+2021-06-04 19:01:56,198 - [INFO] [Sech - La Discusión] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - Sueños/10 - La Discusión.mp3
+2021-06-04 19:01:56,201 - [INFO] [Sech - Lo Malo] Getting the tags
+2021-06-04 19:01:56,825 - [INFO] [Sech - Que Mas Pues (Remix)] Applying tags to the track
+2021-06-04 19:01:56,836 - [INFO] [Sech - Que Mas Pues (Remix)] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - Sueños/09 - Que Mas Pues (Remix).mp3
+2021-06-04 19:01:57,734 - [INFO] [Sech - Miss Lonely (Dimelo Flow Remix)] Getting the album cover
+2021-06-04 19:01:57,734 - [INFO] [Sech - Miss Lonely (Dimelo Flow Remix)] Downloading the track
+2021-06-04 19:01:58,162 - [INFO] [Sech - Miss Lonely (Dimelo Flow Remix)] downloading 9617240 bytes
+2021-06-04 19:01:59,672 - [INFO] [Sech - Lo Malo] Getting the album cover
+2021-06-04 19:01:59,673 - [INFO] [Sech - Lo Malo] Downloading the track
+2021-06-04 19:01:59,960 - [INFO] [Sech - Lo Malo] downloading 7530578 bytes
+2021-06-04 19:02:05,160 - [INFO] [Sech - Miss Lonely (Dimelo Flow Remix)] Applying tags to the track
+2021-06-04 19:02:05,170 - [INFO] [Sech - Miss Lonely (Dimelo Flow Remix)] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - Sueños/11 - Miss Lonely (Dimelo Flow Remix).mp3
+2021-06-04 19:02:06,855 - [INFO] [Sech - Lo Malo] Applying tags to the track
+2021-06-04 19:02:06,865 - [INFO] [Sech - Lo Malo] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - Sueños/12 - Lo Malo.mp3
+2021-06-04 19:02:07,052 - [INFO] [album_93384392_3] Finished downloading.
+2021-06-04 19:02:07,052 - [INFO] [track_664432122_3] Started downloading.
+2021-06-04 19:02:07,052 - [INFO] [Sech - Porno Auditiva] Getting the tags
+2021-06-04 19:02:10,527 - [INFO] [Sech - Porno Auditiva] Getting the album cover
+2021-06-04 19:02:10,830 - [INFO] [Sech - Porno Auditiva] Downloading the track
+2021-06-04 19:02:11,091 - [INFO] [Sech - Porno Auditiva] downloading 8392619 bytes
+2021-06-04 19:02:16,081 - [INFO] [Sech - Porno Auditiva] Applying tags to the track
+2021-06-04 19:02:16,092 - [INFO] [Sech - Porno Auditiva] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - Porno Auditiva/01 - Porno Auditiva.mp3
+2021-06-04 19:02:16,912 - [INFO] [track_664432122_3] Finished downloading.
+2021-06-04 19:02:16,913 - [INFO] [track_490763642_3] Started downloading.
+2021-06-04 19:02:16,913 - [INFO] [Sech - 5nco] Getting the tags
+2021-06-04 19:02:19,404 - [INFO] [Sech - 5nco] Getting the album cover
+2021-06-04 19:02:19,551 - [INFO] [Sech - 5nco] Downloading the track
+2021-06-04 19:02:27,001 - [INFO] [Sech - 5nco] downloading 8475166 bytes
+2021-06-04 19:02:31,409 - [INFO] [Sech - 5nco] Applying tags to the track
+2021-06-04 19:02:31,419 - [INFO] [Sech - 5nco] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 5nco/01 - 5nco.mp3
+2021-06-04 19:02:31,717 - [INFO] [track_490763642_3] Finished downloading.
+2021-06-04 19:02:31,717 - [INFO] [track_490745922_3] Started downloading.
+2021-06-04 19:02:31,717 - [INFO] [Sech - 1 AM] Getting the tags
+2021-06-04 19:03:08,842 - [INFO] [Sech - 1 AM] Getting the album cover
+2021-06-04 19:03:09,717 - [INFO] [Sech - 1 AM] Downloading the track
+2021-06-04 19:03:09,966 - [INFO] [Sech - 1 AM] downloading 9484537 bytes
+2021-06-04 19:03:15,283 - [INFO] [Sech - 1 AM] Applying tags to the track
+2021-06-04 19:03:15,296 - [INFO] [Sech - 1 AM] Track download completed
+/home/sga/Music/deemix Music/Sech/Sech - 1 AM/01 - 1 AM.mp3
+2021-06-04 19:03:16,197 - [INFO] [track_490745922_3] Finished downloading.
+2021-06-04 19:03:40,767 - [INFO] Generating queue item for: https://www.deezer.com/album/113515062
+2021-06-04 19:03:42,117 - [INFO] [album_113515062_3] Added to queue.
+2021-06-04 19:03:42,118 - [INFO] [album_113515062_3] Started downloading.
+2021-06-04 19:03:42,119 - [INFO] [RICH MUSIC LTD - Quizas] Getting the tags
+2021-06-04 19:03:42,124 - [INFO] [RICH MUSIC LTD - Imaginate] Getting the tags
+2021-06-04 19:03:42,129 - [INFO] [RICH MUSIC LTD - Perreo en La Luna] Getting the tags
+2021-06-04 19:03:44,981 - [INFO] [RICH MUSIC LTD - Imaginate] Getting the album cover
+2021-06-04 19:03:45,201 - [INFO] [RICH MUSIC LTD - Imaginate] Downloading the track
+2021-06-04 19:03:45,211 - [INFO] [RICH MUSIC LTD - Perreo en La Luna] Getting the album cover
+2021-06-04 19:03:45,212 - [INFO] [RICH MUSIC LTD - Perreo en La Luna] Downloading the track
+2021-06-04 19:03:45,414 - [INFO] [RICH MUSIC LTD - Imaginate] downloading 9002840 bytes
+2021-06-04 19:03:45,495 - [INFO] [RICH MUSIC LTD - Perreo en La Luna] downloading 8745795 bytes
+2021-06-04 19:03:51,797 - [INFO] [RICH MUSIC LTD - Quizas] Getting the album cover
+2021-06-04 19:03:51,798 - [INFO] [RICH MUSIC LTD - Quizas] Downloading the track
+2021-06-04 19:03:52,204 - [INFO] [RICH MUSIC LTD - Quizas] downloading 8645484 bytes
+2021-06-04 19:03:54,582 - [INFO] [RICH MUSIC LTD - Perreo en La Luna] Applying tags to the track
+2021-06-04 19:03:54,601 - [INFO] [RICH MUSIC LTD - Perreo en La Luna] Track download completed
+/home/sga/Music/deemix Music/RICH MUSIC LTD/RICH MUSIC LTD - The Academy/03 - Perreo en La Luna.mp3
+2021-06-04 19:03:54,611 - [INFO] [RICH MUSIC LTD - Porno] Getting the tags
+2021-06-04 19:03:57,177 - [INFO] [RICH MUSIC LTD - Imaginate] Applying tags to the track
+2021-06-04 19:03:57,194 - [INFO] [RICH MUSIC LTD - Imaginate] Track download completed
+/home/sga/Music/deemix Music/RICH MUSIC LTD/RICH MUSIC LTD - The Academy/02 - Imaginate.mp3
+2021-06-04 19:03:57,198 - [INFO] [RICH MUSIC LTD - Uniforme] Getting the tags
+2021-06-04 19:03:59,270 - [INFO] [RICH MUSIC LTD - Porno] Getting the album cover
+2021-06-04 19:03:59,271 - [INFO] [RICH MUSIC LTD - Porno] Downloading the track
+2021-06-04 19:03:59,564 - [INFO] [RICH MUSIC LTD - Porno] downloading 8508603 bytes
+2021-06-04 19:04:00,323 - [INFO] [RICH MUSIC LTD - Uniforme] Getting the album cover
+2021-06-04 19:04:00,324 - [INFO] [RICH MUSIC LTD - Uniforme] Downloading the track
+2021-06-04 19:04:00,410 - [INFO] [RICH MUSIC LTD - Quizas] Applying tags to the track
+2021-06-04 19:04:00,427 - [INFO] [RICH MUSIC LTD - Quizas] Track download completed
+/home/sga/Music/deemix Music/RICH MUSIC LTD/RICH MUSIC LTD - The Academy/01 - Quizas.mp3
+2021-06-04 19:04:00,433 - [INFO] [RICH MUSIC LTD - Me Pregunta] Getting the tags
+2021-06-04 19:04:00,753 - [INFO] [RICH MUSIC LTD - Uniforme] downloading 11174137 bytes
+2021-06-04 19:04:08,937 - [INFO] [RICH MUSIC LTD - Porno] Applying tags to the track
+2021-06-04 19:04:08,952 - [INFO] [RICH MUSIC LTD - Porno] Track download completed
+/home/sga/Music/deemix Music/RICH MUSIC LTD/RICH MUSIC LTD - The Academy/04 - Porno.mp3
+2021-06-04 19:04:08,960 - [INFO] [RICH MUSIC LTD - Feel Me] Getting the tags
+2021-06-04 19:04:10,908 - [INFO] [RICH MUSIC LTD - Uniforme] Applying tags to the track
+2021-06-04 19:04:10,920 - [INFO] [RICH MUSIC LTD - Uniforme] Track download completed
+/home/sga/Music/deemix Music/RICH MUSIC LTD/RICH MUSIC LTD - The Academy/05 - Uniforme.mp3
+2021-06-04 19:04:11,542 - [INFO] [RICH MUSIC LTD - Feel Me] Getting the album cover
+2021-06-04 19:04:11,543 - [INFO] [RICH MUSIC LTD - Feel Me] Downloading the track
+2021-06-04 19:04:11,901 - [INFO] [RICH MUSIC LTD - Feel Me] downloading 12013191 bytes
+2021-06-04 19:04:18,692 - [INFO] [RICH MUSIC LTD - Feel Me] Applying tags to the track
+2021-06-04 19:04:18,704 - [INFO] [RICH MUSIC LTD - Feel Me] Track download completed
+/home/sga/Music/deemix Music/RICH MUSIC LTD/RICH MUSIC LTD - The Academy/07 - Feel Me.mp3
+2021-06-04 19:04:36,445 - [INFO] [RICH MUSIC LTD - Me Pregunta] Getting the album cover
+2021-06-04 19:04:36,446 - [INFO] [RICH MUSIC LTD - Me Pregunta] Downloading the track
+2021-06-04 19:04:36,821 - [INFO] [RICH MUSIC LTD - Me Pregunta] downloading 9833533 bytes
+2021-06-04 19:04:42,528 - [INFO] [RICH MUSIC LTD - Me Pregunta] Applying tags to the track
+2021-06-04 19:04:42,543 - [INFO] [RICH MUSIC LTD - Me Pregunta] Track download completed
+/home/sga/Music/deemix Music/RICH MUSIC LTD/RICH MUSIC LTD - The Academy/06 - Me Pregunta.mp3
+2021-06-04 19:04:42,880 - [INFO] [album_113515062_3] Finished downloading.
+2021-06-04 19:04:51,886 - [INFO] Generating queue item for: https://www.deezer.com/album/170109192
+2021-06-04 19:04:53,332 - [INFO] [album_170109192_3] Added to queue.
+2021-06-04 19:04:53,333 - [INFO] [album_170109192_3] Started downloading.
+2021-06-04 19:04:53,334 - [INFO] [Ozuna - Enemigos Ocultos] Getting the tags
+2021-06-04 19:04:53,337 - [INFO] [Ozuna - Caramelo] Getting the tags
+2021-06-04 19:04:53,339 - [INFO] [Ozuna - No Se Da Cuenta] Getting the tags
+2021-06-04 19:04:55,691 - [INFO] [Ozuna - Caramelo] Getting the album cover
+2021-06-04 19:04:55,772 - [INFO] [Ozuna - No Se Da Cuenta] Getting the album cover
+2021-06-04 19:04:55,792 - [INFO] [Ozuna - Enemigos Ocultos] Getting the album cover
+2021-06-04 19:04:55,891 - [INFO] [Ozuna - Caramelo] Downloading the track
+2021-06-04 19:04:55,966 - [INFO] [Ozuna - No Se Da Cuenta] Downloading the track
+2021-06-04 19:04:56,052 - [INFO] [Ozuna - Enemigos Ocultos] Downloading the track
+2021-06-04 19:04:56,063 - [INFO] [Ozuna - Caramelo] downloading 8692505 bytes
+2021-06-04 19:04:56,146 - [INFO] [Ozuna - No Se Da Cuenta] downloading 9272423 bytes
+2021-06-04 19:04:56,333 - [INFO] [Ozuna - Enemigos Ocultos] downloading 17832227 bytes
+2021-06-04 19:05:09,612 - [INFO] [Ozuna - No Se Da Cuenta] Applying tags to the track
+2021-06-04 19:05:09,627 - [INFO] [Ozuna - No Se Da Cuenta] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/03 - No Se Da Cuenta.mp3
+2021-06-04 19:05:09,635 - [INFO] [Ozuna - Mala] Getting the tags
+2021-06-04 19:05:11,306 - [INFO] [Ozuna - Caramelo] Applying tags to the track
+2021-06-04 19:05:11,321 - [INFO] [Ozuna - Caramelo] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/02 - Caramelo.mp3
+2021-06-04 19:05:11,323 - [INFO] [Ozuna - Del Mar] Getting the tags
+2021-06-04 19:05:11,834 - [INFO] [Ozuna - Mala] Getting the album cover
+2021-06-04 19:05:11,834 - [INFO] [Ozuna - Mala] Downloading the track
+2021-06-04 19:05:12,028 - [INFO] [Ozuna - Mala] downloading 7410415 bytes
+2021-06-04 19:05:13,871 - [INFO] [Ozuna - Del Mar] Getting the album cover
+2021-06-04 19:05:13,872 - [INFO] [Ozuna - Del Mar] Downloading the track
+2021-06-04 19:05:14,255 - [INFO] [Ozuna - Del Mar] downloading 8582791 bytes
+2021-06-04 19:05:19,476 - [INFO] [Ozuna - Enemigos Ocultos] Applying tags to the track
+2021-06-04 19:05:19,491 - [INFO] [Ozuna - Enemigos Ocultos] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/01 - Enemigos Ocultos.mp3
+2021-06-04 19:05:19,495 - [INFO] [Ozuna - Sincero] Getting the tags
+2021-06-04 19:05:22,519 - [INFO] [Ozuna - Sincero] Getting the album cover
+2021-06-04 19:05:22,520 - [INFO] [Ozuna - Sincero] Downloading the track
+2021-06-04 19:05:22,722 - [INFO] [Ozuna - Sincero] downloading 7824195 bytes
+2021-06-04 19:05:23,404 - [INFO] [Ozuna - Mala] Applying tags to the track
+2021-06-04 19:05:23,411 - [INFO] [Ozuna - Mala] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/04 - Mala.mp3
+2021-06-04 19:05:23,413 - [INFO] [Ozuna - Que Tú Esperas] Getting the tags
+2021-06-04 19:05:25,667 - [INFO] [Ozuna - Del Mar] Applying tags to the track
+2021-06-04 19:05:25,676 - [INFO] [Ozuna - Del Mar] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/05 - Del Mar.mp3
+2021-06-04 19:05:25,679 - [INFO] [Ozuna - Un Get] Getting the tags
+2021-06-04 19:05:28,092 - [INFO] [Ozuna - Sincero] Applying tags to the track
+2021-06-04 19:05:28,106 - [INFO] [Ozuna - Sincero] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/06 - Sincero.mp3
+2021-06-04 19:05:28,108 - [INFO] [Ozuna - Una Locura] Getting the tags
+2021-06-04 19:05:29,760 - [INFO] [Ozuna - Una Locura] Getting the album cover
+2021-06-04 19:05:29,762 - [INFO] [Ozuna - Una Locura] Downloading the track
+2021-06-04 19:05:29,790 - [INFO] [Ozuna - Una Locura] downloading 9230627 bytes
+2021-06-04 19:05:30,177 - [INFO] [Ozuna - Un Get] Getting the album cover
+2021-06-04 19:05:30,179 - [INFO] [Ozuna - Un Get] Downloading the track
+2021-06-04 19:05:30,556 - [INFO] [Ozuna - Un Get] downloading 8449044 bytes
+2021-06-04 19:05:38,402 - [INFO] [Ozuna - Una Locura] Applying tags to the track
+2021-06-04 19:05:38,410 - [INFO] [Ozuna - Una Locura] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/09 - Una Locura.mp3
+2021-06-04 19:05:38,411 - [INFO] [Ozuna - A Escondidas] Getting the tags
+2021-06-04 19:05:39,588 - [INFO] [Ozuna - Un Get] Applying tags to the track
+2021-06-04 19:05:39,601 - [INFO] [Ozuna - Un Get] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/08 - Un Get.mp3
+2021-06-04 19:05:39,614 - [INFO] [Ozuna - Esto No Acaba] Getting the tags
+2021-06-04 19:05:40,832 - [INFO] [Ozuna - A Escondidas] Getting the album cover
+2021-06-04 19:05:40,833 - [INFO] [Ozuna - A Escondidas] Downloading the track
+2021-06-04 19:05:41,012 - [INFO] [Ozuna - A Escondidas] downloading 8038399 bytes
+2021-06-04 19:05:45,566 - [INFO] [Ozuna - A Escondidas] Applying tags to the track
+2021-06-04 19:05:45,579 - [INFO] [Ozuna - A Escondidas] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/10 - A Escondidas.mp3
+2021-06-04 19:05:45,580 - [INFO] [Ozuna - El Reggaetón] Getting the tags
+2021-06-04 19:05:45,628 - [INFO] [Ozuna - Esto No Acaba] Getting the album cover
+2021-06-04 19:05:45,629 - [INFO] [Ozuna - Esto No Acaba] Downloading the track
+2021-06-04 19:05:45,807 - [INFO] [Ozuna - Esto No Acaba] downloading 8685191 bytes
+2021-06-04 19:05:47,923 - [INFO] [Ozuna - El Reggaetón] Getting the album cover
+2021-06-04 19:05:47,924 - [INFO] [Ozuna - El Reggaetón] Downloading the track
+2021-06-04 19:05:49,300 - [INFO] [Ozuna - El Reggaetón] downloading 8681011 bytes
+2021-06-04 19:05:51,484 - [INFO] [Ozuna - Esto No Acaba] Applying tags to the track
+2021-06-04 19:05:51,500 - [INFO] [Ozuna - Esto No Acaba] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/11 - Esto No Acaba.mp3
+2021-06-04 19:05:51,507 - [INFO] [Ozuna - Despeinada] Getting the tags
+2021-06-04 19:05:54,276 - [INFO] [Ozuna - Despeinada] Getting the album cover
+2021-06-04 19:05:54,276 - [INFO] [Ozuna - Despeinada] Downloading the track
+2021-06-04 19:05:54,486 - [INFO] [Ozuna - Despeinada] downloading 8970448 bytes
+2021-06-04 19:05:55,541 - [INFO] [Ozuna - El Reggaetón] Applying tags to the track
+2021-06-04 19:05:55,554 - [INFO] [Ozuna - El Reggaetón] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/12 - El Reggaetón.mp3
+2021-06-04 19:05:55,556 - [INFO] [Ozuna - Gistro Amarillo] Getting the tags
+2021-06-04 19:05:58,878 - [INFO] [Ozuna - Gistro Amarillo] Getting the album cover
+2021-06-04 19:05:58,879 - [INFO] [Ozuna - Gistro Amarillo] Downloading the track
+2021-06-04 19:05:59,197 - [INFO] [Ozuna - Gistro Amarillo] downloading 9237942 bytes
+2021-06-04 19:06:00,854 - [INFO] [Ozuna - Despeinada] Applying tags to the track
+2021-06-04 19:06:00,870 - [INFO] [Ozuna - Despeinada] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/13 - Despeinada.mp3
+2021-06-04 19:06:00,875 - [INFO] [Ozuna - El Oso del Dinero] Getting the tags
+2021-06-04 19:06:01,222 - [INFO] [Ozuna - Que Tú Esperas] Getting the album cover
+2021-06-04 19:06:01,223 - [INFO] [Ozuna - Que Tú Esperas] Downloading the track
+2021-06-04 19:06:01,413 - [INFO] [Ozuna - Que Tú Esperas] downloading 8870137 bytes
+2021-06-04 19:06:09,105 - [INFO] [Ozuna - Gistro Amarillo] Applying tags to the track
+2021-06-04 19:06:09,119 - [INFO] [Ozuna - Gistro Amarillo] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/14 - Gistro Amarillo.mp3
+2021-06-04 19:06:09,129 - [INFO] [Ozuna - No La Mires] Getting the tags
+2021-06-04 19:06:10,307 - [INFO] [Ozuna - Que Tú Esperas] Applying tags to the track
+2021-06-04 19:06:10,320 - [INFO] [Ozuna - Que Tú Esperas] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/07 - Que Tú Esperas.mp3
+2021-06-04 19:06:10,321 - [INFO] [Ozuna - Duele Querer] Getting the tags
+2021-06-04 19:06:11,842 - [INFO] [Ozuna - No La Mires] Getting the album cover
+2021-06-04 19:06:11,843 - [INFO] [Ozuna - No La Mires] Downloading the track
+2021-06-04 19:06:12,024 - [INFO] [Ozuna - No La Mires] downloading 8456358 bytes
+2021-06-04 19:06:16,718 - [INFO] [Ozuna - No La Mires] Applying tags to the track
+2021-06-04 19:06:16,731 - [INFO] [Ozuna - No La Mires] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/16 - No La Mires.mp3
+2021-06-04 19:06:16,739 - [INFO] [Ozuna - Caramelo] Getting the tags
+2021-06-04 19:06:19,282 - [INFO] [Ozuna - Caramelo (Remix)] Getting the album cover
+2021-06-04 19:06:19,283 - [INFO] [Ozuna - Caramelo (Remix)] Downloading the track
+2021-06-04 19:06:19,460 - [INFO] [Ozuna - Caramelo (Remix)] downloading 9328848 bytes
+2021-06-04 19:06:19,580 - [INFO] [Ozuna - El Oso del Dinero] Getting the album cover
+2021-06-04 19:06:19,581 - [INFO] [Ozuna - El Oso del Dinero] Downloading the track
+2021-06-04 19:06:19,879 - [INFO] [Ozuna - El Oso del Dinero] downloading 6285060 bytes
+2021-06-04 19:06:24,449 - [INFO] [Ozuna - Duele Querer] Getting the album cover
+2021-06-04 19:06:24,450 - [INFO] [Ozuna - Duele Querer] Downloading the track
+2021-06-04 19:06:24,643 - [INFO] [Ozuna - El Oso del Dinero] Applying tags to the track
+2021-06-04 19:06:24,655 - [INFO] [Ozuna - El Oso del Dinero] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/15 - El Oso del Dinero.mp3
+2021-06-04 19:06:24,659 - [INFO] [Ozuna - Duele Querer] downloading 4804440 bytes
+2021-06-04 19:06:24,661 - [INFO] [Ozuna - Del Mar] Getting the tags
+2021-06-04 19:06:29,822 - [INFO] [Ozuna - Duele Querer] Applying tags to the track
+2021-06-04 19:06:29,833 - [INFO] [Ozuna - Duele Querer] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/17 - Duele Querer.mp3
+2021-06-04 19:06:29,836 - [INFO] [Ozuna - Gracias] Getting the tags
+2021-06-04 19:06:30,722 - [INFO] [Ozuna - Caramelo (Remix)] Applying tags to the track
+2021-06-04 19:06:30,736 - [INFO] [Ozuna - Caramelo (Remix)] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/18 - Caramelo (Remix).mp3
+2021-06-04 19:06:40,974 - [INFO] Generating queue item for: https://www.deezer.com/album/170953892
+2021-06-04 19:06:42,236 - [INFO] [track_1069058312_3] Added to queue.
+2021-06-04 19:06:43,925 - [INFO] [Ozuna - Del Mar (Solo Version)] Getting the album cover
+2021-06-04 19:06:43,928 - [INFO] [Ozuna - Del Mar (Solo Version)] Downloading the track
+2021-06-04 19:06:44,199 - [INFO] [Ozuna - Del Mar (Solo Version)] downloading 8263052 bytes
+2021-06-04 19:06:48,795 - [INFO] [Ozuna - Del Mar (Solo Version)] Applying tags to the track
+2021-06-04 19:06:48,809 - [INFO] [Ozuna - Del Mar (Solo Version)] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/19 - Del Mar (Solo Version).mp3
+2021-06-04 19:06:49,975 - [INFO] Generating queue item for: https://www.deezer.com/album/139903092
+2021-06-04 19:06:51,232 - [INFO] [track_921104532_3] Added to queue.
+2021-06-04 19:06:53,759 - [INFO] Generating queue item for: https://www.deezer.com/album/137416902
+2021-06-04 19:06:54,996 - [INFO] [track_909576642_3] Added to queue.
+2021-06-04 19:06:57,097 - [INFO] [Ozuna - Gracias] Getting the album cover
+2021-06-04 19:06:57,099 - [INFO] [Ozuna - Gracias] Downloading the track
+2021-06-04 19:06:57,288 - [INFO] [Ozuna - Gracias] downloading 6459558 bytes
+2021-06-04 19:07:00,792 - [INFO] [Ozuna - Gracias] Applying tags to the track
+2021-06-04 19:07:00,805 - [INFO] [Ozuna - Gracias] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Enoc/20 - Gracias.mp3
+2021-06-04 19:07:01,718 - [INFO] [album_170109192_3] Finished downloading.
+2021-06-04 19:07:01,719 - [INFO] [track_1069058312_3] Started downloading.
+2021-06-04 19:07:01,719 - [INFO] [Ozuna - Despeinada] Getting the tags
+2021-06-04 19:07:10,607 - [INFO] Generating queue item for: https://www.deezer.com/album/78895802
+2021-06-04 19:07:11,931 - [INFO] [track_587129972_3] Added to queue.
+2021-06-04 19:07:24,742 - [INFO] Generating queue item for: https://www.deezer.com/album/46000842
+2021-06-04 19:07:26,064 - [INFO] [album_46000842_3] Added to queue.
+2021-06-04 19:08:06,950 - [INFO] [Ozuna - Despeinada] Getting the album cover
+2021-06-04 19:08:07,160 - [INFO] [Ozuna - Despeinada] Downloading the track
+2021-06-04 19:08:07,292 - [INFO] [Ozuna - Despeinada] downloading 8970448 bytes
+2021-06-04 19:08:12,077 - [INFO] [Ozuna - Despeinada] Applying tags to the track
+2021-06-04 19:08:12,085 - [INFO] [Ozuna - Despeinada] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Despeinada/01 - Despeinada.mp3
+2021-06-04 19:08:12,354 - [INFO] [track_1069058312_3] Finished downloading.
+2021-06-04 19:08:12,355 - [INFO] [track_921104532_3] Started downloading.
+2021-06-04 19:08:12,355 - [INFO] [Black Eyed Peas - MAMACITA] Getting the tags
+2021-06-04 19:08:14,306 - [INFO] [Black Eyed Peas - MAMACITA] Getting the album cover
+2021-06-04 19:08:14,448 - [INFO] [Black Eyed Peas - MAMACITA] Downloading the track
+2021-06-04 19:08:14,642 - [INFO] [Black Eyed Peas - MAMACITA] downloading 9968325 bytes
+2021-06-04 19:08:20,270 - [INFO] [Black Eyed Peas - MAMACITA] Applying tags to the track
+2021-06-04 19:08:20,287 - [INFO] [Black Eyed Peas - MAMACITA] Track download completed
+/home/sga/Music/deemix Music/Black Eyed Peas/Black Eyed Peas - MAMACITA/01 - MAMACITA.mp3
+2021-06-04 19:08:20,573 - [INFO] [track_921104532_3] Finished downloading.
+2021-06-04 19:08:20,573 - [INFO] [track_909576642_3] Started downloading.
+2021-06-04 19:08:20,574 - [INFO] [Lunay - La Cama] Getting the tags
+2021-06-04 19:08:22,124 - [INFO] [Lunay - La Cama (Remix)] Getting the album cover
+2021-06-04 19:08:22,296 - [INFO] [Lunay - La Cama (Remix)] Downloading the track
+2021-06-04 19:08:22,571 - [INFO] [Lunay - La Cama (Remix)] downloading 13211688 bytes
+2021-06-04 19:08:29,755 - [INFO] [Lunay - La Cama (Remix)] Applying tags to the track
+2021-06-04 19:08:29,765 - [INFO] [Lunay - La Cama (Remix)] Track download completed
+/home/sga/Music/deemix Music/Lunay/Lunay - La Cama (Remix)/01 - La Cama (Remix).mp3
+2021-06-04 19:08:30,097 - [INFO] [track_909576642_3] Finished downloading.
+2021-06-04 19:08:30,097 - [INFO] [track_587129972_3] Started downloading.
+2021-06-04 19:08:30,098 - [INFO] [Ozuna - Luz Apaga] Getting the tags
+2021-06-04 19:08:32,118 - [INFO] [Ozuna - Luz Apaga] Getting the album cover
+2021-06-04 19:08:32,240 - [INFO] [Ozuna - Luz Apaga] Downloading the track
+2021-06-04 19:08:32,557 - [INFO] [Ozuna - Luz Apaga] downloading 9802186 bytes
+2021-06-04 19:08:38,053 - [INFO] [Ozuna - Luz Apaga] Applying tags to the track
+2021-06-04 19:08:38,068 - [INFO] [Ozuna - Luz Apaga] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Luz Apaga/01 - Luz Apaga.mp3
+2021-06-04 19:08:38,234 - [INFO] [track_587129972_3] Finished downloading.
+2021-06-04 19:08:38,235 - [INFO] [album_46000842_3] Started downloading.
+2021-06-04 19:08:38,236 - [INFO] [Ozuna - Odisea] Getting the tags
+2021-06-04 19:08:38,240 - [INFO] [Ozuna - Tú Foto] Getting the tags
+2021-06-04 19:08:38,244 - [INFO] [Ozuna - Se Preparó] Getting the tags
+2021-06-04 19:08:40,845 - [INFO] [Ozuna - Odisea] Getting the album cover
+2021-06-04 19:08:40,969 - [INFO] [Ozuna - Odisea] Downloading the track
+2021-06-04 19:08:40,979 - [INFO] [Ozuna - Se Preparó] Getting the album cover
+2021-06-04 19:08:40,979 - [INFO] [Ozuna - Se Preparó] Downloading the track
+2021-06-04 19:08:41,175 - [INFO] [Ozuna - Se Preparó] downloading 7525354 bytes
+2021-06-04 19:08:41,250 - [INFO] [Ozuna - Odisea] downloading 7593272 bytes
+2021-06-04 19:08:44,882 - [INFO] [Ozuna - Tú Foto] Getting the album cover
+2021-06-04 19:08:44,883 - [INFO] [Ozuna - Tú Foto] Downloading the track
+2021-06-04 19:08:45,438 - [INFO] [Ozuna - Tú Foto] downloading 7731199 bytes
+2021-06-04 19:08:50,925 - [INFO] [Ozuna - Odisea] Applying tags to the track
+2021-06-04 19:08:50,932 - [INFO] [Ozuna - Odisea] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/01 - Odisea.mp3
+2021-06-04 19:08:50,934 - [INFO] [Ozuna - Cumpleaños] Getting the tags
+2021-06-04 19:08:51,053 - [INFO] [Ozuna - Se Preparó] Applying tags to the track
+2021-06-04 19:08:51,066 - [INFO] [Ozuna - Se Preparó] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/03 - Se Preparó.mp3
+2021-06-04 19:08:51,070 - [INFO] [Ozuna - Dile Que Tu Me Quieres] Getting the tags
+2021-06-04 19:08:53,240 - [INFO] [Ozuna - Dile Que Tu Me Quieres] Getting the album cover
+2021-06-04 19:08:53,241 - [INFO] [Ozuna - Dile Que Tu Me Quieres] Downloading the track
+2021-06-04 19:08:53,584 - [INFO] [Ozuna - Dile Que Tu Me Quieres] downloading 9063444 bytes
+2021-06-04 19:08:54,639 - [INFO] [Ozuna - Tú Foto] Applying tags to the track
+2021-06-04 19:08:54,652 - [INFO] [Ozuna - Tú Foto] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/02 - Tú Foto.mp3
+2021-06-04 19:08:54,657 - [INFO] [Ozuna - Egoísta] Getting the tags
+2021-06-04 19:08:57,042 - [INFO] [Ozuna - Egoísta] Getting the album cover
+2021-06-04 19:08:57,043 - [INFO] [Ozuna - Egoísta] Downloading the track
+2021-06-04 19:08:57,244 - [INFO] [Ozuna - Egoísta] downloading 9921305 bytes
+2021-06-04 19:09:01,029 - [INFO] [Ozuna - Dile Que Tu Me Quieres] Applying tags to the track
+2021-06-04 19:09:01,044 - [INFO] [Ozuna - Dile Que Tu Me Quieres] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/05 - Dile Que Tu Me Quieres.mp3
+2021-06-04 19:09:01,050 - [INFO] [Ozuna - Una Flor] Getting the tags
+2021-06-04 19:09:03,858 - [INFO] [Ozuna - Una Flor] Getting the album cover
+2021-06-04 19:09:03,859 - [INFO] [Ozuna - Una Flor] Downloading the track
+2021-06-04 19:09:04,072 - [INFO] [Ozuna - Una Flor] downloading 8262007 bytes
+2021-06-04 19:09:04,308 - [INFO] [Ozuna - Egoísta] Applying tags to the track
+2021-06-04 19:09:04,324 - [INFO] [Ozuna - Egoísta] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/06 - Egoísta.mp3
+2021-06-04 19:09:04,329 - [INFO] [Ozuna - Quiero Repetir] Getting the tags
+2021-06-04 19:09:06,845 - [INFO] [Ozuna - Quiero Repetir] Getting the album cover
+2021-06-04 19:09:06,846 - [INFO] [Ozuna - Quiero Repetir] Downloading the track
+2021-06-04 19:09:07,154 - [INFO] [Ozuna - Quiero Repetir] downloading 8042578 bytes
+2021-06-04 19:09:10,783 - [INFO] [Ozuna - Una Flor] Applying tags to the track
+2021-06-04 19:09:10,791 - [INFO] [Ozuna - Una Flor] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/07 - Una Flor.mp3
+2021-06-04 19:09:10,793 - [INFO] [Ozuna - Noches de Aventura] Getting the tags
+2021-06-04 19:09:11,337 - [INFO] Generating queue item for: https://www.deezer.com/album/233403532
+2021-06-04 19:09:12,816 - [INFO] [track_1386230782_3] Added to queue.
+2021-06-04 19:09:13,468 - [INFO] [Ozuna - Quiero Repetir] Applying tags to the track
+2021-06-04 19:09:13,477 - [INFO] [Ozuna - Quiero Repetir] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/08 - Quiero Repetir.mp3
+2021-06-04 19:09:13,484 - [INFO] [Ozuna - Noches de Aventura] Getting the album cover
+2021-06-04 19:09:13,485 - [INFO] [Ozuna - Noches de Aventura] Downloading the track
+2021-06-04 19:09:13,493 - [INFO] [Ozuna - Pide Lo Que Tú Quieras] Getting the tags
+2021-06-04 19:09:13,959 - [INFO] [Ozuna - Noches de Aventura] downloading 9470954 bytes
+2021-06-04 19:09:15,150 - [INFO] Generating queue item for: https://www.deezer.com/album/224392632
+2021-06-04 19:09:15,784 - [INFO] [Ozuna - Pide Lo Que Tú Quieras] Getting the album cover
+2021-06-04 19:09:15,785 - [INFO] [Ozuna - Pide Lo Que Tú Quieras] Downloading the track
+2021-06-04 19:09:16,163 - [INFO] [Ozuna - Pide Lo Que Tú Quieras] downloading 9481403 bytes
+2021-06-04 19:09:16,594 - [INFO] [track_1349744842_3] Added to queue.
+2021-06-04 19:09:16,662 - [INFO] Generating queue item for: https://www.deezer.com/album/224717462
+2021-06-04 19:09:18,115 - [INFO] [album_224717462_3] Added to queue.
+2021-06-04 19:09:19,904 - [INFO] Generating queue item for: https://www.deezer.com/album/221495492
+2021-06-04 19:09:21,309 - [INFO] [track_1331984152_3] Added to queue.
+2021-06-04 19:09:22,333 - [INFO] [Ozuna - Noches de Aventura] Applying tags to the track
+2021-06-04 19:09:22,343 - [INFO] [Ozuna - Noches de Aventura] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/09 - Noches de Aventura.mp3
+2021-06-04 19:09:22,346 - [INFO] [Ozuna - Síguelo Bailando] Getting the tags
+2021-06-04 19:09:24,323 - [INFO] [Ozuna - Pide Lo Que Tú Quieras] Applying tags to the track
+2021-06-04 19:09:24,338 - [INFO] [Ozuna - Pide Lo Que Tú Quieras] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/10 - Pide Lo Que Tú Quieras.mp3
+2021-06-04 19:09:24,339 - [INFO] [Ozuna - Bebé] Getting the tags
+2021-06-04 19:09:25,072 - [INFO] [Ozuna - Síguelo Bailando] Getting the album cover
+2021-06-04 19:09:25,072 - [INFO] [Ozuna - Síguelo Bailando] Downloading the track
+2021-06-04 19:09:25,761 - [INFO] [Ozuna - Cumpleaños] Getting the album cover
+2021-06-04 19:09:25,762 - [INFO] [Ozuna - Cumpleaños] Downloading the track
+2021-06-04 19:09:26,045 - [INFO] [Ozuna - Cumpleaños] downloading 8762513 bytes
+2021-06-04 19:09:26,420 - [INFO] [Ozuna - Bebé] Getting the album cover
+2021-06-04 19:09:26,421 - [INFO] [Ozuna - Bebé] Downloading the track
+2021-06-04 19:09:26,715 - [INFO] [Ozuna - Síguelo Bailando] downloading 9074937 bytes
+2021-06-04 19:09:26,835 - [INFO] [Ozuna - Bebé] downloading 9214954 bytes
+2021-06-04 19:09:36,854 - [INFO] Generating queue item for: https://www.deezer.com/album/185127622
+2021-06-04 19:09:38,262 - [INFO] [track_1136326982_3] Added to queue.
+2021-06-04 19:09:38,423 - [INFO] [Ozuna - Cumpleaños] Applying tags to the track
+2021-06-04 19:09:38,439 - [INFO] [Ozuna - Cumpleaños] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/04 - Cumpleaños.mp3
+2021-06-04 19:09:38,444 - [INFO] [Ozuna - El Farsante] Getting the tags
+2021-06-04 19:09:39,175 - [INFO] Generating queue item for: https://www.deezer.com/album/180843102
+2021-06-04 19:09:40,818 - [INFO] [Ozuna - Síguelo Bailando] Applying tags to the track
+2021-06-04 19:09:40,829 - [INFO] [Ozuna - Síguelo Bailando] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/11 - Síguelo Bailando.mp3
+2021-06-04 19:09:40,832 - [INFO] [track_1115413862_3] Added to queue.
+2021-06-04 19:09:40,834 - [INFO] [Ozuna - No Quiere Enamorarse] Getting the tags
+2021-06-04 19:09:41,073 - [INFO] [Ozuna - Bebé] Applying tags to the track
+2021-06-04 19:09:41,084 - [INFO] [Ozuna - Bebé] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/12 - Bebé.mp3
+2021-06-04 19:09:41,101 - [INFO] [Ozuna - Carita de Angel] Getting the tags
+2021-06-04 19:09:41,518 - [INFO] [Ozuna - El Farsante] Getting the album cover
+2021-06-04 19:09:41,519 - [INFO] [Ozuna - El Farsante] Downloading the track
+2021-06-04 19:09:41,795 - [INFO] [Ozuna - El Farsante] downloading 9356015 bytes
+2021-06-04 19:09:43,164 - [INFO] [Ozuna - No Quiere Enamorarse] Getting the album cover
+2021-06-04 19:09:43,165 - [INFO] [Ozuna - No Quiere Enamorarse] Downloading the track
+2021-06-04 19:09:44,115 - [INFO] [Ozuna - No Quiere Enamorarse] downloading 8529501 bytes
+2021-06-04 19:09:45,284 - [INFO] [Ozuna - Carita de Angel] Getting the album cover
+2021-06-04 19:09:45,285 - [INFO] [Ozuna - Carita de Angel] Downloading the track
+2021-06-04 19:09:45,577 - [INFO] [Ozuna - Carita de Angel] downloading 8064521 bytes
+2021-06-04 19:09:50,502 - [INFO] Generating queue item for: https://www.deezer.com/album/127911322
+2021-06-04 19:09:50,630 - [INFO] [Ozuna - El Farsante] Applying tags to the track
+2021-06-04 19:09:50,644 - [INFO] [Ozuna - El Farsante] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/13 - El Farsante.mp3
+2021-06-04 19:09:50,651 - [INFO] [Ozuna - Si No Te Quiere] Getting the tags
+2021-06-04 19:09:52,017 - [INFO] [album_127911322_3] Added to queue.
+2021-06-04 19:09:53,575 - [INFO] [Ozuna - Si No Te Quiere] Getting the album cover
+2021-06-04 19:09:53,576 - [INFO] [Ozuna - Si No Te Quiere] Downloading the track
+2021-06-04 19:09:53,811 - [INFO] [Ozuna - Si No Te Quiere] downloading 9046725 bytes
+2021-06-04 19:09:55,768 - [INFO] [Ozuna - No Quiere Enamorarse] Applying tags to the track
+2021-06-04 19:09:55,779 - [INFO] [Ozuna - No Quiere Enamorarse] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/14 - No Quiere Enamorarse.mp3
+2021-06-04 19:09:56,424 - [INFO] [Ozuna - Carita de Angel] Applying tags to the track
+2021-06-04 19:09:56,433 - [INFO] [Ozuna - Carita de Angel] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/15 - Carita de Angel.mp3
+2021-06-04 19:10:00,726 - [INFO] [Ozuna - Si No Te Quiere] Applying tags to the track
+2021-06-04 19:10:00,738 - [INFO] [Ozuna - Si No Te Quiere] Track download completed
+/home/sga/Music/deemix Music/Ozuna/Ozuna - Odisea/16 - Si No Te Quiere.mp3
+2021-06-04 19:10:00,919 - [INFO] [album_46000842_3] Finished downloading.
+2021-06-04 19:10:00,919 - [INFO] [track_1386230782_3] Started downloading.
+2021-06-04 19:10:00,920 - [INFO] [Luis Fonsi - Bésame] Getting the tags
+2021-06-04 19:10:03,041 - [INFO] [Luis Fonsi - Bésame] Getting the album cover
+2021-06-04 19:10:03,238 - [INFO] [Luis Fonsi - Bésame] Downloading the track
+2021-06-04 19:10:03,502 - [INFO] [Luis Fonsi - Bésame] downloading 6806464 bytes
+2021-06-04 19:10:07,389 - [INFO] [Luis Fonsi - Bésame] Applying tags to the track
+2021-06-04 19:10:07,400 - [INFO] [Luis Fonsi - Bésame] Track download completed
+/home/sga/Music/deemix Music/Luis Fonsi/Luis Fonsi - Bésame/01 - Bésame.mp3
+2021-06-04 19:10:08,098 - [INFO] [track_1386230782_3] Finished downloading.
+2021-06-04 19:10:08,099 - [INFO] [track_1349744842_3] Started downloading.
+2021-06-04 19:10:08,099 - [INFO] [Micro TDH - EL TREN] Getting the tags
+2021-06-04 19:10:09,386 - [INFO] [Micro TDH - EL TREN] Getting the album cover
+2021-06-04 19:10:09,535 - [INFO] [Micro TDH - EL TREN] Downloading the track
+2021-06-04 19:10:09,716 - [INFO] [Micro TDH - EL TREN] downloading 8607868 bytes
+2021-06-04 19:10:14,373 - [INFO] [Micro TDH - EL TREN] Applying tags to the track
+2021-06-04 19:10:14,392 - [INFO] [Micro TDH - EL TREN] Track download completed
+/home/sga/Music/deemix Music/Micro TDH/Micro TDH - EL TREN/01 - EL TREN.mp3
+2021-06-04 19:10:14,683 - [INFO] [track_1349744842_3] Finished downloading.
+2021-06-04 19:10:14,684 - [INFO] [album_224717462_3] Started downloading.
+2021-06-04 19:10:14,685 - [INFO] [Myke Towers - MÍRENME AHORA] Getting the tags
+2021-06-04 19:10:14,691 - [INFO] [Myke Towers - CUANDO ME VEN] Getting the tags
+2021-06-04 19:10:14,698 - [INFO] [Myke Towers - LO INVERTÍ] Getting the tags
+2021-06-04 19:10:16,910 - [INFO] [Myke Towers - CUANDO ME VEN] Getting the album cover
+2021-06-04 19:10:17,025 - [INFO] [Myke Towers - LO INVERTÍ] Getting the album cover
+2021-06-04 19:10:17,057 - [INFO] [Myke Towers - MÍRENME AHORA] Getting the album cover
+2021-06-04 19:10:17,136 - [INFO] [Myke Towers - CUANDO ME VEN] Downloading the track
+2021-06-04 19:10:17,340 - [INFO] [Myke Towers - MÍRENME AHORA] Downloading the track
+2021-06-04 19:10:17,357 - [INFO] [Myke Towers - LO INVERTÍ] Downloading the track
+2021-06-04 19:10:17,457 - [INFO] [Myke Towers - CUANDO ME VEN] downloading 7124113 bytes
+2021-06-04 19:10:17,535 - [INFO] [Myke Towers - LO INVERTÍ] downloading 6936031 bytes
+2021-06-04 19:10:17,615 - [INFO] [Myke Towers - MÍRENME AHORA] downloading 7518040 bytes
+2021-06-04 19:10:28,789 - [INFO] [Myke Towers - LO INVERTÍ] Applying tags to the track
+2021-06-04 19:10:28,797 - [INFO] [Myke Towers - LO INVERTÍ] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/03 - LO INVERTÍ.mp3
+2021-06-04 19:10:28,801 - [INFO] [Myke Towers - JOVEN LEYENDA] Getting the tags
+2021-06-04 19:10:28,852 - [INFO] [Myke Towers - MÍRENME AHORA] Applying tags to the track
+2021-06-04 19:10:28,862 - [INFO] [Myke Towers - MÍRENME AHORA] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/01 - MÍRENME AHORA.mp3
+2021-06-04 19:10:28,865 - [INFO] [Myke Towers - PIN PIN] Getting the tags
+2021-06-04 19:10:29,144 - [INFO] [Myke Towers - CUANDO ME VEN] Applying tags to the track
+2021-06-04 19:10:29,156 - [INFO] [Myke Towers - CUANDO ME VEN] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/02 - CUANDO ME VEN.mp3
+2021-06-04 19:10:29,175 - [INFO] [Myke Towers - SR DE LOS CIELOS] Getting the tags
+2021-06-04 19:10:30,623 - [INFO] [Myke Towers - JOVEN LEYENDA] Getting the album cover
+2021-06-04 19:10:30,624 - [INFO] [Myke Towers - JOVEN LEYENDA] Downloading the track
+2021-06-04 19:10:30,804 - [INFO] [Myke Towers - JOVEN LEYENDA] downloading 7710301 bytes
+2021-06-04 19:10:31,275 - [INFO] [Myke Towers - SR DE LOS CIELOS] Getting the album cover
+2021-06-04 19:10:31,276 - [INFO] [Myke Towers - SR DE LOS CIELOS] Downloading the track
+2021-06-04 19:10:31,485 - [INFO] [Myke Towers - SR DE LOS CIELOS] downloading 6986186 bytes
+2021-06-04 19:10:37,204 - [INFO] [Myke Towers - JOVEN LEYENDA] Applying tags to the track
+2021-06-04 19:10:37,213 - [INFO] [Myke Towers - JOVEN LEYENDA] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/04 - JOVEN LEYENDA.mp3
+2021-06-04 19:10:37,216 - [INFO] [Myke Towers - ALTO RIESGO] Getting the tags
+2021-06-04 19:10:38,736 - [INFO] [Myke Towers - SR DE LOS CIELOS] Applying tags to the track
+2021-06-04 19:10:38,746 - [INFO] [Myke Towers - SR DE LOS CIELOS] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/06 - SR DE LOS CIELOS.mp3
+2021-06-04 19:10:38,747 - [INFO] [Myke Towers - DE NOVELA] Getting the tags
+2021-06-04 19:10:39,900 - [INFO] [Myke Towers - ALTO RIESGO] Getting the album cover
+2021-06-04 19:10:39,901 - [INFO] [Myke Towers - ALTO RIESGO] Downloading the track
+2021-06-04 19:10:40,174 - [INFO] [Myke Towers - ALTO RIESGO] downloading 4203623 bytes
+2021-06-04 19:10:40,694 - [INFO] [Myke Towers - DE NOVELA] Getting the album cover
+2021-06-04 19:10:40,696 - [INFO] [Myke Towers - DE NOVELA] Downloading the track
+2021-06-04 19:10:41,099 - [INFO] [Myke Towers - DE NOVELA] downloading 6884831 bytes
+2021-06-04 19:10:43,855 - [INFO] [Myke Towers - ALTO RIESGO] Applying tags to the track
+2021-06-04 19:10:43,864 - [INFO] [Myke Towers - ALTO RIESGO] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/07 - ALTO RIESGO.mp3
+2021-06-04 19:10:43,867 - [INFO] [Myke Towers - CUENTA] Getting the tags
+2021-06-04 19:10:46,052 - [INFO] [Myke Towers - CUENTA] Getting the album cover
+2021-06-04 19:10:46,053 - [INFO] [Myke Towers - CUENTA] Downloading the track
+2021-06-04 19:10:46,237 - [INFO] [Myke Towers - DE NOVELA] Applying tags to the track
+2021-06-04 19:10:46,248 - [INFO] [Myke Towers - DE NOVELA] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/08 - DE NOVELA.mp3
+2021-06-04 19:10:46,250 - [INFO] [Myke Towers - CUENTA] downloading 6271476 bytes
+2021-06-04 19:10:46,252 - [INFO] [Myke Towers - BUSINESS] Getting the tags
+2021-06-04 19:10:46,511 - [INFO] [Myke Towers - PIN PIN] Getting the album cover
+2021-06-04 19:10:46,512 - [INFO] [Myke Towers - PIN PIN] Downloading the track
+2021-06-04 19:10:46,714 - [INFO] [Myke Towers - PIN PIN] downloading 6385370 bytes
+2021-06-04 19:10:49,851 - [INFO] [Myke Towers - BUSINESS] Getting the album cover
+2021-06-04 19:10:49,852 - [INFO] [Myke Towers - BUSINESS] Downloading the track
+2021-06-04 19:10:50,067 - [INFO] [Myke Towers - BUSINESS] downloading 4924603 bytes
+2021-06-04 19:10:52,809 - [INFO] [Myke Towers - CUENTA] Applying tags to the track
+2021-06-04 19:10:52,820 - [INFO] [Myke Towers - CUENTA] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/09 - CUENTA.mp3
+2021-06-04 19:10:52,823 - [INFO] [Myke Towers - BALAS LOCAS] Getting the tags
+2021-06-04 19:10:54,498 - [INFO] [Myke Towers - PIN PIN] Applying tags to the track
+2021-06-04 19:10:54,505 - [INFO] [Myke Towers - PIN PIN] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/05 - PIN PIN.mp3
+2021-06-04 19:10:54,508 - [INFO] [Myke Towers - PRIMER MELÓN] Getting the tags
+2021-06-04 19:10:55,475 - [INFO] [Myke Towers - BUSINESS] Applying tags to the track
+2021-06-04 19:10:55,482 - [INFO] [Myke Towers - BUSINESS] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/10 - BUSINESS.mp3
+2021-06-04 19:10:55,483 - [INFO] [Myke Towers - RONCARME] Getting the tags
+2021-06-04 19:10:57,448 - [INFO] [Myke Towers - PRIMER MELÓN] Getting the album cover
+2021-06-04 19:10:57,449 - [INFO] [Myke Towers - PRIMER MELÓN] Downloading the track
+2021-06-04 19:10:57,490 - [INFO] [Myke Towers - BALAS LOCAS] Getting the album cover
+2021-06-04 19:10:57,491 - [INFO] [Myke Towers - BALAS LOCAS] Downloading the track
+2021-06-04 19:10:57,741 - [INFO] [Myke Towers - PRIMER MELÓN] downloading 5113729 bytes
+2021-06-04 19:10:57,770 - [INFO] [Myke Towers - BALAS LOCAS] downloading 7137697 bytes
+2021-06-04 19:10:58,226 - [INFO] [Myke Towers - RONCARME] Getting the album cover
+2021-06-04 19:10:58,226 - [INFO] [Myke Towers - RONCARME] Downloading the track
+2021-06-04 19:10:58,450 - [INFO] [Myke Towers - RONCARME] downloading 7757321 bytes
+2021-06-04 19:11:06,173 - [INFO] [Myke Towers - PRIMER MELÓN] Applying tags to the track
+2021-06-04 19:11:06,186 - [INFO] [Myke Towers - PRIMER MELÓN] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/12 - PRIMER MELÓN.mp3
+2021-06-04 19:11:06,190 - [INFO] [Myke Towers - JUGADOR FRANQUICIA] Getting the tags
+2021-06-04 19:11:08,715 - [INFO] [Myke Towers - RONCARME] Applying tags to the track
+2021-06-04 19:11:08,729 - [INFO] [Myke Towers - RONCARME] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/13 - RONCARME.mp3
+2021-06-04 19:11:08,733 - [INFO] [Myke Towers - AJEDRÉZ] Getting the tags
+2021-06-04 19:11:08,915 - [INFO] [Myke Towers - JUGADOR FRANQUICIA] Getting the album cover
+2021-06-04 19:11:08,916 - [INFO] [Myke Towers - JUGADOR FRANQUICIA] Downloading the track
+2021-06-04 19:11:09,068 - [INFO] [Myke Towers - BALAS LOCAS] Applying tags to the track
+2021-06-04 19:11:09,077 - [INFO] [Myke Towers - BALAS LOCAS] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/11 - BALAS LOCAS.mp3
+2021-06-04 19:11:09,078 - [INFO] [Myke Towers - PAPA JOHNS] Getting the tags
+2021-06-04 19:11:09,231 - [INFO] [Myke Towers - JUGADOR FRANQUICIA] downloading 6869158 bytes
+2021-06-04 19:11:11,031 - [INFO] [Myke Towers - PAPA JOHNS] Getting the album cover
+2021-06-04 19:11:11,032 - [INFO] [Myke Towers - PAPA JOHNS] Downloading the track
+2021-06-04 19:11:11,228 - [INFO] [Myke Towers - PAPA JOHNS] downloading 5939199 bytes
+2021-06-04 19:11:11,599 - [INFO] [Myke Towers - AJEDRÉZ] Getting the album cover
+2021-06-04 19:11:11,599 - [INFO] [Myke Towers - AJEDRÉZ] Downloading the track
+2021-06-04 19:11:11,972 - [INFO] [Myke Towers - AJEDRÉZ] downloading 8034219 bytes
+2021-06-04 19:11:16,566 - [INFO] [Myke Towers - JUGADOR FRANQUICIA] Applying tags to the track
+2021-06-04 19:11:16,577 - [INFO] [Myke Towers - JUGADOR FRANQUICIA] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/14 - JUGADOR FRANQUICIA.mp3
+2021-06-04 19:11:16,588 - [INFO] [Myke Towers - BURBERRY] Getting the tags
+2021-06-04 19:11:18,880 - [INFO] [Myke Towers - BURBERRY] Getting the album cover
+2021-06-04 19:11:18,880 - [INFO] [Myke Towers - BURBERRY] Downloading the track
+2021-06-04 19:11:19,096 - [INFO] [Myke Towers - BURBERRY] downloading 11251460 bytes
+2021-06-04 19:11:19,767 - [INFO] Generating queue item for: https://www.deezer.com/track/1353137862
+2021-06-04 19:11:19,908 - [INFO] [Myke Towers - PAPA JOHNS] Applying tags to the track
+2021-06-04 19:11:19,915 - [INFO] [Myke Towers - PAPA JOHNS] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/16 - PAPA JOHNS.mp3
+2021-06-04 19:11:19,917 - [INFO] [Myke Towers - NO SALEN] Getting the tags
+2021-06-04 19:11:20,309 - [INFO] [track_1353137862_3] Added to queue.
+2021-06-04 19:11:21,548 - [INFO] [Myke Towers - AJEDRÉZ] Applying tags to the track
+2021-06-04 19:11:21,560 - [INFO] [Myke Towers - AJEDRÉZ] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/15 - AJEDRÉZ.mp3
+2021-06-04 19:11:21,565 - [INFO] [Myke Towers - PFA] Getting the tags
+2021-06-04 19:11:22,563 - [INFO] [Myke Towers - NO SALEN] Getting the album cover
+2021-06-04 19:11:22,564 - [INFO] [Myke Towers - NO SALEN] Downloading the track
+2021-06-04 19:11:22,936 - [INFO] [Myke Towers - NO SALEN] downloading 7264129 bytes
+2021-06-04 19:11:29,117 - [INFO] [Myke Towers - BURBERRY] Applying tags to the track
+2021-06-04 19:11:29,128 - [INFO] [Myke Towers - BURBERRY] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/17 - BURBERRY.mp3
+2021-06-04 19:11:29,129 - [INFO] [Myke Towers - CONFIAR] Getting the tags
+2021-06-04 19:11:30,522 - [INFO] [Myke Towers - NO SALEN] Applying tags to the track
+2021-06-04 19:11:30,535 - [INFO] [Myke Towers - NO SALEN] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/18 - NO SALEN.mp3
+2021-06-04 19:11:30,536 - [INFO] [Myke Towers - BAGUETTES] Getting the tags
+2021-06-04 19:11:31,070 - [INFO] [Myke Towers - PFA] Getting the album cover
+2021-06-04 19:11:31,071 - [INFO] [Myke Towers - PFA] Downloading the track
+2021-06-04 19:11:31,338 - [INFO] [Myke Towers - PFA] downloading 6887966 bytes
+2021-06-04 19:11:31,527 - [INFO] [Myke Towers - CONFIAR] Getting the album cover
+2021-06-04 19:11:31,527 - [INFO] [Myke Towers - CONFIAR] Downloading the track
+2021-06-04 19:11:31,837 - [INFO] [Myke Towers - CONFIAR] downloading 5162840 bytes
+2021-06-04 19:11:32,478 - [INFO] [Myke Towers - BAGUETTES] Getting the album cover
+2021-06-04 19:11:32,479 - [INFO] [Myke Towers - BAGUETTES] Downloading the track
+2021-06-04 19:11:32,697 - [INFO] [Myke Towers - BAGUETTES] downloading 6776162 bytes
+2021-06-04 19:11:38,791 - [INFO] [Myke Towers - CONFIAR] Applying tags to the track
+2021-06-04 19:11:38,801 - [INFO] [Myke Towers - CONFIAR] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/20 - CONFIAR.mp3
+2021-06-04 19:11:38,804 - [INFO] [Myke Towers - NIVELES] Getting the tags
+2021-06-04 19:11:40,760 - [INFO] [Myke Towers - BAGUETTES] Applying tags to the track
+2021-06-04 19:11:40,771 - [INFO] [Myke Towers - BAGUETTES] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/21 - BAGUETTES.mp3
+2021-06-04 19:11:40,775 - [INFO] [Myke Towers - MALDITA ENVIDIA] Getting the tags
+2021-06-04 19:11:41,490 - [INFO] [Myke Towers - PFA] Applying tags to the track
+2021-06-04 19:11:41,501 - [INFO] [Myke Towers - PFA] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/19 - PFA.mp3
+2021-06-04 19:11:41,508 - [INFO] [Myke Towers - NIVELES] Getting the album cover
+2021-06-04 19:11:41,508 - [INFO] [Myke Towers - NIVELES] Downloading the track
+2021-06-04 19:11:41,686 - [INFO] [Myke Towers - NIVELES] downloading 6273566 bytes
+2021-06-04 19:11:43,177 - [INFO] [Myke Towers - MALDITA ENVIDIA] Getting the album cover
+2021-06-04 19:11:43,177 - [INFO] [Myke Towers - MALDITA ENVIDIA] Downloading the track
+2021-06-04 19:11:43,545 - [INFO] [Myke Towers - MALDITA ENVIDIA] downloading 6639280 bytes
+2021-06-04 19:11:46,774 - [INFO] [Myke Towers - NIVELES] Applying tags to the track
+2021-06-04 19:11:46,785 - [INFO] [Myke Towers - NIVELES] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/22 - NIVELES.mp3
+2021-06-04 19:11:48,837 - [INFO] [Myke Towers - MALDITA ENVIDIA] Applying tags to the track
+2021-06-04 19:11:48,848 - [INFO] [Myke Towers - MALDITA ENVIDIA] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - LYKE MIKE/23 - MALDITA ENVIDIA.mp3
+2021-06-04 19:11:49,294 - [INFO] [album_224717462_3] Finished downloading.
+2021-06-04 19:11:49,294 - [INFO] [track_1331984152_3] Started downloading.
+2021-06-04 19:11:49,295 - [INFO] [Sebastian Yatra - Pareja Del Año] Getting the tags
+2021-06-04 19:11:50,389 - [INFO] [Sebastian Yatra - Pareja Del Año] Getting the album cover
+2021-06-04 19:11:50,554 - [INFO] [Sebastian Yatra - Pareja Del Año] Downloading the track
+2021-06-04 19:11:50,670 - [INFO] [Sebastian Yatra - Pareja Del Año] downloading 7804342 bytes
+2021-06-04 19:11:54,906 - [INFO] [Sebastian Yatra - Pareja Del Año] Applying tags to the track
+2021-06-04 19:11:54,917 - [INFO] [Sebastian Yatra - Pareja Del Año] Track download completed
+/home/sga/Music/deemix Music/Sebastian Yatra/Sebastian Yatra - Pareja Del Año/01 - Pareja Del Año.mp3
+2021-06-04 19:11:55,162 - [INFO] [track_1331984152_3] Finished downloading.
+2021-06-04 19:11:55,162 - [INFO] [track_1136326982_3] Started downloading.
+2021-06-04 19:11:55,163 - [INFO] [Nicky Jam - Polvo] Getting the tags
+2021-06-04 19:11:56,855 - [INFO] [Nicky Jam - Polvo] Getting the album cover
+2021-06-04 19:11:57,040 - [INFO] [Nicky Jam - Polvo] Downloading the track
+2021-06-04 19:11:57,220 - [INFO] [Nicky Jam - Polvo] downloading 8447999 bytes
+2021-06-04 19:12:02,016 - [INFO] [Nicky Jam - Polvo] Applying tags to the track
+2021-06-04 19:12:02,028 - [INFO] [Nicky Jam - Polvo] Track download completed
+/home/sga/Music/deemix Music/Nicky Jam/Nicky Jam - Polvo/01 - Polvo.mp3
+2021-06-04 19:12:02,294 - [INFO] [track_1136326982_3] Finished downloading.
+2021-06-04 19:12:02,295 - [INFO] [track_1115413862_3] Started downloading.
+2021-06-04 19:12:02,295 - [INFO] [Young Martino - Only Fans] Getting the tags
+2021-06-04 19:12:04,056 - [INFO] [Young Martino - Only Fans (Remix)] Getting the album cover
+2021-06-04 19:12:04,240 - [INFO] [Young Martino - Only Fans (Remix)] Downloading the track
+2021-06-04 19:12:04,423 - [INFO] [Young Martino - Only Fans (Remix)] downloading 16905403 bytes
+2021-06-04 19:12:13,729 - [INFO] [Young Martino - Only Fans (Remix)] Applying tags to the track
+2021-06-04 19:12:13,747 - [INFO] [Young Martino - Only Fans (Remix)] Track download completed
+/home/sga/Music/deemix Music/Young Martino/Young Martino - Only Fans (Remix)/01 - Only Fans (Remix).mp3
+2021-06-04 19:12:14,054 - [INFO] [track_1115413862_3] Finished downloading.
+2021-06-04 19:12:14,055 - [INFO] [album_127911322_3] Started downloading.
+2021-06-04 19:12:14,056 - [INFO] [Myke Towers - MIB] Getting the tags
+2021-06-04 19:12:14,059 - [INFO] [Myke Towers - Tú] Getting the tags
+2021-06-04 19:12:14,062 - [INFO] [Myke Towers - Parcerita] Getting the tags
+2021-06-04 19:12:18,497 - [INFO] [Myke Towers - Tú] Getting the album cover
+2021-06-04 19:12:18,705 - [INFO] [Myke Towers - Tú] Downloading the track
+2021-06-04 19:12:19,052 - [INFO] [Myke Towers - Tú] downloading 8191999 bytes
+2021-06-04 19:12:23,711 - [INFO] [Myke Towers - Tú] Applying tags to the track
+2021-06-04 19:12:23,724 - [INFO] [Myke Towers - Tú] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/02 - Tú.mp3
+2021-06-04 19:12:23,726 - [INFO] [Myke Towers - Una Noche Más] Getting the tags
+2021-06-04 19:12:23,821 - [INFO] [Myke Towers - Parcerita] Getting the album cover
+2021-06-04 19:12:23,822 - [INFO] [Myke Towers - Parcerita] Downloading the track
+2021-06-04 19:12:24,055 - [INFO] [Myke Towers - Parcerita] downloading 8297533 bytes
+2021-06-04 19:12:25,526 - [INFO] [Myke Towers - MIB] Getting the album cover
+2021-06-04 19:12:25,527 - [INFO] [Myke Towers - MIB] Downloading the track
+2021-06-04 19:12:25,564 - [INFO] Generating queue item for: https://www.deezer.com/album/232536772
+2021-06-04 19:12:25,896 - [INFO] [Myke Towers - MIB] downloading 5363460 bytes
+2021-06-04 19:12:26,376 - [INFO] Generating queue item for: https://www.deezer.com/album/231719862
+2021-06-04 19:12:26,391 - [INFO] [Myke Towers - Una Noche Más] Getting the album cover
+2021-06-04 19:12:26,392 - [INFO] [Myke Towers - Una Noche Más] Downloading the track
+2021-06-04 19:12:26,761 - [INFO] [Myke Towers - Una Noche Más] downloading 8262007 bytes
+2021-06-04 19:12:27,046 - [INFO] [track_1382530802_3] Added to queue.
+2021-06-04 19:12:27,166 - [INFO] Generating queue item for: https://www.deezer.com/album/231761642
+2021-06-04 19:12:27,935 - [INFO] Generating queue item for: https://www.deezer.com/album/219518952
+2021-06-04 19:12:27,992 - [INFO] [track_1379088812_3] Added to queue.
+2021-06-04 19:12:28,868 - [INFO] [track_1379257332_3] Added to queue.
+2021-06-04 19:12:29,329 - [INFO] [track_1302573302_3] Added to queue.
+2021-06-04 19:12:34,816 - [INFO] [Myke Towers - Parcerita] Applying tags to the track
+2021-06-04 19:12:34,831 - [INFO] [Myke Towers - Parcerita] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/03 - Parcerita.mp3
+2021-06-04 19:12:34,834 - [INFO] [Myke Towers - Si Se Da] Getting the tags
+2021-06-04 19:12:35,143 - [INFO] [Myke Towers - MIB] Applying tags to the track
+2021-06-04 19:12:35,154 - [INFO] [Myke Towers - MIB] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/01 - MIB.mp3
+2021-06-04 19:12:35,159 - [INFO] [Myke Towers - Fugaz] Getting the tags
+2021-06-04 19:12:36,126 - [INFO] [Myke Towers - Una Noche Más] Applying tags to the track
+2021-06-04 19:12:36,139 - [INFO] [Myke Towers - Una Noche Más] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/04 - Una Noche Más.mp3
+2021-06-04 19:12:36,140 - [INFO] [Myke Towers - LVCC] Getting the tags
+2021-06-04 19:12:37,315 - [INFO] [Myke Towers - Si Se Da] Getting the album cover
+2021-06-04 19:12:37,316 - [INFO] [Myke Towers - Si Se Da] Downloading the track
+2021-06-04 19:12:37,570 - [INFO] [Myke Towers - Fugaz] Getting the album cover
+2021-06-04 19:12:37,571 - [INFO] [Myke Towers - Fugaz] Downloading the track
+2021-06-04 19:12:37,673 - [INFO] [Myke Towers - Si Se Da] downloading 9483493 bytes
+2021-06-04 19:12:37,878 - [INFO] [Myke Towers - Fugaz] downloading 7123068 bytes
+2021-06-04 19:12:38,540 - [INFO] [Myke Towers - LVCC] Getting the album cover
+2021-06-04 19:12:38,541 - [INFO] [Myke Towers - LVCC] Downloading the track
+2021-06-04 19:12:38,880 - [INFO] [Myke Towers - LVCC] downloading 5664391 bytes
+2021-06-04 19:12:46,462 - [INFO] Generating queue item for: https://www.deezer.com/album/210811812
+2021-06-04 19:12:46,540 - [INFO] [Myke Towers - LVCC] Applying tags to the track
+2021-06-04 19:12:46,553 - [INFO] [Myke Towers - LVCC] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/07 - LVCC.mp3
+2021-06-04 19:12:46,559 - [INFO] [Myke Towers - La Playa] Getting the tags
+2021-06-04 19:12:47,821 - [INFO] [track_1257737372_3] Added to queue.
+2021-06-04 19:12:48,835 - [INFO] [Myke Towers - Fugaz] Applying tags to the track
+2021-06-04 19:12:48,845 - [INFO] [Myke Towers - Fugaz] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/06 - Fugaz.mp3
+2021-06-04 19:12:48,847 - [INFO] [Myke Towers - Relación Rota] Getting the tags
+2021-06-04 19:12:49,009 - [INFO] [Myke Towers - La Playa] Getting the album cover
+2021-06-04 19:12:49,010 - [INFO] [Myke Towers - La Playa] Downloading the track
+2021-06-04 19:12:49,394 - [INFO] [Myke Towers - La Playa] downloading 8312162 bytes
+2021-06-04 19:12:49,952 - [INFO] [Myke Towers - Si Se Da] Applying tags to the track
+2021-06-04 19:12:49,964 - [INFO] [Myke Towers - Si Se Da] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/05 - Si Se Da.mp3
+2021-06-04 19:12:49,967 - [INFO] [Myke Towers - Girl] Getting the tags
+2021-06-04 19:12:50,023 - [INFO] Generating queue item for: https://www.deezer.com/album/203491312
+2021-06-04 19:12:51,371 - [INFO] [track_1225061472_3] Added to queue.
+2021-06-04 19:12:51,390 - [INFO] [Myke Towers - Relación Rota] Getting the album cover
+2021-06-04 19:12:51,391 - [INFO] [Myke Towers - Relación Rota] Downloading the track
+2021-06-04 19:12:51,778 - [INFO] [Myke Towers - Relación Rota] downloading 6429256 bytes
+2021-06-04 19:12:53,264 - [INFO] [Myke Towers - Girl] Getting the album cover
+2021-06-04 19:12:53,265 - [INFO] [Myke Towers - Girl] Downloading the track
+2021-06-04 19:12:53,591 - [INFO] [Myke Towers - Girl] downloading 7459525 bytes
+2021-06-04 19:12:58,134 - [INFO] [Myke Towers - La Playa] Applying tags to the track
+2021-06-04 19:12:58,149 - [INFO] [Myke Towers - La Playa] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/08 - La Playa.mp3
+2021-06-04 19:12:58,155 - [INFO] [Myke Towers - Viral] Getting the tags
+2021-06-04 19:12:58,302 - [INFO] Generating queue item for: https://www.deezer.com/album/171918382
+2021-06-04 19:12:59,873 - [INFO] [track_1073774942_3] Added to queue.
+2021-06-04 19:13:00,985 - [INFO] [Myke Towers - Relación Rota] Applying tags to the track
+2021-06-04 19:13:00,996 - [INFO] [Myke Towers - Relación Rota] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/09 - Relación Rota.mp3
+2021-06-04 19:13:00,998 - [INFO] [Myke Towers - Diosa] Getting the tags
+2021-06-04 19:13:01,221 - [INFO] [Myke Towers - Viral] Getting the album cover
+2021-06-04 19:13:01,221 - [INFO] [Myke Towers - Viral] Downloading the track
+2021-06-04 19:13:01,735 - [INFO] [Myke Towers - Viral] downloading 6531656 bytes
+2021-06-04 19:13:03,436 - [INFO] [Myke Towers - Diosa] Getting the album cover
+2021-06-04 19:13:03,437 - [INFO] [Myke Towers - Diosa] Downloading the track
+2021-06-04 19:13:03,683 - [INFO] [Myke Towers - Diosa] downloading 8562937 bytes
+2021-06-04 19:13:03,782 - [INFO] Generating queue item for: https://www.deezer.com/album/145044802
+2021-06-04 19:13:05,215 - [INFO] Generating queue item for: https://www.deezer.com/album/138291642
+2021-06-04 19:13:05,439 - [INFO] [track_944915112_3] Added to queue.
+2021-06-04 19:13:06,818 - [INFO] [Myke Towers - Girl] Applying tags to the track
+2021-06-04 19:13:06,831 - [INFO] [Myke Towers - Girl] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/10 - Girl.mp3
+2021-06-04 19:13:06,833 - [INFO] [Myke Towers - Hechizo] Getting the tags
+2021-06-04 19:13:06,912 - [INFO] [track_913773202_3] Added to queue.
+2021-06-04 19:13:11,483 - [INFO] [Myke Towers - Viral] Applying tags to the track
+2021-06-04 19:13:11,495 - [INFO] [Myke Towers - Viral] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/11 - Viral.mp3
+2021-06-04 19:13:11,497 - [INFO] [Myke Towers - Piensan] Getting the tags
+2021-06-04 19:13:14,920 - [INFO] [Myke Towers - Piensan] Getting the album cover
+2021-06-04 19:13:14,920 - [INFO] [Myke Towers - Piensan] Downloading the track
+2021-06-04 19:13:15,360 - [INFO] [Myke Towers - Piensan] downloading 6940211 bytes
+2021-06-04 19:13:16,884 - [INFO] [Myke Towers - Hechizo] Getting the album cover
+2021-06-04 19:13:16,885 - [INFO] [Myke Towers - Hechizo] Downloading the track
+2021-06-04 19:13:17,233 - [INFO] [Myke Towers - Hechizo] downloading 5816946 bytes
+2021-06-04 19:13:18,780 - [INFO] [Myke Towers - Diosa] Applying tags to the track
+2021-06-04 19:13:18,789 - [INFO] [Myke Towers - Diosa] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/12 - Diosa.mp3
+2021-06-04 19:13:18,790 - [INFO] [Myke Towers - Tiene Que Saber] Getting the tags
+2021-06-04 19:13:20,182 - [INFO] Generating queue item for: https://www.deezer.com/album/100314122
+2021-06-04 19:13:21,581 - [INFO] [track_696419882_3] Added to queue.
+2021-06-04 19:13:22,631 - [INFO] [Myke Towers - Piensan] Applying tags to the track
+2021-06-04 19:13:22,640 - [INFO] [Myke Towers - Piensan] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/14 - Piensan.mp3
+2021-06-04 19:13:22,641 - [INFO] [Myke Towers - Otro] Getting the tags
+2021-06-04 19:13:23,280 - [INFO] [Myke Towers - Hechizo] Applying tags to the track
+2021-06-04 19:13:23,293 - [INFO] [Myke Towers - Hechizo] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/13 - Hechizo.mp3
+2021-06-04 19:13:23,295 - [INFO] [Myke Towers - Ronca] Getting the tags
+2021-06-04 19:13:24,000 - [INFO] [Myke Towers - Tiene Que Saber] Getting the album cover
+2021-06-04 19:13:24,000 - [INFO] [Myke Towers - Tiene Que Saber] Downloading the track
+2021-06-04 19:13:24,305 - [INFO] [Myke Towers - Tiene Que Saber] downloading 7279803 bytes
+2021-06-04 19:13:25,275 - [INFO] [Myke Towers - Otro] Getting the album cover
+2021-06-04 19:13:25,275 - [INFO] [Myke Towers - Otro] Downloading the track
+2021-06-04 19:13:25,472 - [INFO] [Myke Towers - Otro] downloading 9050905 bytes
+2021-06-04 19:13:25,726 - [INFO] [Myke Towers - Ronca] Getting the album cover
+2021-06-04 19:13:25,727 - [INFO] [Myke Towers - Ronca] Downloading the track
+2021-06-04 19:13:26,212 - [INFO] [Myke Towers - Ronca] downloading 5991444 bytes
+2021-06-04 19:13:35,203 - [INFO] [Myke Towers - Ronca] Applying tags to the track
+2021-06-04 19:13:35,217 - [INFO] [Myke Towers - Ronca] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/17 - Ronca.mp3
+2021-06-04 19:13:35,223 - [INFO] [Myke Towers - Funeral] Getting the tags
+2021-06-04 19:13:35,653 - [INFO] [Myke Towers - Tiene Que Saber] Applying tags to the track
+2021-06-04 19:13:35,665 - [INFO] [Myke Towers - Tiene Que Saber] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/15 - Tiene Que Saber.mp3
+2021-06-04 19:13:36,902 - [INFO] [Myke Towers - Otro] Applying tags to the track
+2021-06-04 19:13:36,914 - [INFO] [Myke Towers - Otro] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/16 - Otro.mp3
+2021-06-04 19:13:37,869 - [INFO] [Myke Towers - Funeral] Getting the album cover
+2021-06-04 19:13:37,870 - [INFO] [Myke Towers - Funeral] Downloading the track
+2021-06-04 19:13:38,154 - [INFO] [Myke Towers - Funeral] downloading 8592195 bytes
+2021-06-04 19:13:42,839 - [INFO] [Myke Towers - Funeral] Applying tags to the track
+2021-06-04 19:13:42,851 - [INFO] [Myke Towers - Funeral] Track download completed
+/home/sga/Music/deemix Music/Myke Towers/Myke Towers - Easy Money Baby/18 - Funeral.mp3
+2021-06-04 19:13:43,199 - [INFO] [album_127911322_3] Finished downloading.
+2021-06-04 19:13:43,199 - [INFO] [track_1353137862_3] Started downloading.
+2021-06-04 19:13:43,199 - [INFO] [Ryan Castro - Jordan] Getting the tags
+2021-06-04 19:13:44,607 - [INFO] [Ryan Castro - Jordan] Getting the album cover
+2021-06-04 19:13:44,755 - [INFO] [Ryan Castro - Jordan] Downloading the track
+2021-06-04 19:13:44,789 - [INFO] [Ryan Castro - Jordan] downloading 7047835 bytes
+2021-06-04 19:13:48,576 - [INFO] [Ryan Castro - Jordan] Applying tags to the track
+2021-06-04 19:13:48,586 - [INFO] [Ryan Castro - Jordan] Track download completed
+/home/sga/Music/deemix Music/Ryan Castro/Ryan Castro - Jordan/01 - Jordan.mp3
+2021-06-04 19:13:48,821 - [INFO] [track_1353137862_3] Finished downloading.
+2021-06-04 19:13:48,821 - [INFO] [track_1382530802_3] Started downloading.
+2021-06-04 19:13:48,821 - [INFO] [Marshmello - Hitta (feat. Juicy J)] Getting the tags
+2021-06-04 19:13:51,125 - [INFO] [Marshmello - Hitta (feat. Juicy J)] Getting the album cover
+2021-06-04 19:13:51,684 - [INFO] [Marshmello - Hitta (feat. Juicy J)] Downloading the track
+2021-06-04 19:13:51,887 - [INFO] [Marshmello - Hitta (feat. Juicy J)] downloading 6834676 bytes
+2021-06-04 19:14:00,613 - [INFO] [Marshmello - Hitta (feat. Juicy J)] Applying tags to the track
+2021-06-04 19:14:00,627 - [INFO] [Marshmello - Hitta (feat. Juicy J)] Track download completed
+/home/sga/Music/deemix Music/Marshmello/Marshmello - Hitta (feat. Juicy J)/01 - Hitta (feat. Juicy J).mp3
+2021-06-04 19:14:01,266 - [INFO] [track_1382530802_3] Finished downloading.
+2021-06-04 19:14:01,267 - [INFO] [track_1379088812_3] Started downloading.
+2021-06-04 19:14:01,267 - [INFO] [Marshmello - Back In Time] Getting the tags
+2021-06-04 19:14:03,086 - [INFO] [Marshmello - Back In Time] Getting the album cover
+2021-06-04 19:14:03,244 - [INFO] [Marshmello - Back In Time] Downloading the track
+2021-06-04 19:14:03,506 - [INFO] [Marshmello - Back In Time] downloading 6437615 bytes
+2021-06-04 19:14:07,032 - [INFO] [Marshmello - Back In Time] Applying tags to the track
+2021-06-04 19:14:07,042 - [INFO] [Marshmello - Back In Time] Track download completed
+/home/sga/Music/deemix Music/Marshmello/Marshmello - Back In Time/01 - Back In Time.mp3
+2021-06-04 19:14:07,473 - [INFO] [track_1379088812_3] Finished downloading.
+2021-06-04 19:14:07,473 - [INFO] [track_1379257332_3] Started downloading.
+2021-06-04 19:14:07,474 - [INFO] [Marshmello - Leave Before You Love Me] Getting the tags
+2021-06-04 19:14:09,238 - [INFO] [Marshmello - Leave Before You Love Me] Getting the album cover
+2021-06-04 19:14:09,390 - [INFO] [Marshmello - Leave Before You Love Me] Downloading the track
+2021-06-04 19:14:09,572 - [INFO] [Marshmello - Leave Before You Love Me] downloading 6201468 bytes
+2021-06-04 19:14:13,075 - [INFO] [Marshmello - Leave Before You Love Me] Applying tags to the track
+2021-06-04 19:14:13,084 - [INFO] [Marshmello - Leave Before You Love Me] Track download completed
+/home/sga/Music/deemix Music/Marshmello/Marshmello - Leave Before You Love Me/01 - Leave Before You Love Me.mp3
+2021-06-04 19:14:13,362 - [INFO] [track_1379257332_3] Finished downloading.
+2021-06-04 19:14:13,362 - [INFO] [track_1302573302_3] Started downloading.
+2021-06-04 19:14:13,362 - [INFO] [WacoTron - Umbrella] Getting the tags
+2021-06-04 19:14:15,216 - [INFO] [WacoTron - Umbrella] Getting the album cover
+2021-06-04 19:14:15,547 - [INFO] [WacoTron - Umbrella] Downloading the track
+2021-06-04 19:14:15,730 - [INFO] [WacoTron - Umbrella] downloading 8109452 bytes
+2021-06-04 19:14:20,012 - [INFO] [WacoTron - Umbrella] Applying tags to the track
+2021-06-04 19:14:20,019 - [INFO] [WacoTron - Umbrella] Track download completed
+/home/sga/Music/deemix Music/WacoTron/WacoTron - Umbrella/01 - Umbrella.mp3
+2021-06-04 19:14:20,612 - [INFO] [track_1302573302_3] Finished downloading.
+2021-06-04 19:14:20,613 - [INFO] [track_1225061472_3] Started downloading.
+2021-06-04 19:14:20,613 - [INFO] [Benny Blanco - You] Getting the tags
+2021-06-04 19:14:22,477 - [INFO] [Benny Blanco - You] Getting the album cover
+2021-06-04 19:14:22,897 - [INFO] [Benny Blanco - You] Downloading the track
+2021-06-04 19:14:23,158 - [INFO] [Benny Blanco - You] downloading 6787656 bytes
+2021-06-04 19:14:27,098 - [INFO] [Benny Blanco - You] Applying tags to the track
+2021-06-04 19:14:27,107 - [INFO] [Benny Blanco - You] Track download completed
+/home/sga/Music/deemix Music/Benny Blanco/Benny Blanco - You/01 - You.mp3
+2021-06-04 19:14:27,674 - [INFO] [track_1225061472_3] Finished downloading.
+2021-06-04 19:14:27,675 - [INFO] [track_1073774942_3] Started downloading.
+2021-06-04 19:14:27,675 - [INFO] [Marshmello - OK Not To Be OK] Getting the tags
+2021-06-04 19:14:29,570 - [INFO] [Marshmello - OK Not To Be OK] Getting the album cover
+2021-06-04 19:14:29,761 - [INFO] [Marshmello - OK Not To Be OK] Downloading the track
+2021-06-04 19:14:30,030 - [INFO] [Marshmello - OK Not To Be OK] downloading 6396864 bytes
+2021-06-04 19:14:33,758 - [INFO] [Marshmello - OK Not To Be OK] Applying tags to the track
+2021-06-04 19:14:33,766 - [INFO] [Marshmello - OK Not To Be OK] Track download completed
+/home/sga/Music/deemix Music/Marshmello/Marshmello - OK Not To Be OK/01 - OK Not To Be OK.mp3
+2021-06-04 19:14:34,187 - [INFO] [track_1073774942_3] Finished downloading.
+2021-06-04 19:14:34,187 - [INFO] [track_944915112_3] Started downloading.
+2021-06-04 19:14:34,188 - [INFO] [Marshmello - Be Kind] Getting the tags
+2021-06-04 19:14:36,348 - [INFO] [Marshmello - Be Kind] Getting the album cover
+2021-06-04 19:14:36,518 - [INFO] [Marshmello - Be Kind] Downloading the track
+2021-06-04 19:14:36,805 - [INFO] [Marshmello - Be Kind] downloading 6913044 bytes
+2021-06-04 19:14:40,622 - [INFO] [Marshmello - Be Kind] Applying tags to the track
+2021-06-04 19:14:40,635 - [INFO] [Marshmello - Be Kind] Track download completed
+/home/sga/Music/deemix Music/Marshmello/Marshmello - Be Kind/01 - Be Kind.mp3
+2021-06-04 19:14:40,908 - [INFO] [track_944915112_3] Finished downloading.
+2021-06-04 19:14:40,909 - [INFO] [track_913773202_3] Started downloading.
+2021-06-04 19:14:40,909 - [INFO] [Marshmello, Southside, Giggs, SAINt JHN - Been Thru This Before (with Giggs & SAINt JHN)] Getting the tags
+2021-06-04 19:14:42,905 - [INFO] [Marshmello, Southside, Giggs, SAINt JHN - Been Thru This Before (with Giggs & SAINt JHN)] Getting the album cover
+2021-06-04 19:14:43,253 - [INFO] [Marshmello, Southside, Giggs, SAINt JHN - Been Thru This Before (with Giggs & SAINt JHN)] Downloading the track
+2021-06-04 19:14:44,339 - [INFO] Generating queue item for: https://www.deezer.com/album/212313332
+2021-06-04 19:14:44,938 - [INFO] [Marshmello, Southside, Giggs, SAINt JHN - Been Thru This Before (with Giggs & SAINt JHN)] downloading 8288129 bytes
+2021-06-04 19:14:45,199 - [INFO] Generating queue item for: https://www.deezer.com/album/178487262
+2021-06-04 19:14:45,638 - [INFO] [track_1264567492_3] Added to queue.
+2021-06-04 19:14:45,910 - [INFO] Generating queue item for: https://www.deezer.com/album/162025142
+2021-06-04 19:14:46,598 - [INFO] Generating queue item for: https://www.deezer.com/album/122164842
+2021-06-04 19:14:46,691 - [INFO] [track_1103944872_3] Added to queue.
+2021-06-04 19:14:47,136 - [INFO] Generating queue item for: https://www.deezer.com/album/122534982
+2021-06-04 19:14:47,359 - [INFO] [track_1028497502_3] Added to queue.
+2021-06-04 19:14:47,991 - [INFO] [track_827455712_3] Added to queue.
+2021-06-04 19:14:48,536 - [INFO] [track_829653022_3] Added to queue.
+2021-06-04 19:14:49,120 - [INFO] Generating queue item for: https://www.deezer.com/album/122863422
+2021-06-04 19:14:49,600 - [INFO] [Marshmello, Southside, Giggs, SAINt JHN - Been Thru This Before (with Giggs & SAINt JHN)] Applying tags to the track
+2021-06-04 19:14:49,611 - [INFO] [Marshmello, Southside, Giggs, SAINt JHN - Been Thru This Before (with Giggs & SAINt JHN)] Track download completed
+/home/sga/Music/deemix Music/Marshmello, Southside, SAINt JHN/Marshmello, Southside, SAINt JHN - Been Thru This Before/01 - Been Thru This Before (with Giggs & SAINt JHN).mp3
+2021-06-04 19:14:50,238 - [INFO] [track_913773202_3] Finished downloading.
+2021-06-04 19:14:50,239 - [INFO] [track_696419882_3] Started downloading.
+2021-06-04 19:14:50,239 - [INFO] [Marshmello - One Thing Right] Getting the tags
+2021-06-04 19:14:50,396 - [INFO] [track_831278912_3] Added to queue.
+2021-06-04 19:14:55,074 - [INFO] [Marshmello - One Thing Right] Getting the album cover
+2021-06-04 19:14:55,262 - [INFO] [Marshmello - One Thing Right] Downloading the track
+2021-06-04 19:14:55,657 - [INFO] [Marshmello - One Thing Right] downloading 7275623 bytes
+2021-06-04 19:14:59,747 - [INFO] [Marshmello - One Thing Right] Applying tags to the track
+2021-06-04 19:14:59,759 - [INFO] [Marshmello - One Thing Right] Track download completed
+/home/sga/Music/deemix Music/Marshmello/Marshmello - One Thing Right/01 - One Thing Right.mp3
+2021-06-04 19:15:00,230 - [INFO] [track_696419882_3] Finished downloading.
+2021-06-04 19:15:00,231 - [INFO] [track_1264567492_3] Started downloading.
+2021-06-04 19:15:00,231 - [INFO] [Maroon 5 - Beautiful Mistakes] Getting the tags
+2021-06-04 19:15:01,655 - [INFO] Generating queue item for: https://www.deezer.com/album/55339382
+2021-06-04 19:15:02,892 - [INFO] [track_451678872_3] Added to queue.
+2021-06-04 19:15:08,390 - [INFO] Generating queue item for: https://www.deezer.com/album/10239058
+2021-06-04 19:15:09,279 - [INFO] [Maroon 5 - Beautiful Mistakes] Getting the album cover
+2021-06-04 19:15:09,487 - [INFO] [Maroon 5 - Beautiful Mistakes] Downloading the track
+2021-06-04 19:15:09,668 - [INFO] [Maroon 5 - Beautiful Mistakes] downloading 9097925 bytes
+2021-06-04 19:15:09,715 - [INFO] [album_10239058_3] Added to queue.
+2021-06-04 19:15:14,001 - [INFO] Generating queue item for: https://www.deezer.com/album/3227271
+2021-06-04 19:15:15,287 - [INFO] [Maroon 5 - Beautiful Mistakes] Applying tags to the track
+2021-06-04 19:15:15,296 - [INFO] [Maroon 5 - Beautiful Mistakes] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Beautiful Mistakes/01 - Beautiful Mistakes.mp3
+2021-06-04 19:15:15,404 - [INFO] [album_3227271_3] Added to queue.
+2021-06-04 19:15:15,609 - [INFO] [track_1264567492_3] Finished downloading.
+2021-06-04 19:15:15,610 - [INFO] [track_1103944872_3] Started downloading.
+2021-06-04 19:15:15,610 - [INFO] [Maroon 5 - Nobody's Love] Getting the tags
+2021-06-04 19:15:15,941 - [INFO] Generating queue item for: https://www.deezer.com/album/4361011
+2021-06-04 19:15:17,212 - [INFO] [album_4361011_3] Added to queue.
+2021-06-04 19:15:17,438 - [INFO] [Maroon 5 - Nobody's Love (Remix)] Getting the album cover
+2021-06-04 19:15:17,752 - [INFO] [Maroon 5 - Nobody's Love (Remix)] Downloading the track
+2021-06-04 19:15:18,027 - [INFO] [Maroon 5 - Nobody's Love (Remix)] downloading 8453223 bytes
+2021-06-04 19:15:19,223 - [INFO] Generating queue item for: https://www.deezer.com/album/1167403
+2021-06-04 19:15:20,597 - [INFO] [album_1167403_3] Added to queue.
+2021-06-04 19:15:21,700 - [INFO] Generating queue item for: https://www.deezer.com/album/1167403
+2021-06-04 19:15:23,416 - [WARNING] [album_1167403_3] Already in queue, will not be added again.
+2021-06-04 19:15:24,030 - [INFO] [Maroon 5 - Nobody's Love (Remix)] Applying tags to the track
+2021-06-04 19:15:24,040 - [INFO] [Maroon 5 - Nobody's Love (Remix)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Nobody's Love (Remix)/01 - Nobody's Love (Remix).mp3
+2021-06-04 19:15:24,608 - [INFO] [track_1103944872_3] Finished downloading.
+2021-06-04 19:15:24,608 - [INFO] [track_1028497502_3] Started downloading.
+2021-06-04 19:15:24,609 - [INFO] [Maroon 5 - Nobody's Love] Getting the tags
+2021-06-04 19:15:26,326 - [INFO] [Maroon 5 - Nobody's Love] Getting the album cover
+2021-06-04 19:15:26,657 - [INFO] [Maroon 5 - Nobody's Love] Downloading the track
+2021-06-04 19:15:26,834 - [INFO] [Maroon 5 - Nobody's Love] downloading 8453223 bytes
+2021-06-04 19:15:31,690 - [INFO] [Maroon 5 - Nobody's Love] Applying tags to the track
+2021-06-04 19:15:31,703 - [INFO] [Maroon 5 - Nobody's Love] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Nobody's Love/01 - Nobody's Love.mp3
+2021-06-04 19:15:32,225 - [INFO] [track_1028497502_3] Finished downloading.
+2021-06-04 19:15:32,225 - [INFO] [track_827455712_3] Started downloading.
+2021-06-04 19:15:32,225 - [INFO] [Maroon 5 - Memories] Getting the tags
+2021-06-04 19:15:38,062 - [INFO] [Maroon 5 - Memories (Dillon Francis Remix)] Getting the album cover
+2021-06-04 19:15:38,378 - [INFO] [Maroon 5 - Memories (Dillon Francis Remix)] Downloading the track
+2021-06-04 19:15:38,650 - [INFO] [Maroon 5 - Memories (Dillon Francis Remix)] downloading 6506578 bytes
+2021-06-04 19:15:42,900 - [INFO] [Maroon 5 - Memories (Dillon Francis Remix)] Applying tags to the track
+2021-06-04 19:15:42,912 - [INFO] [Maroon 5 - Memories (Dillon Francis Remix)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Memories (Dillon Francis Remix)/01 - Memories (Dillon Francis Remix).mp3
+2021-06-04 19:15:43,542 - [INFO] [track_827455712_3] Finished downloading.
+2021-06-04 19:15:43,542 - [INFO] [track_829653022_3] Started downloading.
+2021-06-04 19:15:43,542 - [INFO] [Maroon 5 - Memories] Getting the tags
+2021-06-04 19:15:45,607 - [INFO] [Maroon 5 - Memories (Devault Remix)] Getting the album cover
+2021-06-04 19:15:45,878 - [INFO] [Maroon 5 - Memories (Devault Remix)] Downloading the track
+2021-06-04 19:15:46,228 - [INFO] [Maroon 5 - Memories (Devault Remix)] downloading 7738513 bytes
+2021-06-04 19:15:50,893 - [INFO] [Maroon 5 - Memories (Devault Remix)] Applying tags to the track
+2021-06-04 19:15:50,902 - [INFO] [Maroon 5 - Memories (Devault Remix)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Memories (Devault Remix)/01 - Memories (Devault Remix).mp3
+2021-06-04 19:15:51,209 - [INFO] [track_829653022_3] Finished downloading.
+2021-06-04 19:15:51,209 - [INFO] [track_831278912_3] Started downloading.
+2021-06-04 19:15:51,209 - [INFO] [Maroon 5 - Memories] Getting the tags
+2021-06-04 19:15:54,150 - [INFO] [Maroon 5 - Memories (Cut Copy Remix)] Getting the album cover
+2021-06-04 19:15:54,432 - [INFO] [Maroon 5 - Memories (Cut Copy Remix)] Downloading the track
+2021-06-04 19:15:54,724 - [INFO] [Maroon 5 - Memories (Cut Copy Remix)] downloading 16614921 bytes
+2021-06-04 19:16:04,856 - [INFO] [Maroon 5 - Memories (Cut Copy Remix)] Applying tags to the track
+2021-06-04 19:16:04,872 - [INFO] [Maroon 5 - Memories (Cut Copy Remix)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Memories (Cut Copy Remix)/01 - Memories (Cut Copy Remix).mp3
+2021-06-04 19:16:05,166 - [INFO] [track_831278912_3] Finished downloading.
+2021-06-04 19:16:05,166 - [INFO] [track_451678872_3] Started downloading.
+2021-06-04 19:16:05,166 - [INFO] [Maroon 5 - Wait] Getting the tags
+2021-06-04 19:16:06,853 - [INFO] [Maroon 5 - Wait] Getting the album cover
+2021-06-04 19:16:07,806 - [INFO] [Maroon 5 - Wait] Downloading the track
+2021-06-04 19:16:08,025 - [INFO] [Maroon 5 - Wait] downloading 7621484 bytes
+2021-06-04 19:16:12,571 - [INFO] [Maroon 5 - Wait] Applying tags to the track
+2021-06-04 19:16:12,587 - [INFO] [Maroon 5 - Wait] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Wait/01 - Wait.mp3
+2021-06-04 19:16:13,770 - [INFO] [track_451678872_3] Finished downloading.
+2021-06-04 19:16:13,770 - [INFO] [album_10239058_3] Started downloading.
+2021-06-04 19:16:13,771 - [INFO] [Maroon 5 - Maps] Getting the tags
+2021-06-04 19:16:13,773 - [INFO] [Maroon 5 - Animals] Getting the tags
+2021-06-04 19:16:13,776 - [INFO] [Maroon 5 - It Was Always You] Getting the tags
+2021-06-04 19:16:15,996 - [INFO] [Maroon 5 - Maps] Getting the album cover
+2021-06-04 19:16:16,206 - [INFO] [Maroon 5 - Maps] Downloading the track
+2021-06-04 19:16:16,369 - [INFO] [Maroon 5 - Animals] Getting the album cover
+2021-06-04 19:16:16,370 - [INFO] [Maroon 5 - Animals] Downloading the track
+2021-06-04 19:16:16,397 - [INFO] [Maroon 5 - Maps] downloading 7600586 bytes
+2021-06-04 19:16:16,419 - [INFO] [Maroon 5 - It Was Always You] Getting the album cover
+2021-06-04 19:16:16,420 - [INFO] [Maroon 5 - It Was Always You] Downloading the track
+2021-06-04 19:16:16,630 - [INFO] [Maroon 5 - Animals] downloading 9243166 bytes
+2021-06-04 19:16:16,970 - [INFO] [Maroon 5 - It Was Always You] downloading 9599476 bytes
+2021-06-04 19:16:28,966 - [INFO] [Maroon 5 - Maps] Applying tags to the track
+2021-06-04 19:16:28,974 - [INFO] [Maroon 5 - Maps] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - V (Deluxe)/01 - Maps.mp3
+2021-06-04 19:16:28,978 - [INFO] [Maroon 5 - Unkiss Me] Getting the tags
+2021-06-04 19:16:31,592 - [INFO] [Maroon 5 - Animals] Applying tags to the track
+2021-06-04 19:16:31,601 - [INFO] [Maroon 5 - Animals] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - V (Deluxe)/02 - Animals.mp3
+2021-06-04 19:16:31,602 - [INFO] [Maroon 5 - Sugar] Getting the tags
+2021-06-04 19:16:31,929 - [INFO] [Maroon 5 - Unkiss Me] Getting the album cover
+2021-06-04 19:16:31,930 - [INFO] [Maroon 5 - Unkiss Me] Downloading the track
+2021-06-04 19:16:32,016 - [INFO] [Maroon 5 - It Was Always You] Applying tags to the track
+2021-06-04 19:16:32,026 - [INFO] [Maroon 5 - It Was Always You] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - V (Deluxe)/03 - It Was Always You.mp3
+2021-06-04 19:16:32,027 - [INFO] [Maroon 5 - Leaving California] Getting the tags
+2021-06-04 19:16:32,231 - [INFO] [Maroon 5 - Unkiss Me] downloading 9530513 bytes
+2021-06-04 19:16:34,366 - [INFO] [Maroon 5 - Leaving California] Getting the album cover
+2021-06-04 19:16:34,367 - [INFO] [Maroon 5 - Leaving California] Downloading the track
+2021-06-04 19:16:34,790 - [INFO] [Maroon 5 - Leaving California] downloading 8140799 bytes
+2021-06-04 19:16:35,118 - [INFO] [Maroon 5 - Sugar] Getting the album cover
+2021-06-04 19:16:35,119 - [INFO] [Maroon 5 - Sugar] Downloading the track
+2021-06-04 19:16:35,563 - [INFO] [Maroon 5 - Sugar] downloading 9421844 bytes
+2021-06-04 19:16:43,178 - [INFO] [Maroon 5 - Unkiss Me] Applying tags to the track
+2021-06-04 19:16:43,194 - [INFO] [Maroon 5 - Unkiss Me] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - V (Deluxe)/04 - Unkiss Me.mp3
+2021-06-04 19:16:43,199 - [INFO] [Maroon 5 - In Your Pocket] Getting the tags
+2021-06-04 19:16:46,456 - [INFO] [Maroon 5 - Leaving California] Applying tags to the track
+2021-06-04 19:16:46,469 - [INFO] [Maroon 5 - Leaving California] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - V (Deluxe)/06 - Leaving California.mp3
+2021-06-04 19:16:46,474 - [INFO] [Maroon 5 - New Love] Getting the tags
+2021-06-04 19:16:47,766 - [INFO] [Maroon 5 - Sugar] Applying tags to the track
+2021-06-04 19:16:47,778 - [INFO] [Maroon 5 - Sugar] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - V (Deluxe)/05 - Sugar.mp3
+2021-06-04 19:16:47,783 - [INFO] [Maroon 5 - In Your Pocket] Getting the album cover
+2021-06-04 19:16:47,784 - [INFO] [Maroon 5 - In Your Pocket] Downloading the track
+2021-06-04 19:16:47,793 - [INFO] [Maroon 5 - Coming Back For You] Getting the tags
+2021-06-04 19:16:48,074 - [INFO] [Maroon 5 - In Your Pocket] downloading 8782366 bytes
+2021-06-04 19:16:53,245 - [INFO] [Maroon 5 - In Your Pocket] Applying tags to the track
+2021-06-04 19:16:53,259 - [INFO] [Maroon 5 - In Your Pocket] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - V (Deluxe)/07 - In Your Pocket.mp3
+2021-06-04 19:16:53,261 - [INFO] [Maroon 5 - Feelings] Getting the tags
+2021-06-04 19:17:09,190 - [INFO] [Maroon 5 - New Love] Getting the album cover
+2021-06-04 19:17:09,191 - [INFO] [Maroon 5 - New Love] Downloading the track
+2021-06-04 19:17:09,598 - [INFO] [Maroon 5 - New Love] downloading 7864946 bytes
+2021-06-04 19:17:13,972 - [INFO] [Maroon 5 - New Love] Applying tags to the track
+2021-06-04 19:17:13,983 - [INFO] [Maroon 5 - New Love] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - V (Deluxe)/08 - New Love.mp3
+2021-06-04 19:17:13,984 - [INFO] [Maroon 5 - My Heart Is Open] Getting the tags
+2021-06-04 19:17:19,657 - [ERROR] [Maroon 5 - Coming Back For You] HTTPSConnectionPool(host='e-cdns-proxy-0.dzcdn.net', port=443): Read timed out. (read timeout=30)
+Traceback (most recent call last):
+  File "urllib3/connectionpool.py", line 445, in _make_request
+  File "<string>", line 3, in raise_from
+  File "urllib3/connectionpool.py", line 440, in _make_request
+  File "http/client.py", line 1347, in getresponse
+  File "http/client.py", line 307, in begin
+  File "http/client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "eventlet/green/ssl.py", line 252, in recv_into
+  File "eventlet/green/ssl.py", line 267, in _base_recv
+  File "eventlet/green/ssl.py", line 186, in read
+  File "eventlet/green/ssl.py", line 164, in _call_trampolining
+  File "eventlet/hubs/__init__.py", line 159, in trampoline
+  File "eventlet/hubs/hub.py", line 313, in switch
+ssl.SSLError: ('timed out',)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "requests/adapters.py", line 439, in send
+  File "urllib3/connectionpool.py", line 755, in urlopen
+  File "urllib3/util/retry.py", line 531, in increment
+  File "urllib3/packages/six.py", line 735, in reraise
+  File "urllib3/connectionpool.py", line 699, in urlopen
+  File "urllib3/connectionpool.py", line 447, in _make_request
+  File "urllib3/connectionpool.py", line 353, in _raise_timeout
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='e-cdns-proxy-0.dzcdn.net', port=443): Read timed out. (read timeout=30)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "deemix/app/downloadjob.py", line 716, in downloadWrapper
+  File "deemix/app/downloadjob.py", line 266, in download
+  File "deemix/app/downloadjob.py", line 610, in getPreferredBitrate
+  File "requests/api.py", line 104, in head
+  File "requests/api.py", line 61, in request
+  File "requests/sessions.py", line 542, in request
+  File "requests/sessions.py", line 655, in send
+  File "requests/adapters.py", line 529, in send
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='e-cdns-proxy-0.dzcdn.net', port=443): Read timed out. (read timeout=30)
+2021-06-04 19:17:19,662 - [INFO] [Maroon 5 - This Summer] Getting the tags
+2021-06-04 19:17:21,746 - [INFO] [Maroon 5 - This Summer] Getting the album cover
+2021-06-04 19:17:21,747 - [INFO] [Maroon 5 - This Summer] Downloading the track
+2021-06-04 19:17:21,949 - [INFO] [Maroon 5 - This Summer] downloading 8978807 bytes
+2021-06-04 19:17:24,432 - [INFO] Generating queue item for: https://www.deezer.com/album/227970052
+2021-06-04 19:17:25,702 - [INFO] [track_1364016952_3] Added to queue.
+2021-06-04 19:17:27,055 - [INFO] [Maroon 5 - This Summer] Applying tags to the track
+2021-06-04 19:17:27,067 - [INFO] [Maroon 5 - This Summer] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - V (Deluxe)/12 - This Summer.mp3
+2021-06-04 19:17:27,069 - [INFO] [Maroon 5 - Shoot Love] Getting the tags
+2021-06-04 19:17:27,634 - [INFO] [Maroon 5 - Feelings] Getting the album cover
+2021-06-04 19:17:27,635 - [INFO] [Maroon 5 - Feelings] Downloading the track
+2021-06-04 19:17:28,037 - [INFO] [Maroon 5 - Feelings] downloading 7793893 bytes
+2021-06-04 19:17:29,926 - [INFO] [Maroon 5 - Shoot Love] Getting the album cover
+2021-06-04 19:17:29,927 - [INFO] [Maroon 5 - Shoot Love] Downloading the track
+2021-06-04 19:17:30,148 - [INFO] [Maroon 5 - Shoot Love] downloading 7589093 bytes
+2021-06-04 19:17:33,944 - [INFO] [Maroon 5 - Feelings] Applying tags to the track
+2021-06-04 19:17:33,953 - [INFO] [Maroon 5 - Feelings] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - V (Deluxe)/10 - Feelings.mp3
+2021-06-04 19:17:33,956 - [INFO] [Maroon 5 - Sex And Candy] Getting the tags
+2021-06-04 19:17:36,255 - [INFO] [Maroon 5 - Shoot Love] Applying tags to the track
+2021-06-04 19:17:36,264 - [INFO] [Maroon 5 - Shoot Love] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - V (Deluxe)/13 - Shoot Love.mp3
+2021-06-04 19:17:36,265 - [INFO] [Adam Levine - Lost Stars] Getting the tags
+2021-06-04 19:17:36,420 - [INFO] [Maroon 5 - Sex And Candy] Getting the album cover
+2021-06-04 19:17:36,421 - [INFO] [Maroon 5 - Sex And Candy] Downloading the track
+2021-06-04 19:17:36,699 - [INFO] [Maroon 5 - Sex And Candy] downloading 10591084 bytes
+2021-06-04 19:17:37,300 - [INFO] [Maroon 5 - My Heart Is Open] Getting the album cover
+2021-06-04 19:17:37,301 - [INFO] [Maroon 5 - My Heart Is Open] Downloading the track
+2021-06-04 19:17:39,585 - [INFO] [Maroon 5 - My Heart Is Open] downloading 9477223 bytes
+2021-06-04 19:17:41,367 - [INFO] Generating queue item for: https://www.deezer.com/album/96638152
+2021-06-04 19:17:41,381 - [INFO] [Adam Levine - Lost Stars] Getting the album cover
+2021-06-04 19:17:41,381 - [INFO] [Adam Levine - Lost Stars] Downloading the track
+2021-06-04 19:17:41,769 - [INFO] [Adam Levine - Lost Stars] downloading 10679901 bytes
+2021-06-04 19:17:42,761 - [INFO] [track_678694142_3] Added to queue.
+2021-06-04 19:17:47,911 - [INFO] Generating queue item for: https://www.deezer.com/album/135340592
+2021-06-04 19:17:49,142 - [INFO] Generating queue item for: https://www.deezer.com/album/137840312
+2021-06-04 19:17:49,331 - [INFO] [track_898848072_3] Added to queue.
+2021-06-04 19:17:50,545 - [INFO] [track_911807882_3] Added to queue.
+2021-06-04 19:17:53,968 - [INFO] Generating queue item for: https://www.deezer.com/album/146438912
+2021-06-04 19:17:55,348 - [INFO] [track_951655282_3] Added to queue.
+2021-06-04 19:17:55,562 - [INFO] [Maroon 5 - My Heart Is Open] Applying tags to the track
+2021-06-04 19:17:55,574 - [INFO] [Maroon 5 - My Heart Is Open] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - V (Deluxe)/11 - My Heart Is Open.mp3
+2021-06-04 19:17:55,665 - [INFO] [Maroon 5 - Sex And Candy] Applying tags to the track
+2021-06-04 19:17:55,679 - [INFO] [Maroon 5 - Sex And Candy] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - V (Deluxe)/14 - Sex And Candy.mp3
+2021-06-04 19:17:56,659 - [INFO] [Adam Levine - Lost Stars] Applying tags to the track
+2021-06-04 19:17:56,672 - [INFO] [Adam Levine - Lost Stars] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - V (Deluxe)/15 - Lost Stars.mp3
+2021-06-04 19:17:56,735 - [INFO] Generating queue item for: https://www.deezer.com/album/174843242
+2021-06-04 19:17:56,945 - [INFO] [album_10239058_3] Finished downloading.
+2021-06-04 19:17:56,945 - [INFO] [album_3227271_3] Started downloading.
+2021-06-04 19:17:56,945 - [INFO] [Maroon 5 - Harder To Breathe] Getting the tags
+2021-06-04 19:17:56,948 - [INFO] [Maroon 5 - This Love] Getting the tags
+2021-06-04 19:17:56,951 - [INFO] [Maroon 5 - Shiver] Getting the tags
+2021-06-04 19:17:57,973 - [INFO] [track_1087225322_3] Added to queue.
+2021-06-04 19:17:58,766 - [INFO] [Maroon 5 - This Love] Getting the album cover
+2021-06-04 19:17:58,944 - [INFO] [Maroon 5 - This Love] Downloading the track
+2021-06-04 19:17:59,206 - [INFO] [Maroon 5 - This Love] downloading 8250513 bytes
+2021-06-04 19:17:59,328 - [INFO] [Maroon 5 - Shiver] Getting the album cover
+2021-06-04 19:17:59,329 - [INFO] [Maroon 5 - Shiver] Downloading the track
+2021-06-04 19:17:59,535 - [INFO] [Maroon 5 - Shiver] downloading 7193076 bytes
+2021-06-04 19:18:00,394 - [INFO] [Maroon 5 - Harder To Breathe] Getting the album cover
+2021-06-04 19:18:00,394 - [INFO] [Maroon 5 - Harder To Breathe] Downloading the track
+2021-06-04 19:18:00,933 - [INFO] [Maroon 5 - Harder To Breathe] downloading 6950660 bytes
+2021-06-04 19:18:10,020 - [INFO] [Maroon 5 - Shiver] Applying tags to the track
+2021-06-04 19:18:10,031 - [INFO] [Maroon 5 - Shiver] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD1/03 - Shiver.mp3
+2021-06-04 19:18:10,033 - [INFO] [Maroon 5 - She Will Be Loved] Getting the tags
+2021-06-04 19:18:10,761 - [INFO] [Maroon 5 - This Love] Applying tags to the track
+2021-06-04 19:18:10,771 - [INFO] [Maroon 5 - This Love] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD1/02 - This Love.mp3
+2021-06-04 19:18:10,778 - [INFO] [Maroon 5 - Tangled] Getting the tags
+2021-06-04 19:18:10,977 - [INFO] [Maroon 5 - Harder To Breathe] Applying tags to the track
+2021-06-04 19:18:10,988 - [INFO] [Maroon 5 - Harder To Breathe] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD1/01 - Harder To Breathe.mp3
+2021-06-04 19:18:10,989 - [INFO] [Maroon 5 - The Sun] Getting the tags
+2021-06-04 19:18:13,123 - [INFO] [Maroon 5 - Tangled] Getting the album cover
+2021-06-04 19:18:13,124 - [INFO] [Maroon 5 - Tangled] Downloading the track
+2021-06-04 19:18:13,309 - [INFO] [Maroon 5 - Tangled] downloading 7930774 bytes
+2021-06-04 19:18:17,732 - [INFO] [Maroon 5 - Tangled] Applying tags to the track
+2021-06-04 19:18:17,743 - [INFO] [Maroon 5 - Tangled] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD1/05 - Tangled.mp3
+2021-06-04 19:18:17,745 - [INFO] [Maroon 5 - Must Get Out] Getting the tags
+2021-06-04 19:18:19,624 - [INFO] [Maroon 5 - Must Get Out] Getting the album cover
+2021-06-04 19:18:19,625 - [INFO] [Maroon 5 - Must Get Out] Downloading the track
+2021-06-04 19:18:19,805 - [INFO] [Maroon 5 - Must Get Out] downloading 9580668 bytes
+2021-06-04 19:18:27,486 - [INFO] [Maroon 5 - Must Get Out] Applying tags to the track
+2021-06-04 19:18:27,496 - [INFO] [Maroon 5 - Must Get Out] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD1/07 - Must Get Out.mp3
+2021-06-04 19:18:27,497 - [INFO] [Maroon 5 - Sunday Morning] Getting the tags
+2021-06-04 19:18:34,152 - [INFO] [Maroon 5 - She Will Be Loved (Radio Mix)] Getting the album cover
+2021-06-04 19:18:34,153 - [INFO] [Maroon 5 - She Will Be Loved (Radio Mix)] Downloading the track
+2021-06-04 19:18:34,380 - [INFO] [Maroon 5 - She Will Be Loved (Radio Mix)] downloading 10381060 bytes
+2021-06-04 19:18:40,001 - [INFO] [Maroon 5 - She Will Be Loved (Radio Mix)] Applying tags to the track
+2021-06-04 19:18:40,013 - [INFO] [Maroon 5 - She Will Be Loved (Radio Mix)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD1/04 - She Will Be Loved (Radio Mix).mp3
+2021-06-04 19:18:40,014 - [INFO] [Maroon 5 - Secret] Getting the tags
+2021-06-04 19:18:41,884 - [INFO] [Maroon 5 - Secret] Getting the album cover
+2021-06-04 19:18:41,885 - [INFO] [Maroon 5 - Secret] Downloading the track
+2021-06-04 19:18:42,066 - [INFO] [Maroon 5 - Secret] downloading 11802121 bytes
+2021-06-04 19:18:45,753 - [INFO] [Maroon 5 - The Sun] Getting the album cover
+2021-06-04 19:18:45,754 - [INFO] [Maroon 5 - The Sun] Downloading the track
+2021-06-04 19:18:46,128 - [INFO] [Maroon 5 - The Sun] downloading 10070725 bytes
+2021-06-04 19:18:49,927 - [INFO] [Maroon 5 - Secret] Applying tags to the track
+2021-06-04 19:18:49,938 - [INFO] [Maroon 5 - Secret] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD1/09 - Secret.mp3
+2021-06-04 19:18:49,941 - [INFO] [Maroon 5 - Through With You] Getting the tags
+2021-06-04 19:18:53,722 - [INFO] [Maroon 5 - The Sun] Applying tags to the track
+2021-06-04 19:18:53,739 - [INFO] [Maroon 5 - The Sun] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD1/06 - The Sun.mp3
+2021-06-04 19:18:53,741 - [INFO] [Maroon 5 - Not Coming Home] Getting the tags
+2021-06-04 19:19:30,533 - [INFO] [Maroon 5 - Through With You] Getting the album cover
+2021-06-04 19:19:30,534 - [INFO] [Maroon 5 - Through With You] Downloading the track
+2021-06-04 19:19:30,718 - [INFO] [Maroon 5 - Through With You] downloading 7265174 bytes
+2021-06-04 19:19:34,676 - [INFO] [Maroon 5 - Sunday Morning] Getting the album cover
+2021-06-04 19:19:34,677 - [INFO] [Maroon 5 - Sunday Morning] Downloading the track
+2021-06-04 19:19:34,738 - [INFO] [Maroon 5 - Through With You] Applying tags to the track
+2021-06-04 19:19:34,747 - [INFO] [Maroon 5 - Through With You] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD1/10 - Through With You.mp3
+2021-06-04 19:19:34,758 - [INFO] [Maroon 5 - Sweetest Goodbye] Getting the tags
+2021-06-04 19:19:34,998 - [INFO] [Maroon 5 - Sunday Morning] downloading 9798007 bytes
+2021-06-04 19:19:37,306 - [INFO] [Maroon 5 - Sweetest Goodbye] Getting the album cover
+2021-06-04 19:19:37,307 - [INFO] [Maroon 5 - Sweetest Goodbye] Downloading the track
+2021-06-04 19:19:37,525 - [INFO] [Maroon 5 - Sweetest Goodbye] downloading 10832456 bytes
+2021-06-04 19:19:43,086 - [INFO] [Maroon 5 - Sunday Morning] Applying tags to the track
+2021-06-04 19:19:43,102 - [INFO] [Maroon 5 - Sunday Morning] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD1/08 - Sunday Morning.mp3
+2021-06-04 19:19:43,109 - [INFO] [Maroon 5 - Harder To Breathe] Getting the tags
+2021-06-04 19:19:46,046 - [INFO] [Maroon 5 - Sweetest Goodbye] Applying tags to the track
+2021-06-04 19:19:46,063 - [INFO] [Maroon 5 - Sweetest Goodbye] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD1/12 - Sweetest Goodbye.mp3
+2021-06-04 19:19:46,065 - [INFO] [Maroon 5 - This Love] Getting the tags
+2021-06-04 19:20:00,129 - [INFO] [Maroon 5 - Not Coming Home] Getting the album cover
+2021-06-04 19:20:00,130 - [INFO] [Maroon 5 - Not Coming Home] Downloading the track
+2021-06-04 19:20:00,325 - [INFO] [Maroon 5 - Not Coming Home] downloading 10452113 bytes
+2021-06-04 19:20:06,265 - [INFO] [Maroon 5 - Not Coming Home] Applying tags to the track
+2021-06-04 19:20:06,276 - [INFO] [Maroon 5 - Not Coming Home] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD1/11 - Not Coming Home.mp3
+2021-06-04 19:20:06,277 - [INFO] [Maroon 5 - Shiver] Getting the tags
+2021-06-04 19:20:08,594 - [INFO] [Maroon 5 - Shiver (Demo)] Getting the album cover
+2021-06-04 19:20:08,595 - [INFO] [Maroon 5 - Shiver (Demo)] Downloading the track
+2021-06-04 19:20:08,789 - [INFO] [Maroon 5 - Shiver (Demo)] downloading 7553566 bytes
+2021-06-04 19:20:12,789 - [INFO] [Maroon 5 - Shiver (Demo)] Applying tags to the track
+2021-06-04 19:20:12,802 - [INFO] [Maroon 5 - Shiver (Demo)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/03 - Shiver (Demo).mp3
+2021-06-04 19:20:12,803 - [INFO] [Maroon 5 - She Will Be Loved] Getting the tags
+2021-06-04 19:20:15,332 - [INFO] [Maroon 5 - She Will Be Loved (Demo)] Getting the album cover
+2021-06-04 19:20:15,333 - [INFO] [Maroon 5 - She Will Be Loved (Demo)] Downloading the track
+2021-06-04 19:20:15,620 - [INFO] [Maroon 5 - She Will Be Loved (Demo)] downloading 7558791 bytes
+2021-06-04 19:20:18,109 - [INFO] [Maroon 5 - Harder To Breathe (Demo)] Getting the album cover
+2021-06-04 19:20:18,110 - [INFO] [Maroon 5 - Harder To Breathe (Demo)] Downloading the track
+2021-06-04 19:20:18,482 - [INFO] [Maroon 5 - Harder To Breathe (Demo)] downloading 5509746 bytes
+2021-06-04 19:20:20,709 - [INFO] [Maroon 5 - This Love (Demo)] Getting the album cover
+2021-06-04 19:20:20,710 - [INFO] [Maroon 5 - This Love (Demo)] Downloading the track
+2021-06-04 19:20:21,199 - [INFO] [Maroon 5 - This Love (Demo)] downloading 8077060 bytes
+2021-06-04 19:20:21,784 - [INFO] [Maroon 5 - She Will Be Loved (Demo)] Applying tags to the track
+2021-06-04 19:20:21,794 - [INFO] [Maroon 5 - She Will Be Loved (Demo)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/04 - She Will Be Loved (Demo).mp3
+2021-06-04 19:20:21,795 - [INFO] [Maroon 5 - Tangled] Getting the tags
+2021-06-04 19:20:24,200 - [INFO] [Maroon 5 - Harder To Breathe (Demo)] Applying tags to the track
+2021-06-04 19:20:24,211 - [INFO] [Maroon 5 - Harder To Breathe (Demo)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/01 - Harder To Breathe (Demo).mp3
+2021-06-04 19:20:24,214 - [INFO] [Maroon 5 - The Sun] Getting the tags
+2021-06-04 19:20:29,281 - [INFO] [Maroon 5 - Tangled (Demo)] Getting the album cover
+2021-06-04 19:20:29,282 - [INFO] [Maroon 5 - Tangled (Demo)] Downloading the track
+2021-06-04 19:20:30,170 - [INFO] [Maroon 5 - Tangled (Demo)] downloading 6578676 bytes
+2021-06-04 19:20:30,442 - [INFO] [Maroon 5 - This Love (Demo)] Applying tags to the track
+2021-06-04 19:20:30,457 - [INFO] [Maroon 5 - This Love (Demo)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/02 - This Love (Demo).mp3
+2021-06-04 19:20:30,461 - [INFO] [Maroon 5 - Must Get Out] Getting the tags
+2021-06-04 19:20:32,538 - [INFO] [Maroon 5 - Must Get Out (Demo)] Getting the album cover
+2021-06-04 19:20:32,539 - [INFO] [Maroon 5 - Must Get Out (Demo)] Downloading the track
+2021-06-04 19:20:32,762 - [INFO] [Maroon 5 - Must Get Out (Demo)] downloading 7901517 bytes
+2021-06-04 19:20:34,354 - [INFO] [Maroon 5 - Tangled (Demo)] Applying tags to the track
+2021-06-04 19:20:34,364 - [INFO] [Maroon 5 - Tangled (Demo)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/05 - Tangled (Demo).mp3
+2021-06-04 19:20:34,368 - [INFO] [Maroon 5 - Sunday Morning] Getting the tags
+2021-06-04 19:20:38,237 - [INFO] [Maroon 5 - Must Get Out (Demo)] Applying tags to the track
+2021-06-04 19:20:38,245 - [INFO] [Maroon 5 - Must Get Out (Demo)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/07 - Must Get Out (Demo).mp3
+2021-06-04 19:20:38,246 - [INFO] [Maroon 5 - Secret] Getting the tags
+2021-06-04 19:20:39,230 - [INFO] [Maroon 5 - Sunday Morning (Demo)] Getting the album cover
+2021-06-04 19:20:39,231 - [INFO] [Maroon 5 - Sunday Morning (Demo)] Downloading the track
+2021-06-04 19:20:39,425 - [INFO] [Maroon 5 - Sunday Morning (Demo)] downloading 10086399 bytes
+2021-06-04 19:20:40,506 - [INFO] [Maroon 5 - Secret (Demo)] Getting the album cover
+2021-06-04 19:20:40,507 - [INFO] [Maroon 5 - Secret (Demo)] Downloading the track
+2021-06-04 19:20:40,734 - [INFO] [Maroon 5 - Secret (Demo)] downloading 9989223 bytes
+2021-06-04 19:20:50,568 - [INFO] [Maroon 5 - Sunday Morning (Demo)] Applying tags to the track
+2021-06-04 19:20:50,584 - [INFO] [Maroon 5 - Sunday Morning (Demo)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/08 - Sunday Morning (Demo).mp3
+2021-06-04 19:20:50,588 - [INFO] [Maroon 5 - Through With You] Getting the tags
+2021-06-04 19:20:50,636 - [INFO] [Maroon 5 - Secret (Demo)] Applying tags to the track
+2021-06-04 19:20:50,648 - [INFO] [Maroon 5 - Secret (Demo)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/09 - Secret (Demo).mp3
+2021-06-04 19:20:50,649 - [INFO] [Maroon 5 - Not Coming Home] Getting the tags
+2021-06-04 19:20:52,192 - [INFO] [Maroon 5 - The Sun (Demo)] Getting the album cover
+2021-06-04 19:20:52,193 - [INFO] [Maroon 5 - The Sun (Demo)] Downloading the track
+2021-06-04 19:20:52,836 - [INFO] [Maroon 5 - Not Coming Home (Demo)] Getting the album cover
+2021-06-04 19:20:52,836 - [INFO] [Maroon 5 - Not Coming Home (Demo)] Downloading the track
+2021-06-04 19:20:53,279 - [INFO] [Maroon 5 - Not Coming Home (Demo)] downloading 9254660 bytes
+2021-06-04 19:20:57,108 - [INFO] [Maroon 5 - The Sun (Demo)] downloading 8107362 bytes
+2021-06-04 19:20:59,356 - [INFO] [Maroon 5 - Not Coming Home (Demo)] Applying tags to the track
+2021-06-04 19:20:59,365 - [INFO] [Maroon 5 - Not Coming Home (Demo)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/11 - Not Coming Home (Demo).mp3
+2021-06-04 19:20:59,367 - [INFO] [Maroon 5 - Sweetest Goodbye] Getting the tags
+2021-06-04 19:21:02,114 - [INFO] [Maroon 5 - Sweetest Goodbye (Demo)] Getting the album cover
+2021-06-04 19:21:02,114 - [INFO] [Maroon 5 - Sweetest Goodbye (Demo)] Downloading the track
+2021-06-04 19:21:03,373 - [INFO] [Maroon 5 - The Sun (Demo)] Applying tags to the track
+2021-06-04 19:21:03,385 - [INFO] [Maroon 5 - The Sun (Demo)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/06 - The Sun (Demo).mp3
+2021-06-04 19:21:03,386 - [INFO] [Maroon 5 - Take What You Want] Getting the tags
+2021-06-04 19:21:03,422 - [INFO] [Maroon 5 - Sweetest Goodbye (Demo)] downloading 8420831 bytes
+2021-06-04 19:21:05,455 - [INFO] [Maroon 5 - Take What You Want (Demo)] Getting the album cover
+2021-06-04 19:21:05,457 - [INFO] [Maroon 5 - Take What You Want (Demo)] Downloading the track
+2021-06-04 19:21:05,662 - [INFO] [Maroon 5 - Take What You Want (Demo)] downloading 5805452 bytes
+2021-06-04 19:21:11,294 - [INFO] [Maroon 5 - Take What You Want (Demo)] Applying tags to the track
+2021-06-04 19:21:11,301 - [INFO] [Maroon 5 - Take What You Want (Demo)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/13 - Take What You Want (Demo).mp3
+2021-06-04 19:21:11,304 - [INFO] [Maroon 5 - Ragdoll] Getting the tags
+2021-06-04 19:21:12,044 - [INFO] [Maroon 5 - Sweetest Goodbye (Demo)] Applying tags to the track
+2021-06-04 19:21:12,055 - [INFO] [Maroon 5 - Sweetest Goodbye (Demo)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/12 - Sweetest Goodbye (Demo).mp3
+2021-06-04 19:21:12,056 - [INFO] [Maroon 5 - Woman] Getting the tags
+2021-06-04 19:21:13,764 - [INFO] [Maroon 5 - Ragdoll (Original Demo/Non-LP International B-Side)] Getting the album cover
+2021-06-04 19:21:13,764 - [INFO] [Maroon 5 - Ragdoll (Original Demo/Non-LP International B-Side)] Downloading the track
+2021-06-04 19:21:13,960 - [INFO] [Maroon 5 - Ragdoll (Original Demo/Non-LP International B-Side)] downloading 13150040 bytes
+2021-06-04 19:21:19,189 - [INFO] [Maroon 5 - Woman (Demo)] Getting the album cover
+2021-06-04 19:21:19,189 - [INFO] [Maroon 5 - Woman (Demo)] Downloading the track
+2021-06-04 19:21:20,103 - [INFO] [Maroon 5 - Woman (Demo)] downloading 9851297 bytes
+2021-06-04 19:21:21,815 - [INFO] [Maroon 5 - Ragdoll (Original Demo/Non-LP International B-Side)] Applying tags to the track
+2021-06-04 19:21:21,828 - [INFO] [Maroon 5 - Ragdoll (Original Demo/Non-LP International B-Side)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/14 - Ragdoll (Original Demo_Non-LP International B-Side).mp3
+2021-06-04 19:21:21,831 - [INFO] [Maroon 5 - Chilly Winter] Getting the tags
+2021-06-04 19:21:26,181 - [INFO] [Maroon 5 - Woman (Demo)] Applying tags to the track
+2021-06-04 19:21:26,195 - [INFO] [Maroon 5 - Woman (Demo)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/15 - Woman (Demo).mp3
+2021-06-04 19:21:26,196 - [INFO] [Maroon 5 - The Sun] Getting the tags
+2021-06-04 19:21:28,322 - [INFO] [Maroon 5 - The Sun (Alternate Mix)] Getting the album cover
+2021-06-04 19:21:28,323 - [INFO] [Maroon 5 - The Sun (Alternate Mix)] Downloading the track
+2021-06-04 19:21:28,535 - [INFO] [Maroon 5 - The Sun (Alternate Mix)] downloading 10270301 bytes
+2021-06-04 19:21:33,864 - [INFO] [Maroon 5 - The Sun (Alternate Mix)] Applying tags to the track
+2021-06-04 19:21:33,876 - [INFO] [Maroon 5 - The Sun (Alternate Mix)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/17 - The Sun (Alternate Mix).mp3
+2021-06-04 19:21:56,527 - [INFO] [Maroon 5 - Chilly Winter (Demo)] Getting the album cover
+2021-06-04 19:21:56,528 - [INFO] [Maroon 5 - Chilly Winter (Demo)] Downloading the track
+2021-06-04 19:21:56,785 - [INFO] [Maroon 5 - Chilly Winter (Demo)] downloading 7007084 bytes
+2021-06-04 19:22:00,887 - [INFO] [Maroon 5 - Chilly Winter (Demo)] Applying tags to the track
+2021-06-04 19:22:00,897 - [INFO] [Maroon 5 - Chilly Winter (Demo)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/16 - Chilly Winter (Demo).mp3
+2021-06-04 19:22:34,842 - [INFO] [Maroon 5 - Through With You (Demo)] Getting the album cover
+2021-06-04 19:22:34,843 - [INFO] [Maroon 5 - Through With You (Demo)] Downloading the track
+2021-06-04 19:22:35,583 - [INFO] [Maroon 5 - Through With You (Demo)] downloading 8036309 bytes
+2021-06-04 19:22:39,995 - [INFO] [Maroon 5 - Through With You (Demo)] Applying tags to the track
+2021-06-04 19:22:40,006 - [INFO] [Maroon 5 - Through With You (Demo)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Songs About Jane_ 10th Anniversary Edition/CD2/10 - Through With You (Demo).mp3
+2021-06-04 19:22:40,634 - [INFO] [album_3227271_3] Finished downloading.
+2021-06-04 19:22:40,634 - [INFO] [album_4361011_3] Started downloading.
+2021-06-04 19:22:40,635 - [INFO] [Maroon 5 - One More Night] Getting the tags
+2021-06-04 19:22:40,638 - [INFO] [Maroon 5 - Payphone] Getting the tags
+2021-06-04 19:22:40,640 - [INFO] [Maroon 5 - Daylight] Getting the tags
+2021-06-04 19:22:43,037 - [INFO] [Maroon 5 - One More Night] Getting the album cover
+2021-06-04 19:22:43,289 - [INFO] [Maroon 5 - One More Night] Downloading the track
+2021-06-04 19:22:43,567 - [INFO] [Maroon 5 - One More Night] downloading 8781321 bytes
+2021-06-04 19:22:47,369 - [INFO] [Maroon 5 - Payphone] Getting the album cover
+2021-06-04 19:22:47,370 - [INFO] [Maroon 5 - Payphone] Downloading the track
+2021-06-04 19:22:48,194 - [INFO] [Maroon 5 - Payphone] downloading 9257795 bytes
+2021-06-04 19:22:48,684 - [INFO] [Maroon 5 - One More Night] Applying tags to the track
+2021-06-04 19:22:48,698 - [INFO] [Maroon 5 - One More Night] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/01 - One More Night.mp3
+2021-06-04 19:22:48,703 - [INFO] [Maroon 5 - Lucky Strike] Getting the tags
+2021-06-04 19:22:50,239 - [INFO] [Maroon 5 - Daylight] Getting the album cover
+2021-06-04 19:22:50,240 - [INFO] [Maroon 5 - Daylight] Downloading the track
+2021-06-04 19:22:51,343 - [INFO] [Maroon 5 - Lucky Strike] Getting the album cover
+2021-06-04 19:22:51,344 - [INFO] [Maroon 5 - Lucky Strike] Downloading the track
+2021-06-04 19:22:51,566 - [INFO] [Maroon 5 - Lucky Strike] downloading 7413550 bytes
+2021-06-04 19:22:55,255 - [INFO] [Maroon 5 - Payphone] Applying tags to the track
+2021-06-04 19:22:55,268 - [INFO] [Maroon 5 - Payphone] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/02 - Payphone.mp3
+2021-06-04 19:22:55,274 - [INFO] [Maroon 5 - The Man Who Never Lied] Getting the tags
+2021-06-04 19:22:55,924 - [INFO] [Maroon 5 - Daylight] downloading 9018513 bytes
+2021-06-04 19:22:58,086 - [INFO] [Maroon 5 - The Man Who Never Lied] Getting the album cover
+2021-06-04 19:22:58,086 - [INFO] [Maroon 5 - The Man Who Never Lied] Downloading the track
+2021-06-04 19:22:58,271 - [INFO] [Maroon 5 - Lucky Strike] Applying tags to the track
+2021-06-04 19:22:58,284 - [INFO] [Maroon 5 - Lucky Strike] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/04 - Lucky Strike.mp3
+2021-06-04 19:22:58,288 - [INFO] [Maroon 5 - Love Somebody] Getting the tags
+2021-06-04 19:22:58,389 - [INFO] [Maroon 5 - The Man Who Never Lied] downloading 8210807 bytes
+2021-06-04 19:23:00,855 - [INFO] [Maroon 5 - Love Somebody] Getting the album cover
+2021-06-04 19:23:00,856 - [INFO] [Maroon 5 - Love Somebody] Downloading the track
+2021-06-04 19:23:01,235 - [INFO] [Maroon 5 - Love Somebody] downloading 9196146 bytes
+2021-06-04 19:23:10,613 - [INFO] [Maroon 5 - Daylight] Applying tags to the track
+2021-06-04 19:23:10,629 - [INFO] [Maroon 5 - Daylight] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/03 - Daylight.mp3
+2021-06-04 19:23:10,633 - [INFO] [Maroon 5 - Ladykiller] Getting the tags
+2021-06-04 19:23:14,698 - [INFO] [Maroon 5 - Ladykiller] Getting the album cover
+2021-06-04 19:23:14,699 - [INFO] [Maroon 5 - Ladykiller] Downloading the track
+2021-06-04 19:23:14,884 - [INFO] [Maroon 5 - Ladykiller] downloading 6561958 bytes
+2021-06-04 19:23:15,803 - [INFO] [Maroon 5 - The Man Who Never Lied] Applying tags to the track
+2021-06-04 19:23:15,813 - [INFO] [Maroon 5 - The Man Who Never Lied] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/05 - The Man Who Never Lied.mp3
+2021-06-04 19:23:15,816 - [INFO] [Maroon 5 - Fortune Teller] Getting the tags
+2021-06-04 19:23:17,773 - [INFO] [Maroon 5 - Love Somebody] Applying tags to the track
+2021-06-04 19:23:17,782 - [INFO] [Maroon 5 - Love Somebody] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/06 - Love Somebody.mp3
+2021-06-04 19:23:17,784 - [INFO] [Maroon 5 - Sad] Getting the tags
+2021-06-04 19:23:18,567 - [INFO] [Maroon 5 - Fortune Teller] Getting the album cover
+2021-06-04 19:23:18,567 - [INFO] [Maroon 5 - Fortune Teller] Downloading the track
+2021-06-04 19:23:19,104 - [INFO] [Maroon 5 - Fortune Teller] downloading 8140799 bytes
+2021-06-04 19:23:19,836 - [INFO] [Maroon 5 - Sad] Getting the album cover
+2021-06-04 19:23:19,837 - [INFO] [Maroon 5 - Sad] Downloading the track
+2021-06-04 19:23:20,052 - [INFO] [Maroon 5 - Sad] downloading 7772995 bytes
+2021-06-04 19:23:24,050 - [INFO] [Maroon 5 - Ladykiller] Applying tags to the track
+2021-06-04 19:23:24,060 - [INFO] [Maroon 5 - Ladykiller] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/07 - Ladykiller.mp3
+2021-06-04 19:23:24,063 - [INFO] [Maroon 5 - Tickets] Getting the tags
+2021-06-04 19:23:26,978 - [INFO] [Maroon 5 - Tickets (Explicit Version)] Getting the album cover
+2021-06-04 19:23:26,979 - [INFO] [Maroon 5 - Tickets (Explicit Version)] Downloading the track
+2021-06-04 19:23:27,269 - [INFO] [Maroon 5 - Tickets (Explicit Version)] downloading 8363362 bytes
+2021-06-04 19:23:30,207 - [INFO] [Maroon 5 - Sad] Applying tags to the track
+2021-06-04 19:23:30,221 - [INFO] [Maroon 5 - Sad] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/09 - Sad.mp3
+2021-06-04 19:23:30,225 - [INFO] [Maroon 5 - Doin’ Dirt] Getting the tags
+2021-06-04 19:23:31,051 - [INFO] [Maroon 5 - Fortune Teller] Applying tags to the track
+2021-06-04 19:23:31,063 - [INFO] [Maroon 5 - Fortune Teller] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/08 - Fortune Teller.mp3
+2021-06-04 19:23:31,064 - [INFO] [Maroon 5 - Beautiful Goodbye] Getting the tags
+2021-06-04 19:23:32,875 - [INFO] [Maroon 5 - Doin’ Dirt] Getting the album cover
+2021-06-04 19:23:32,875 - [INFO] [Maroon 5 - Doin’ Dirt] Downloading the track
+2021-06-04 19:23:33,184 - [INFO] [Maroon 5 - Doin’ Dirt] downloading 8459493 bytes
+2021-06-04 19:23:36,367 - [INFO] [Maroon 5 - Tickets (Explicit Version)] Applying tags to the track
+2021-06-04 19:23:36,381 - [INFO] [Maroon 5 - Tickets (Explicit Version)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/10 - Tickets (Explicit Version).mp3
+2021-06-04 19:23:36,384 - [INFO] [Maroon 5 - Wipe Your Eyes] Getting the tags
+2021-06-04 19:23:39,880 - [INFO] [Maroon 5 - Doin’ Dirt] Applying tags to the track
+2021-06-04 19:23:39,890 - [INFO] [Maroon 5 - Doin’ Dirt] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/11 - Doin’ Dirt.mp3
+2021-06-04 19:23:39,891 - [INFO] [Maroon 5 - Wasted Years] Getting the tags
+2021-06-04 19:23:42,260 - [INFO] [Maroon 5 - Wasted Years (Explicit Version)] Getting the album cover
+2021-06-04 19:23:42,261 - [INFO] [Maroon 5 - Wasted Years (Explicit Version)] Downloading the track
+2021-06-04 19:23:42,533 - [INFO] [Maroon 5 - Wasted Years (Explicit Version)] downloading 8509648 bytes
+2021-06-04 19:23:47,154 - [INFO] [Maroon 5 - Wasted Years (Explicit Version)] Applying tags to the track
+2021-06-04 19:23:47,170 - [INFO] [Maroon 5 - Wasted Years (Explicit Version)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/14 - Wasted Years (Explicit Version).mp3
+2021-06-04 19:23:47,171 - [INFO] [Maroon 5 - Let’s Stay Together] Getting the tags
+2021-06-04 19:23:56,886 - [INFO] [Maroon 5 - Let’s Stay Together] Getting the album cover
+2021-06-04 19:23:56,887 - [INFO] [Maroon 5 - Let’s Stay Together] Downloading the track
+2021-06-04 19:23:57,093 - [INFO] [Maroon 5 - Let’s Stay Together] downloading 8157517 bytes
+2021-06-04 19:24:01,681 - [INFO] [Maroon 5 - Let’s Stay Together] Applying tags to the track
+2021-06-04 19:24:01,694 - [INFO] [Maroon 5 - Let’s Stay Together] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/15 - Let’s Stay Together.mp3
+2021-06-04 19:24:01,695 - [INFO] [Maroon 5 - Moves Like Jagger] Getting the tags
+2021-06-04 19:24:03,985 - [INFO] [Maroon 5 - Moves Like Jagger (Studio Recording From The Voice Performance)] Getting the album cover
+2021-06-04 19:24:03,986 - [INFO] [Maroon 5 - Moves Like Jagger (Studio Recording From The Voice Performance)] Downloading the track
+2021-06-04 19:24:05,385 - [INFO] [Maroon 5 - Beautiful Goodbye] Getting the album cover
+2021-06-04 19:24:05,386 - [INFO] [Maroon 5 - Beautiful Goodbye] Downloading the track
+2021-06-04 19:24:05,603 - [INFO] [Maroon 5 - Beautiful Goodbye] downloading 10212831 bytes
+2021-06-04 19:24:11,552 - [INFO] [Maroon 5 - Beautiful Goodbye] Applying tags to the track
+2021-06-04 19:24:11,565 - [INFO] [Maroon 5 - Beautiful Goodbye] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/12 - Beautiful Goodbye.mp3
+2021-06-04 19:24:11,567 - [INFO] [Maroon 5 - Payphone] Getting the tags
+2021-06-04 19:24:11,618 - [INFO] [Maroon 5 - Moves Like Jagger (Studio Recording From The Voice Performance)] downloading 8064521 bytes
+2021-06-04 19:24:15,665 - [INFO] [Maroon 5 - Wipe Your Eyes] Getting the album cover
+2021-06-04 19:24:15,666 - [INFO] [Maroon 5 - Wipe Your Eyes] Downloading the track
+2021-06-04 19:24:16,063 - [INFO] [Maroon 5 - Moves Like Jagger (Studio Recording From The Voice Performance)] Applying tags to the track
+2021-06-04 19:24:16,077 - [INFO] [Maroon 5 - Moves Like Jagger (Studio Recording From The Voice Performance)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/16 - Moves Like Jagger (Studio Recording From The Voice Performance).mp3
+2021-06-04 19:24:16,078 - [INFO] [Maroon 5 - Payphone] Getting the tags
+2021-06-04 19:24:21,376 - [INFO] [Maroon 5 - Wipe Your Eyes] downloading 8596374 bytes
+2021-06-04 19:24:26,439 - [INFO] [Maroon 5 - Wipe Your Eyes] Applying tags to the track
+2021-06-04 19:24:26,451 - [INFO] [Maroon 5 - Wipe Your Eyes] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/13 - Wipe Your Eyes.mp3
+2021-06-04 19:24:45,776 - [INFO] [Maroon 5 - Payphone (Supreme Cuts Remix)] Getting the album cover
+2021-06-04 19:24:45,777 - [INFO] [Maroon 5 - Payphone (Supreme Cuts Remix)] Downloading the track
+2021-06-04 19:24:46,106 - [INFO] [Maroon 5 - Payphone (Supreme Cuts Remix)] downloading 11243101 bytes
+2021-06-04 19:24:50,174 - [INFO] [Maroon 5 - Payphone (Cutmore Remix)] Getting the album cover
+2021-06-04 19:24:50,175 - [INFO] [Maroon 5 - Payphone (Cutmore Remix)] Downloading the track
+2021-06-04 19:24:50,585 - [INFO] [Maroon 5 - Payphone (Cutmore Remix)] downloading 7668505 bytes
+2021-06-04 19:24:54,338 - [INFO] [Maroon 5 - Payphone (Supreme Cuts Remix)] Applying tags to the track
+2021-06-04 19:24:54,355 - [INFO] [Maroon 5 - Payphone (Supreme Cuts Remix)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/17 - Payphone (Supreme Cuts Remix).mp3
+2021-06-04 19:24:56,825 - [INFO] [Maroon 5 - Payphone (Cutmore Remix)] Applying tags to the track
+2021-06-04 19:24:56,839 - [INFO] [Maroon 5 - Payphone (Cutmore Remix)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Overexposed/18 - Payphone (Cutmore Remix).mp3
+2021-06-04 19:24:57,390 - [INFO] [album_4361011_3] Finished downloading.
+2021-06-04 19:24:57,391 - [INFO] [album_1167403_3] Started downloading.
+2021-06-04 19:24:57,392 - [INFO] [Maroon 5 - Misery] Getting the tags
+2021-06-04 19:24:57,397 - [INFO] [Maroon 5 - Give A Little More] Getting the tags
+2021-06-04 19:24:57,405 - [INFO] [Maroon 5 - Stutter] Getting the tags
+2021-06-04 19:24:59,416 - [INFO] [Maroon 5 - Give A Little More] Getting the album cover
+2021-06-04 19:24:59,723 - [INFO] [Maroon 5 - Give A Little More] Downloading the track
+2021-06-04 19:24:59,738 - [INFO] [Maroon 5 - Misery] Getting the album cover
+2021-06-04 19:24:59,738 - [INFO] [Maroon 5 - Misery] Downloading the track
+2021-06-04 19:24:59,919 - [INFO] [Maroon 5 - Misery] downloading 8650709 bytes
+2021-06-04 19:24:59,993 - [INFO] [Maroon 5 - Give A Little More] downloading 7213974 bytes
+2021-06-04 19:25:08,416 - [INFO] [Maroon 5 - Give A Little More] Applying tags to the track
+2021-06-04 19:25:08,426 - [INFO] [Maroon 5 - Give A Little More] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/02 - Give A Little More.mp3
+2021-06-04 19:25:08,427 - [INFO] [Maroon 5 - Don't Know Nothing] Getting the tags
+2021-06-04 19:25:09,062 - [INFO] [Maroon 5 - Misery] Applying tags to the track
+2021-06-04 19:25:09,077 - [INFO] [Maroon 5 - Misery] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/01 - Misery.mp3
+2021-06-04 19:25:09,078 - [INFO] [Maroon 5 - Never Gonna Leave This Bed] Getting the tags
+2021-06-04 19:25:11,147 - [INFO] [Maroon 5 - Never Gonna Leave This Bed] Getting the album cover
+2021-06-04 19:25:11,148 - [INFO] [Maroon 5 - Never Gonna Leave This Bed] Downloading the track
+2021-06-04 19:25:11,334 - [INFO] [Maroon 5 - Never Gonna Leave This Bed] downloading 7871215 bytes
+2021-06-04 19:25:16,002 - [INFO] [Maroon 5 - Never Gonna Leave This Bed] Applying tags to the track
+2021-06-04 19:25:16,014 - [INFO] [Maroon 5 - Never Gonna Leave This Bed] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/05 - Never Gonna Leave This Bed.mp3
+2021-06-04 19:25:16,015 - [INFO] [Maroon 5 - I Can't Lie] Getting the tags
+2021-06-04 19:25:18,617 - [INFO] [Maroon 5 - I Can't Lie] Getting the album cover
+2021-06-04 19:25:18,618 - [INFO] [Maroon 5 - I Can't Lie] Downloading the track
+2021-06-04 19:25:19,011 - [INFO] [Maroon 5 - I Can't Lie] downloading 8450088 bytes
+2021-06-04 19:25:19,079 - [INFO] [Maroon 5 - Stutter] Getting the album cover
+2021-06-04 19:25:19,080 - [INFO] [Maroon 5 - Stutter] Downloading the track
+2021-06-04 19:25:19,265 - [INFO] [Maroon 5 - Stutter] downloading 7879574 bytes
+2021-06-04 19:25:27,048 - [INFO] [Maroon 5 - I Can't Lie] Applying tags to the track
+2021-06-04 19:25:27,060 - [INFO] [Maroon 5 - I Can't Lie] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/06 - I Can't Lie.mp3
+2021-06-04 19:25:27,061 - [INFO] [Maroon 5 - Hands All Over] Getting the tags
+2021-06-04 19:25:28,637 - [INFO] [Maroon 5 - Stutter] Applying tags to the track
+2021-06-04 19:25:28,647 - [INFO] [Maroon 5 - Stutter] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/03 - Stutter.mp3
+2021-06-04 19:25:28,648 - [INFO] [Maroon 5 - How] Getting the tags
+2021-06-04 19:25:29,860 - [INFO] [Maroon 5 - Hands All Over] Getting the album cover
+2021-06-04 19:25:29,861 - [INFO] [Maroon 5 - Hands All Over] Downloading the track
+2021-06-04 19:25:30,137 - [INFO] [Maroon 5 - Hands All Over] downloading 7716570 bytes
+2021-06-04 19:25:31,019 - [INFO] [Maroon 5 - How] Getting the album cover
+2021-06-04 19:25:31,020 - [INFO] [Maroon 5 - How] Downloading the track
+2021-06-04 19:25:31,233 - [INFO] [Maroon 5 - How] downloading 8666382 bytes
+2021-06-04 19:25:38,180 - [INFO] [Maroon 5 - Hands All Over] Applying tags to the track
+2021-06-04 19:25:38,193 - [INFO] [Maroon 5 - Hands All Over] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/07 - Hands All Over.mp3
+2021-06-04 19:25:38,196 - [INFO] [Maroon 5 - Get Back In My Life] Getting the tags
+2021-06-04 19:25:39,637 - [INFO] [Maroon 5 - How] Applying tags to the track
+2021-06-04 19:25:39,649 - [INFO] [Maroon 5 - How] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/08 - How.mp3
+2021-06-04 19:25:39,656 - [INFO] [Maroon 5 - Just A Feeling] Getting the tags
+2021-06-04 19:25:40,840 - [INFO] [Maroon 5 - Get Back In My Life] Getting the album cover
+2021-06-04 19:25:40,840 - [INFO] [Maroon 5 - Get Back In My Life] Downloading the track
+2021-06-04 19:25:41,034 - [INFO] [Maroon 5 - Get Back In My Life] downloading 8718627 bytes
+2021-06-04 19:25:43,250 - [INFO] [Maroon 5 - Don't Know Nothing] Getting the album cover
+2021-06-04 19:25:43,251 - [INFO] [Maroon 5 - Don't Know Nothing] Downloading the track
+2021-06-04 19:25:43,573 - [INFO] [Maroon 5 - Don't Know Nothing] downloading 7965256 bytes
+2021-06-04 19:25:47,680 - [INFO] [Maroon 5 - Get Back In My Life] Applying tags to the track
+2021-06-04 19:25:47,693 - [INFO] [Maroon 5 - Get Back In My Life] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/09 - Get Back In My Life.mp3
+2021-06-04 19:25:47,697 - [INFO] [Maroon 5 - Runaway] Getting the tags
+2021-06-04 19:25:50,094 - [INFO] [Maroon 5 - Don't Know Nothing] Applying tags to the track
+2021-06-04 19:25:50,109 - [INFO] [Maroon 5 - Don't Know Nothing] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/04 - Don't Know Nothing.mp3
+2021-06-04 19:25:50,110 - [INFO] [Maroon 5 - Out Of Goodbyes With Lady Antebellum] Getting the tags
+2021-06-04 19:25:50,904 - [INFO] [Maroon 5 - Runaway] Getting the album cover
+2021-06-04 19:25:50,905 - [INFO] [Maroon 5 - Runaway] Downloading the track
+2021-06-04 19:25:51,105 - [INFO] [Maroon 5 - Runaway] downloading 7250546 bytes
+2021-06-04 19:25:55,221 - [INFO] [Maroon 5 - Runaway] Applying tags to the track
+2021-06-04 19:25:55,234 - [INFO] [Maroon 5 - Runaway] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/11 - Runaway.mp3
+2021-06-04 19:25:55,235 - [INFO] [Maroon 5 - Moves Like Jagger] Getting the tags
+2021-06-04 19:25:57,206 - [INFO] [Maroon 5 - Out Of Goodbyes With Lady Antebellum] Getting the album cover
+2021-06-04 19:25:57,207 - [INFO] [Maroon 5 - Out Of Goodbyes With Lady Antebellum] Downloading the track
+2021-06-04 19:25:57,858 - [INFO] [Maroon 5 - Out Of Goodbyes With Lady Antebellum] downloading 7867035 bytes
+2021-06-04 19:25:58,184 - [INFO] [Maroon 5 - Moves Like Jagger (Studio Recording From The Voice Performance)] Getting the album cover
+2021-06-04 19:25:58,185 - [INFO] [Maroon 5 - Moves Like Jagger (Studio Recording From The Voice Performance)] Downloading the track
+2021-06-04 19:25:58,372 - [INFO] [Maroon 5 - Moves Like Jagger (Studio Recording From The Voice Performance)] downloading 8053027 bytes
+2021-06-04 19:26:06,092 - [INFO] [Maroon 5 - Out Of Goodbyes With Lady Antebellum] Applying tags to the track
+2021-06-04 19:26:06,104 - [INFO] [Maroon 5 - Out Of Goodbyes With Lady Antebellum] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/12 - Out Of Goodbyes With Lady Antebellum.mp3
+2021-06-04 19:26:06,110 - [INFO] [Maroon 5 - Last Chance] Getting the tags
+2021-06-04 19:26:06,177 - [INFO] [Maroon 5 - Moves Like Jagger (Studio Recording From The Voice Performance)] Applying tags to the track
+2021-06-04 19:26:06,188 - [INFO] [Maroon 5 - Moves Like Jagger (Studio Recording From The Voice Performance)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/13 - Moves Like Jagger (Studio Recording From The Voice Performance).mp3
+2021-06-04 19:26:06,189 - [INFO] [Maroon 5 - No Curtain Call] Getting the tags
+2021-06-04 19:26:08,864 - [INFO] [Maroon 5 - Last Chance] Getting the album cover
+2021-06-04 19:26:08,865 - [INFO] [Maroon 5 - Last Chance] Downloading the track
+2021-06-04 19:26:09,057 - [INFO] [Maroon 5 - Last Chance] downloading 7600586 bytes
+2021-06-04 19:26:09,197 - [INFO] [Maroon 5 - No Curtain Call] Getting the album cover
+2021-06-04 19:26:09,198 - [INFO] [Maroon 5 - No Curtain Call] Downloading the track
+2021-06-04 19:26:09,585 - [INFO] [Maroon 5 - No Curtain Call] downloading 8991346 bytes
+2021-06-04 19:26:16,915 - [INFO] [Maroon 5 - Last Chance] Applying tags to the track
+2021-06-04 19:26:16,928 - [INFO] [Maroon 5 - Last Chance] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/14 - Last Chance.mp3
+2021-06-04 19:26:16,932 - [INFO] [Maroon 5 - Never Gonna Leave This Bed] Getting the tags
+2021-06-04 19:26:17,500 - [INFO] [Maroon 5 - No Curtain Call] Applying tags to the track
+2021-06-04 19:26:17,513 - [INFO] [Maroon 5 - No Curtain Call] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/15 - No Curtain Call.mp3
+2021-06-04 19:26:17,514 - [INFO] [Maroon 5 - Misery] Getting the tags
+2021-06-04 19:26:19,335 - [INFO] [Maroon 5 - Misery (Acoustic Version)] Getting the album cover
+2021-06-04 19:26:19,335 - [INFO] [Maroon 5 - Misery (Acoustic Version)] Downloading the track
+2021-06-04 19:26:19,608 - [INFO] [Maroon 5 - Misery (Acoustic Version)] downloading 9055084 bytes
+2021-06-04 19:26:20,524 - [INFO] [Maroon 5 - Never Gonna Leave This Bed (Acoustic Version)] Getting the album cover
+2021-06-04 19:26:20,525 - [INFO] [Maroon 5 - Never Gonna Leave This Bed (Acoustic Version)] Downloading the track
+2021-06-04 19:26:21,006 - [INFO] [Maroon 5 - Never Gonna Leave This Bed (Acoustic Version)] downloading 8095868 bytes
+2021-06-04 19:26:27,579 - [INFO] [Maroon 5 - Just A Feeling] Getting the album cover
+2021-06-04 19:26:27,580 - [INFO] [Maroon 5 - Just A Feeling] Downloading the track
+2021-06-04 19:26:27,663 - [INFO] [Maroon 5 - Misery (Acoustic Version)] Applying tags to the track
+2021-06-04 19:26:27,676 - [INFO] [Maroon 5 - Misery (Acoustic Version)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/17 - Misery (Acoustic Version).mp3
+2021-06-04 19:26:27,680 - [INFO] [Maroon 5 - If I Ain’t Got You] Getting the tags
+2021-06-04 19:26:27,808 - [INFO] [Maroon 5 - Just A Feeling] downloading 9062399 bytes
+2021-06-04 19:26:30,888 - [INFO] [Maroon 5 - If I Ain’t Got You (Live)] Getting the album cover
+2021-06-04 19:26:30,889 - [INFO] [Maroon 5 - If I Ain’t Got You (Live)] Downloading the track
+2021-06-04 19:26:31,270 - [INFO] [Maroon 5 - If I Ain’t Got You (Live)] downloading 9633958 bytes
+2021-06-04 19:26:31,314 - [INFO] [Maroon 5 - Never Gonna Leave This Bed (Acoustic Version)] Applying tags to the track
+2021-06-04 19:26:31,323 - [INFO] [Maroon 5 - Never Gonna Leave This Bed (Acoustic Version)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/16 - Never Gonna Leave This Bed (Acoustic Version).mp3
+2021-06-04 19:26:31,325 - [INFO] [Maroon 5 - Crazy Little Thing Called Love] Getting the tags
+2021-06-04 19:26:37,134 - [INFO] [Maroon 5 - Crazy Little Thing Called Love (Acoustic Version)] Getting the album cover
+2021-06-04 19:26:37,135 - [INFO] [Maroon 5 - Crazy Little Thing Called Love (Acoustic Version)] Downloading the track
+2021-06-04 19:26:37,321 - [INFO] [Maroon 5 - Crazy Little Thing Called Love (Acoustic Version)] downloading 7756276 bytes
+2021-06-04 19:26:40,131 - [INFO] [Maroon 5 - Just A Feeling] Applying tags to the track
+2021-06-04 19:26:40,145 - [INFO] [Maroon 5 - Just A Feeling] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/10 - Just A Feeling.mp3
+2021-06-04 19:26:41,125 - [INFO] [Maroon 5 - If I Ain’t Got You (Live)] Applying tags to the track
+2021-06-04 19:26:41,144 - [INFO] [Maroon 5 - If I Ain’t Got You (Live)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/18 - If I Ain’t Got You (Live).mp3
+2021-06-04 19:26:44,693 - [INFO] [Maroon 5 - Crazy Little Thing Called Love (Acoustic Version)] Applying tags to the track
+2021-06-04 19:26:44,703 - [INFO] [Maroon 5 - Crazy Little Thing Called Love (Acoustic Version)] Track download completed
+/home/sga/Music/deemix Music/Maroon 5/Maroon 5 - Hands All Over (Revised International Deluxe)/19 - Crazy Little Thing Called Love (Acoustic Version).mp3
+2021-06-04 19:26:44,914 - [INFO] [album_1167403_3] Finished downloading.
+2021-06-04 19:26:44,914 - [INFO] [track_1364016952_3] Started downloading.
+2021-06-04 19:26:44,915 - [INFO] [OneRepublic - Run] Getting the tags
+2021-06-04 19:26:46,688 - [INFO] [OneRepublic - Run] Getting the album cover
+2021-06-04 19:26:46,902 - [INFO] [OneRepublic - Run] Downloading the track
+2021-06-04 19:26:47,175 - [INFO] [OneRepublic - Run] downloading 6762578 bytes
+2021-06-04 19:26:50,980 - [INFO] [OneRepublic - Run] Applying tags to the track
+2021-06-04 19:26:50,991 - [INFO] [OneRepublic - Run] Track download completed
+/home/sga/Music/deemix Music/OneRepublic/OneRepublic - Run/01 - Run.mp3
+2021-06-04 19:26:51,186 - [INFO] [track_1364016952_3] Finished downloading.
+2021-06-04 19:26:51,186 - [INFO] [track_678694142_3] Started downloading.
+2021-06-04 19:26:51,186 - [INFO] [OneRepublic - Rescue Me] Getting the tags
+2021-06-04 19:26:54,244 - [INFO] [OneRepublic - Rescue Me] Getting the album cover
+2021-06-04 19:26:54,443 - [INFO] [OneRepublic - Rescue Me] Downloading the track
+2021-06-04 19:26:54,915 - [INFO] [OneRepublic - Rescue Me] downloading 6358203 bytes
+2021-06-04 19:26:58,877 - [INFO] [OneRepublic - Rescue Me] Applying tags to the track
+2021-06-04 19:26:58,886 - [INFO] [OneRepublic - Rescue Me] Track download completed
+/home/sga/Music/deemix Music/OneRepublic/OneRepublic - Rescue Me/01 - Rescue Me.mp3
+2021-06-04 19:27:20,510 - [INFO] [track_678694142_3] Finished downloading.
+2021-06-04 19:27:20,510 - [INFO] [track_898848072_3] Started downloading.
+2021-06-04 19:27:20,511 - [INFO] [OneRepublic - Didn't I] Getting the tags
+2021-06-04 19:27:22,596 - [INFO] [OneRepublic - Didn't I] Getting the album cover
+2021-06-04 19:27:22,741 - [INFO] [OneRepublic - Didn't I] Downloading the track
+2021-06-04 19:27:22,986 - [INFO] [OneRepublic - Didn't I] downloading 8306937 bytes
+2021-06-04 19:27:27,610 - [INFO] [OneRepublic - Didn't I] Applying tags to the track
+2021-06-04 19:27:27,623 - [INFO] [OneRepublic - Didn't I] Track download completed
+/home/sga/Music/deemix Music/OneRepublic/OneRepublic - Didn't I/01 - Didn't I.mp3
+2021-06-04 19:27:27,823 - [INFO] [track_898848072_3] Finished downloading.
+2021-06-04 19:27:27,824 - [INFO] [track_911807882_3] Started downloading.
+2021-06-04 19:27:27,824 - [INFO] [OneRepublic - Better Days] Getting the tags
+2021-06-04 19:27:30,229 - [INFO] [OneRepublic - Better Days] Getting the album cover
+2021-06-04 19:27:30,388 - [INFO] [OneRepublic - Better Days] Downloading the track
+2021-06-04 19:27:30,897 - [INFO] [OneRepublic - Better Days] downloading 5783509 bytes
+2021-06-04 19:27:34,120 - [INFO] [OneRepublic - Better Days] Applying tags to the track
+2021-06-04 19:27:34,129 - [INFO] [OneRepublic - Better Days] Track download completed
+/home/sga/Music/deemix Music/OneRepublic/OneRepublic - Better Days/01 - Better Days.mp3
+2021-06-04 19:27:34,352 - [INFO] [track_911807882_3] Finished downloading.
+2021-06-04 19:27:34,352 - [INFO] [track_951655282_3] Started downloading.
+2021-06-04 19:27:34,352 - [INFO] [Kygo - Lose Somebody] Getting the tags
+2021-06-04 19:28:01,674 - [INFO] [Kygo - Lose Somebody] Getting the album cover
+2021-06-04 19:28:01,877 - [INFO] [Kygo - Lose Somebody] Downloading the track
+2021-06-04 19:28:02,646 - [INFO] [Kygo - Lose Somebody] downloading 7984064 bytes
+2021-06-04 19:28:07,307 - [INFO] [Kygo - Lose Somebody] Applying tags to the track
+2021-06-04 19:28:07,319 - [INFO] [Kygo - Lose Somebody] Track download completed
+/home/sga/Music/deemix Music/Kygo/Kygo - Lose Somebody/01 - Lose Somebody.mp3
+2021-06-04 19:28:07,658 - [INFO] [track_951655282_3] Finished downloading.
+2021-06-04 19:28:07,659 - [INFO] [track_1087225322_3] Started downloading.
+2021-06-04 19:28:07,659 - [INFO] [OneRepublic - Wild Life] Getting the tags
+2021-06-04 19:28:09,046 - [INFO] [OneRepublic - Wild Life] Getting the album cover
+2021-06-04 19:28:09,377 - [INFO] [OneRepublic - Wild Life] Downloading the track
+2021-06-04 19:28:09,561 - [INFO] [OneRepublic - Wild Life] downloading 10687215 bytes
+2021-06-04 19:28:15,796 - [INFO] [OneRepublic - Wild Life] Applying tags to the track
+2021-06-04 19:28:15,807 - [INFO] [OneRepublic - Wild Life] Track download completed
+/home/sga/Music/deemix Music/OneRepublic/OneRepublic - Wild Life/01 - Wild Life.mp3
+2021-06-04 19:28:16,495 - [INFO] [track_1087225322_3] Finished downloading.
